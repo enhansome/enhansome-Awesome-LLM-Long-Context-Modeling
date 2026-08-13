@@ -1,0 +1,660 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📢 News"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "[2026.07.22]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-07T02:49:48Z",
+                "owner": "alexisfox7",
+                "repo": "PRO-LONG",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-06T21:00:00Z",
+                "owner": "pavelgolikov",
+                "repo": "ArbiGraph",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.20]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-31T06:50:09Z",
+                "owner": "AlayaLab",
+                "repo": "AlayaWorld",
+                "stars": 867
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.17]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-22T07:41:29Z",
+                "owner": "YilaiLiu-HKU",
+                "repo": "SlotMem",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.16]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-24T17:48:55Z",
+                "owner": "MindLab-Research",
+                "repo": "longstraw",
+                "stars": 44
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.13]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: LightMem-Ego: Your AI Memory for Everyday Life",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-28T02:19:29Z",
+                "owner": "zjunlp",
+                "repo": "LightMem-Ego",
+                "stars": 65
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Week Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "[2026.07.09]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-14T03:14:56Z",
+                "owner": "loversky02",
+                "repo": "promem-vn",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.08]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-10T09:49:27Z",
+                "owner": "tommasocerruti",
+                "repo": "linear-attention-architectures",
+                "stars": 34
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.07]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: AlayaWorld: Long-Horizon and Playable Video World Generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-31T06:50:09Z",
+                "owner": "AlayaLab",
+                "repo": "AlayaWorld",
+                "stars": 867
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.07.01]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-30T11:46:16Z",
+                "owner": "XMUDeepLIT",
+                "repo": "MemSyco-Bench",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.30]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-03T01:43:49Z",
+                "owner": "Sakuraaa0",
+                "repo": "RaBitQCache",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-04T08:51:41Z",
+                "owner": "hulianyuyy",
+                "repo": "CoLT",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-02T19:58:12Z",
+                "owner": "AmirAbaskohi",
+                "repo": "SeKV",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: MemLearner: Learning to Query Context memory for Video World Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-07-01T04:14:00Z",
+                "owner": "yujiwen",
+                "repo": "memlearner",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.29]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Predict, Reuse, and Repair: Accelerating Dynamic Sparse Attention for Long-Context LLM Decoding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-09T18:54:48Z",
+                "owner": "Tianyu9748",
+                "repo": "Incremental_FlashAttention",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.25]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-11T00:27:53Z",
+                "owner": "yyyujintang",
+                "repo": "DMV-Bench",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.24]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-26T14:23:23Z",
+                "owner": "hktk07",
+                "repo": "CausalMem",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.23]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Qwen-AgentWorld: Language World Models for General Agents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-20T11:52:07Z",
+                "owner": "QwenLM",
+                "repo": "Qwen-AgentWorld",
+                "stars": 943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: RoPE-Aware Bit Allocation for KV-Cache Quantization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-24T01:47:17Z",
+                "owner": "JIA-Lab-research",
+                "repo": "blockgtq",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: ATMA: Length-Invariant Language Modeling via Polar Attention and Gated-Delta Compression Memory",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T16:39:54Z",
+                "owner": "kreasof-ai",
+                "repo": "atma",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.18]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T03:03:40Z",
+                "owner": "agentscope-ai",
+                "repo": "Trinity-RFT",
+                "stars": 684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-02T09:52:06Z",
+                "owner": "1Pansy",
+                "repo": "Video-CARE",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.17]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-21T07:46:56Z",
+                "owner": "rzhub",
+                "repo": "GateMem",
+                "stars": 194
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.12]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-17T13:29:38Z",
+                "owner": "landian60",
+                "repo": "StreamMemBench",
+                "stars": 23
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.11]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: MiniMax Sparse Attention",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-30T06:11:11Z",
+                "owner": "MiniMax-AI",
+                "repo": "MSA",
+                "stars": 406
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.09]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Parallel Causal Associative Fields: Gated Sparse Memory for Long-Context Language Modeling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-09T05:16:11Z",
+                "owner": "ahmed123hds",
+                "repo": "PCAF",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.08]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-18T02:17:45Z",
+                "owner": "libertywing",
+                "repo": "FlashMemory-Deepseek-V4",
+                "stars": 102
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.04]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: TARPO: Token-Wise Latent-Explicit Reasoning via Action-Routing Policy Optimization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-05T10:18:53Z",
+                "owner": "NKU-LITI",
+                "repo": "TARPO-master",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.03]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-04T04:35:55Z",
+                "owner": "NVlabs",
+                "repo": "SparDA",
+                "stars": 63
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.02]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-22T09:18:28Z",
+                "owner": "huawei-csl",
+                "repo": "KVarN",
+                "stars": 453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper: Value-Aware Stochastic KV Cache Eviction for Reasoning Models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-08T01:37:14Z",
+                "owner": "terarachang",
+                "repo": "VaSE",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "[2026.06.01]",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Paper: Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-20T19:49:19Z",
+                "owner": "Brainchip-Inc",
+                "repo": "Do-Transformers-Need-3-Projections",
+                "stars": 46
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Month Papers"
+    },
+    {
+      "description": "Please contact me if I miss your names in the list, I will add you back ASAP!",
+      "items": [],
+      "title": "Acknowledgements"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:03.355Z",
+    "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
+    "original_repository_sha": "cd815f22f826aff83536d964c6b3d958351cb04e",
+    "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
+    "enhanced_repository_description": null,
+    "title": "Awesome Large Language Model Based Long Context Modeling Papers and Blogs with stars"
+  }
+}
