@@ -21,10 +21,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-07T02:49:48Z",
+                "last_commit": "2026-08-13T15:33:30Z",
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 309
+                "stars": 337
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 867
+                "stars": 872
               }
             }
           ]
@@ -191,7 +191,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 867
+                "stars": 872
               }
             }
           ]
@@ -338,7 +338,7 @@
                 "last_commit": "2026-06-26T14:23:23Z",
                 "owner": "hktk07",
                 "repo": "CausalMem",
-                "stars": 5
+                "stars": 6
               }
             }
           ]
@@ -359,7 +359,7 @@
                 "last_commit": "2026-07-20T11:52:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 943
+                "stars": 946
               }
             },
             {
@@ -384,7 +384,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T16:39:54Z",
+                "last_commit": "2026-08-14T01:20:29Z",
                 "owner": "kreasof-ai",
                 "repo": "atma",
                 "stars": 2
@@ -408,7 +408,7 @@
                 "last_commit": "2026-08-13T03:03:40Z",
                 "owner": "agentscope-ai",
                 "repo": "Trinity-RFT",
-                "stars": 684
+                "stars": 683
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-06-21T07:46:56Z",
                 "owner": "rzhub",
                 "repo": "GateMem",
-                "stars": 194
+                "stars": 195
               }
             }
           ]
@@ -485,7 +485,7 @@
                 "last_commit": "2026-07-30T06:11:11Z",
                 "owner": "MiniMax-AI",
                 "repo": "MSA",
-                "stars": 406
+                "stars": 408
               }
             }
           ]
@@ -569,7 +569,7 @@
                 "last_commit": "2026-06-04T04:35:55Z",
                 "owner": "NVlabs",
                 "repo": "SparDA",
-                "stars": 63
+                "stars": 65
               }
             }
           ]
@@ -622,7 +622,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-20T19:49:19Z",
+                "last_commit": "2026-08-13T21:33:58Z",
                 "owner": "Brainchip-Inc",
                 "repo": "Do-Transformers-Need-3-Projections",
                 "stars": 46
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:03.355Z",
+    "last_updated": "2026-08-14T05:13:25.523Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_sha": "cd815f22f826aff83536d964c6b3d958351cb04e",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",

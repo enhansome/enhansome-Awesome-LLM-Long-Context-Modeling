@@ -123,7 +123,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents](https://arxiv.org/abs/2607.20972)
 
 * **\[2026.07.22]**
-  * Paper: [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) [![GitHub Repo stars](https://img.shields.io/github/stars/alexisfox7/PRO-LONG)](https://github.com/alexisfox7/PRO-LONG) ⭐ 309 | 🐛 1 | 🌐 Python | 📅 2026-08-07
+  * Paper: [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) [![GitHub Repo stars](https://img.shields.io/github/stars/alexisfox7/PRO-LONG)](https://github.com/alexisfox7/PRO-LONG) ⭐ 337 | 🐛 0 | 🌐 Python | 📅 2026-08-13
   * Paper: [ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management](https://arxiv.org/abs/2607.20764) [![GitHub Repo stars](https://img.shields.io/github/stars/pavelgolikov/ArbiGraph)](https://github.com/pavelgolikov/ArbiGraph) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-06
   * Paper: [SLPO: Scaling Latent Reasoning via a Surrogate Policy](https://arxiv.org/abs/2607.19691)
   * Paper: [Self Gradient Forcing: Native Long Video Extrapolation](https://arxiv.org/abs/2607.20368)
@@ -134,7 +134,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling](https://arxiv.org/abs/2607.19038)
 
 * **\[2026.07.20]**
-  * Paper: [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](https://arxiv.org/abs/2607.18367) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 867 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
+  * Paper: [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](https://arxiv.org/abs/2607.18367) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 872 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
   * Paper: [C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference](https://arxiv.org/abs/2607.17715)
   * Paper: [Is Progressive Disclosure All You Need for Long-Context Agents?](https://arxiv.org/abs/2607.17598)
   * Paper: [Surprise Forcing: What to Remember, When to Skip in Long Video Generation](https://arxiv.org/abs/2607.18436)
@@ -212,7 +212,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning](https://arxiv.org/abs/2607.07033)
 
 * **\[2026.07.07]**
-  * Paper: [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 867 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
+  * Paper: [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 872 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
   * Paper: [Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure](https://arxiv.org/abs/2607.05966)
   * Paper: [TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training](https://arxiv.org/abs/2607.05804)
   * Paper: [DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression](https://arxiv.org/abs/2607.06523)
@@ -271,12 +271,12 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Erase-then-Delta Attention: Decoupling Erase and Write Addresses in Delta-Rule Linear Attention](https://arxiv.org/abs/2606.26560)
 
 * **\[2026.06.24]**
-  * Paper: [Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding](https://arxiv.org/abs/2606.25658) [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/CausalMem)](https://github.com/hktk07/CausalMem) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-26
+  * Paper: [Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding](https://arxiv.org/abs/2606.25658) [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/CausalMem)](https://github.com/hktk07/CausalMem) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-06-26
 
 * **\[2026.06.23]**
-  * Paper: [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-AgentWorld)](https://github.com/QwenLM/Qwen-AgentWorld) ⭐ 943 | 🐛 6 | 🌐 Python | 📅 2026-07-20
+  * Paper: [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-AgentWorld)](https://github.com/QwenLM/Qwen-AgentWorld) ⭐ 946 | 🐛 5 | 🌐 Python | 📅 2026-07-20
   * Paper: [RoPE-Aware Bit Allocation for KV-Cache Quantization](https://arxiv.org/abs/2606.24033) [![GitHub Repo stars](https://img.shields.io/github/stars/JIA-Lab-research/blockgtq)](https://github.com/JIA-Lab-research/blockgtq) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-06-24
-  * Paper: [ATMA: Length-Invariant Language Modeling via Polar Attention and Gated-Delta Compression Memory](https://arxiv.org/abs/2606.25156) [![GitHub Repo stars](https://img.shields.io/github/stars/kreasof-ai/atma)](https://github.com/kreasof-ai/atma) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-12
+  * Paper: [ATMA: Length-Invariant Language Modeling via Polar Attention and Gated-Delta Compression Memory](https://arxiv.org/abs/2606.25156) [![GitHub Repo stars](https://img.shields.io/github/stars/kreasof-ai/atma)](https://github.com/kreasof-ai/atma) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-14
 
 * **\[2026.06.22]**
   * Paper: [ScalingAttention: Discovering Intrinsic Sparse Attention Topology for Video Diffusion Transformers](https://arxiv.org/abs/2606.23019)
@@ -290,13 +290,13 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory](https://arxiv.org/abs/2606.21649)
 
 * **\[2026.06.18]**
-  * Paper: [Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning](https://arxiv.org/abs/2606.20002) [![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT)](https://github.com/agentscope-ai/Trinity-RFT/tree/research/cod/examples/research_cod) ⭐ 684 | 🐛 44 | 🌐 Python | 📅 2026-08-13
+  * Paper: [Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning](https://arxiv.org/abs/2606.20002) [![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT)](https://github.com/agentscope-ai/Trinity-RFT/tree/research/cod/examples/research_cod) ⭐ 683 | 🐛 44 | 🌐 Python | 📅 2026-08-13
   * Paper: [CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs](https://arxiv.org/abs/2606.19927) [![GitHub Repo stars](https://img.shields.io/github/stars/1Pansy/Video-CARE)](https://github.com/1Pansy/Video-CARE) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-02
   * Paper: [ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models](https://arxiv.org/abs/2606.19919)
   * Paper: [HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization](https://arxiv.org/abs/2606.20097)
 
 * **\[2026.06.17]**
-  * Paper: [GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents](https://arxiv.org/abs/2606.18829) [![GitHub Repo stars](https://img.shields.io/github/stars/rzhub/GateMem)](https://github.com/rzhub/GateMem) ⭐ 194 | 🐛 0 | 🌐 Python | 📅 2026-06-21
+  * Paper: [GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents](https://arxiv.org/abs/2606.18829) [![GitHub Repo stars](https://img.shields.io/github/stars/rzhub/GateMem)](https://github.com/rzhub/GateMem) ⭐ 195 | 🐛 0 | 🌐 Python | 📅 2026-06-21
   * Paper: [Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning](https://arxiv.org/abs/2606.18831)
 
 * **\[2026.06.16]**
@@ -318,7 +318,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)
 
 * **\[2026.06.11]**
-  * Paper: [MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392) [![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MSA)](https://github.com/MiniMax-AI/MSA) ⭐ 406 | 🐛 7 | 🌐 Python | 📅 2026-07-30
+  * Paper: [MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392) [![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MSA)](https://github.com/MiniMax-AI/MSA) ⭐ 408 | 🐛 7 | 🌐 Python | 📅 2026-07-30
   * Paper: [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://arxiv.org/abs/2606.13681)
   * Paper: [Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory](https://arxiv.org/abs/2606.12945)
   * Paper: [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
@@ -359,7 +359,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467)
 
 * **\[2026.06.03]**
-  * Paper: [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511) [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/SparDA)](https://github.com/NVlabs/SparDA) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2026-06-04
+  * Paper: [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511) [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/SparDA)](https://github.com/NVlabs/SparDA) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2026-06-04
   * Paper: [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557)
   * Paper: [LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](https://arxiv.org/abs/2606.04302) (ICML 2026)
   * Paper: [Depth-Attention: Cross-Layer Value Mixing for Language Models](https://arxiv.org/abs/2606.05014)
@@ -375,7 +375,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [MemTrain: Self-Supervised Context Memory Training](https://arxiv.org/abs/2606.03197)
 
 * **\[2026.06.01]**
-  * Paper: [Do Transformers Need Three Projections? Systematic Study of QKV Variants](https://arxiv.org/abs/2606.04032) [![GitHub Repo stars](https://img.shields.io/github/stars/Brainchip-Inc/Do-Transformers-Need-3-Projections)](https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections) ⭐ 46 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+  * Paper: [Do Transformers Need Three Projections? Systematic Study of QKV Variants](https://arxiv.org/abs/2606.04032) [![GitHub Repo stars](https://img.shields.io/github/stars/Brainchip-Inc/Do-Transformers-Need-3-Projections)](https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections) ⭐ 46 | 🐛 2 | 🌐 Python | 📅 2026-08-13
   * Paper: [RESTORE: Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://arxiv.org/abs/2606.01711) (ICML 2026)
   * Paper: [PaSBench-Video: A Streaming Video Benchmark for Proactive Safety Warning](https://arxiv.org/abs/2606.02443)
   * Paper: [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](https://arxiv.org/abs/2606.01838)
@@ -449,4 +449,4 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
