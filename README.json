@@ -21,10 +21,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T15:33:30Z",
+                "last_commit": "2026-08-15T00:58:27Z",
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 337
+                "stars": 379
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 872
+                "stars": 875
               }
             }
           ]
@@ -80,7 +80,7 @@
                 "last_commit": "2026-07-22T07:41:29Z",
                 "owner": "YilaiLiu-HKU",
                 "repo": "SlotMem",
-                "stars": 12
+                "stars": 13
               }
             }
           ]
@@ -191,7 +191,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 872
+                "stars": 875
               }
             }
           ]
@@ -359,7 +359,7 @@
                 "last_commit": "2026-07-20T11:52:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 946
+                "stars": 947
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2026-07-30T06:11:11Z",
                 "owner": "MiniMax-AI",
                 "repo": "MSA",
-                "stars": 408
+                "stars": 409
               }
             }
           ]
@@ -569,7 +569,7 @@
                 "last_commit": "2026-06-04T04:35:55Z",
                 "owner": "NVlabs",
                 "repo": "SparDA",
-                "stars": 65
+                "stars": 66
               }
             }
           ]
@@ -650,9 +650,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:13:25.523Z",
+    "last_updated": "2026-08-15T04:01:37.896Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
-    "original_repository_sha": "cd815f22f826aff83536d964c6b3d958351cb04e",
+    "original_repository_sha": "b2fc3364cedd3e02b29478da08ab2ecf6a004aed",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
     "enhanced_repository_description": null,
     "title": "Awesome Large Language Model Based Long Context Modeling Papers and Blogs with stars"
