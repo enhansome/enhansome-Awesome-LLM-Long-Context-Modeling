@@ -21,10 +21,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T00:58:27Z",
+                "last_commit": "2026-08-15T19:32:06Z",
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 379
+                "stars": 394
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 875
+                "stars": 878
               }
             }
           ]
@@ -191,7 +191,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 875
+                "stars": 878
               }
             }
           ]
@@ -359,7 +359,7 @@
                 "last_commit": "2026-07-20T11:52:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 947
+                "stars": 949
               }
             },
             {
@@ -408,7 +408,7 @@
                 "last_commit": "2026-08-13T03:03:40Z",
                 "owner": "agentscope-ai",
                 "repo": "Trinity-RFT",
-                "stars": 683
+                "stars": 684
               }
             },
             {
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:01:37.896Z",
+    "last_updated": "2026-08-16T04:06:07.599Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_sha": "b2fc3364cedd3e02b29478da08ab2ecf6a004aed",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",

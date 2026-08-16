@@ -13,13 +13,13 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![LICENSE](https://img.shields.io/github/license/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/blob/main/LICENSE) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
-[![Last Commit](https://img.shields.io/github/last-commit/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?color=blue)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/commits/main) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
-[![Stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=social)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
-[![Forks](https://badgen.net/github/forks/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/forks) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
-[![Contributors](https://badgen.net/github/contributors/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/graphs/contributors) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
-[![Repo Size](https://img.shields.io/github/repo-size/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pulls) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
+[![LICENSE](https://img.shields.io/github/license/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/blob/main/LICENSE) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
+[![Last Commit](https://img.shields.io/github/last-commit/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?color=blue)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/commits/main) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
+[![Stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=social)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
+[![Forks](https://badgen.net/github/forks/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/forks) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
+[![Contributors](https://badgen.net/github/contributors/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/graphs/contributors) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
+[![Repo Size](https://img.shields.io/github/repo-size/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pulls) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
 [![arXiv](https://img.shields.io/badge/arXiv-2503.17407-b31b1b.svg)](https://arxiv.org/abs/2503.17407)
 
 </div>
@@ -123,7 +123,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents](https://arxiv.org/abs/2607.20972)
 
 * **\[2026.07.22]**
-  * Paper: [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) [![GitHub Repo stars](https://img.shields.io/github/stars/alexisfox7/PRO-LONG)](https://github.com/alexisfox7/PRO-LONG) ⭐ 379 | 🐛 0 | 🌐 Python | 📅 2026-08-15
+  * Paper: [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) [![GitHub Repo stars](https://img.shields.io/github/stars/alexisfox7/PRO-LONG)](https://github.com/alexisfox7/PRO-LONG) ⭐ 394 | 🐛 0 | 🌐 Python | 📅 2026-08-15
   * Paper: [ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management](https://arxiv.org/abs/2607.20764) [![GitHub Repo stars](https://img.shields.io/github/stars/pavelgolikov/ArbiGraph)](https://github.com/pavelgolikov/ArbiGraph) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-06
   * Paper: [SLPO: Scaling Latent Reasoning via a Surrogate Policy](https://arxiv.org/abs/2607.19691)
   * Paper: [Self Gradient Forcing: Native Long Video Extrapolation](https://arxiv.org/abs/2607.20368)
@@ -134,7 +134,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling](https://arxiv.org/abs/2607.19038)
 
 * **\[2026.07.20]**
-  * Paper: [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](https://arxiv.org/abs/2607.18367) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 875 | 🐛 4 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
+  * Paper: [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](https://arxiv.org/abs/2607.18367) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 878 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
   * Paper: [C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference](https://arxiv.org/abs/2607.17715)
   * Paper: [Is Progressive Disclosure All You Need for Long-Context Agents?](https://arxiv.org/abs/2607.17598)
   * Paper: [Surprise Forcing: What to Remember, When to Skip in Long Video Generation](https://arxiv.org/abs/2607.18436)
@@ -212,7 +212,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning](https://arxiv.org/abs/2607.07033)
 
 * **\[2026.07.07]**
-  * Paper: [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 875 | 🐛 4 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
+  * Paper: [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 878 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
   * Paper: [Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure](https://arxiv.org/abs/2607.05966)
   * Paper: [TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training](https://arxiv.org/abs/2607.05804)
   * Paper: [DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression](https://arxiv.org/abs/2607.06523)
@@ -274,7 +274,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding](https://arxiv.org/abs/2606.25658) [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/CausalMem)](https://github.com/hktk07/CausalMem) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-06-26
 
 * **\[2026.06.23]**
-  * Paper: [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-AgentWorld)](https://github.com/QwenLM/Qwen-AgentWorld) ⭐ 947 | 🐛 5 | 🌐 Python | 📅 2026-07-20
+  * Paper: [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-AgentWorld)](https://github.com/QwenLM/Qwen-AgentWorld) ⭐ 949 | 🐛 4 | 🌐 Python | 📅 2026-07-20
   * Paper: [RoPE-Aware Bit Allocation for KV-Cache Quantization](https://arxiv.org/abs/2606.24033) [![GitHub Repo stars](https://img.shields.io/github/stars/JIA-Lab-research/blockgtq)](https://github.com/JIA-Lab-research/blockgtq) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-06-24
   * Paper: [ATMA: Length-Invariant Language Modeling via Polar Attention and Gated-Delta Compression Memory](https://arxiv.org/abs/2606.25156) [![GitHub Repo stars](https://img.shields.io/github/stars/kreasof-ai/atma)](https://github.com/kreasof-ai/atma) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-14
 
@@ -290,7 +290,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory](https://arxiv.org/abs/2606.21649)
 
 * **\[2026.06.18]**
-  * Paper: [Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning](https://arxiv.org/abs/2606.20002) [![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT)](https://github.com/agentscope-ai/Trinity-RFT/tree/research/cod/examples/research_cod) ⭐ 683 | 🐛 44 | 🌐 Python | 📅 2026-08-13
+  * Paper: [Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning](https://arxiv.org/abs/2606.20002) [![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT)](https://github.com/agentscope-ai/Trinity-RFT/tree/research/cod/examples/research_cod) ⭐ 684 | 🐛 46 | 🌐 Python | 📅 2026-08-13
   * Paper: [CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs](https://arxiv.org/abs/2606.19927) [![GitHub Repo stars](https://img.shields.io/github/stars/1Pansy/Video-CARE)](https://github.com/1Pansy/Video-CARE) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-02
   * Paper: [ADaPT: Token-Level Decoupling for Efficient Large Reasoning Models](https://arxiv.org/abs/2606.19919)
   * Paper: [HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization](https://arxiv.org/abs/2606.20097)
@@ -445,8 +445,8 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ### Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling\&type=Timeline)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,162 | 🐛 0 | 📅 2026-08-14
+[![Star History Chart](https://star-history.dera.page/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling\&type=Timeline)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,163 | 🐛 0 | 📅 2026-08-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
