@@ -30,7 +30,7 @@ This repository curates papers and blogs on long-context language modeling, cove
 
 🔥⚡🔥 Thanks for all the great contributors on GitHub!
 
-🚀🤝🚀 I have the privilege of joining \[**LCLM-Horizon**] and collaborating with them on providing a very complete and comprehensive scholarly survey ([A Comprehensive Survey on Long Context Language Modeling](https://arxiv.org/abs/2503.17407)) and repository ([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling) ⭐ 254 | 🐛 0 | 📅 2026-05-29) dedicated to **Long Context Language Modeling**. I look forward to collaborating with them to advance research and deepen understanding in this area!
+🚀🤝🚀 I have the privilege of joining \[**LCLM-Horizon**] and collaborating with them on providing a very complete and comprehensive scholarly survey ([A Comprehensive Survey on Long Context Language Modeling](https://arxiv.org/abs/2503.17407)) and repository ([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling) ⭐ 255 | 🐛 0 | 📅 2026-05-29) dedicated to **Long Context Language Modeling**. I look forward to collaborating with them to advance research and deepen understanding in this area!
 
 <!--Thanks to [**LCLM-Horizon**]\([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)\) for providing a very complete and comprehensive scholarly survey \([A Comprehensive Survey on Long Context Language Modeling]()\) of the field of Long Context Language Modeling. I have joined them and we will collaborate to further research and understanding in this area!-->
 
@@ -123,7 +123,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Delivery, Not Storage: Cue-Anchored Working Memory as a Harness Property for Coding Agents](https://arxiv.org/abs/2607.20972)
 
 * **\[2026.07.22]**
-  * Paper: [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) [![GitHub Repo stars](https://img.shields.io/github/stars/alexisfox7/PRO-LONG)](https://github.com/alexisfox7/PRO-LONG) ⭐ 394 | 🐛 0 | 🌐 Python | 📅 2026-08-15
+  * Paper: [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) [![GitHub Repo stars](https://img.shields.io/github/stars/alexisfox7/PRO-LONG)](https://github.com/alexisfox7/PRO-LONG) ⭐ 398 | 🐛 0 | 🌐 Python | 📅 2026-08-15
   * Paper: [ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management](https://arxiv.org/abs/2607.20764) [![GitHub Repo stars](https://img.shields.io/github/stars/pavelgolikov/ArbiGraph)](https://github.com/pavelgolikov/ArbiGraph) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-06
   * Paper: [SLPO: Scaling Latent Reasoning via a Surrogate Policy](https://arxiv.org/abs/2607.19691)
   * Paper: [Self Gradient Forcing: Native Long Video Extrapolation](https://arxiv.org/abs/2607.20368)
@@ -134,7 +134,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling](https://arxiv.org/abs/2607.19038)
 
 * **\[2026.07.20]**
-  * Paper: [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](https://arxiv.org/abs/2607.18367) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 878 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
+  * Paper: [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](https://arxiv.org/abs/2607.18367) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 820 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
   * Paper: [C$^2$KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference](https://arxiv.org/abs/2607.17715)
   * Paper: [Is Progressive Disclosure All You Need for Long-Context Agents?](https://arxiv.org/abs/2607.17598)
   * Paper: [Surprise Forcing: What to Remember, When to Skip in Long Video Generation](https://arxiv.org/abs/2607.18436)
@@ -212,7 +212,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning](https://arxiv.org/abs/2607.07033)
 
 * **\[2026.07.07]**
-  * Paper: [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 878 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
+  * Paper: [AlayaWorld: Long-Horizon and Playable Video World Generation](https://arxiv.org/abs/2607.06291) [![GitHub Repo stars](https://img.shields.io/github/stars/AlayaLab/AlayaWorld)](https://github.com/AlayaLab/AlayaWorld) ⭐ 820 | 🐛 2 | 🌐 Python | 📅 2026-07-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://alaya-lab.github.io/AlayaWorld/)
   * Paper: [Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure](https://arxiv.org/abs/2607.05966)
   * Paper: [TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training](https://arxiv.org/abs/2607.05804)
   * Paper: [DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression](https://arxiv.org/abs/2607.06523)
@@ -274,9 +274,9 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding](https://arxiv.org/abs/2606.25658) [![GitHub Repo stars](https://img.shields.io/github/stars/hktk07/CausalMem)](https://github.com/hktk07/CausalMem) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-06-26
 
 * **\[2026.06.23]**
-  * Paper: [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-AgentWorld)](https://github.com/QwenLM/Qwen-AgentWorld) ⭐ 949 | 🐛 4 | 🌐 Python | 📅 2026-07-20
+  * Paper: [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) [![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/Qwen-AgentWorld)](https://github.com/QwenLM/Qwen-AgentWorld) ⭐ 952 | 🐛 4 | 🌐 Python | 📅 2026-07-20
   * Paper: [RoPE-Aware Bit Allocation for KV-Cache Quantization](https://arxiv.org/abs/2606.24033) [![GitHub Repo stars](https://img.shields.io/github/stars/JIA-Lab-research/blockgtq)](https://github.com/JIA-Lab-research/blockgtq) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-06-24
-  * Paper: [ATMA: Length-Invariant Language Modeling via Polar Attention and Gated-Delta Compression Memory](https://arxiv.org/abs/2606.25156) [![GitHub Repo stars](https://img.shields.io/github/stars/kreasof-ai/atma)](https://github.com/kreasof-ai/atma) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-14
+  * Paper: [ATMA: Length-Invariant Language Modeling via Polar Attention and Gated-Delta Compression Memory](https://arxiv.org/abs/2606.25156) [![GitHub Repo stars](https://img.shields.io/github/stars/kreasof-ai/atma)](https://github.com/kreasof-ai/atma) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-16
 
 * **\[2026.06.22]**
   * Paper: [ScalingAttention: Discovering Intrinsic Sparse Attention Topology for Video Diffusion Transformers](https://arxiv.org/abs/2606.23019)
@@ -318,7 +318,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](https://arxiv.org/abs/2606.14249)
 
 * **\[2026.06.11]**
-  * Paper: [MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392) [![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MSA)](https://github.com/MiniMax-AI/MSA) ⭐ 409 | 🐛 7 | 🌐 Python | 📅 2026-07-30
+  * Paper: [MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392) [![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MSA)](https://github.com/MiniMax-AI/MSA) ⭐ 410 | 🐛 7 | 🌐 Python | 📅 2026-07-30
   * Paper: [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://arxiv.org/abs/2606.13681)
   * Paper: [Learning What to Remember: A Cognitively Grounded Multi-Factor Value Model for Agentic Memory](https://arxiv.org/abs/2606.12945)
   * Paper: [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
@@ -334,7 +334,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Dynamic Linear Attention](https://arxiv.org/abs/2606.10650)
 
 * **\[2026.06.08]**
-  * Paper: [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/abs/2606.09079) [![GitHub Repo stars](https://img.shields.io/github/stars/libertywing/FlashMemory-Deepseek-V4)](https://github.com/libertywing/FlashMemory-Deepseek-V4) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2026-07-18
+  * Paper: [FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/abs/2606.09079) [![GitHub Repo stars](https://img.shields.io/github/stars/libertywing/FlashMemory-Deepseek-V4)](https://github.com/libertywing/FlashMemory-Deepseek-V4) ⭐ 104 | 🐛 1 | 🌐 Python | 📅 2026-07-18
   * Paper: [IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking](https://arxiv.org/abs/2606.09709)
   * Paper: [Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.09483)
   * Paper: [H2HMem: A Multimodal Memory Benchmark for Agents in Human-Human Interactions](https://arxiv.org/abs/2606.09461)
@@ -359,7 +359,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467)
 
 * **\[2026.06.03]**
-  * Paper: [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511) [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/SparDA)](https://github.com/NVlabs/SparDA) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2026-06-04
+  * Paper: [SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511) [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/SparDA)](https://github.com/NVlabs/SparDA) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-06-04
   * Paper: [Cartridges at Scale: Training Modular KV Caches over Large Document Collections](https://arxiv.org/abs/2606.04557)
   * Paper: [LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](https://arxiv.org/abs/2606.04302) (ICML 2026)
   * Paper: [Depth-Attention: Cross-Layer Value Mixing for Language Models](https://arxiv.org/abs/2606.05014)
@@ -369,7 +369,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents](https://arxiv.org/abs/2606.04815)
 
 * **\[2026.06.02]**
-  * Paper: [KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks](https://arxiv.org/abs/2606.03458) [![GitHub Repo stars](https://img.shields.io/github/stars/huawei-csl/KVarN)](https://github.com/huawei-csl/KVarN) ⭐ 453 | 🐛 10 | 🌐 Python | 📅 2026-06-22
+  * Paper: [KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks](https://arxiv.org/abs/2606.03458) [![GitHub Repo stars](https://img.shields.io/github/stars/huawei-csl/KVarN)](https://github.com/huawei-csl/KVarN) ⭐ 458 | 🐛 10 | 🌐 Python | 📅 2026-06-22
   * Paper: [Value-Aware Stochastic KV Cache Eviction for Reasoning Models](https://arxiv.org/abs/2606.03928) [![GitHub Repo stars](https://img.shields.io/github/stars/terarachang/VaSE)](https://github.com/terarachang/VaSE) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-08
   * Paper: [HybridThinker: Efficient Chain-of-Thought Reasoning via Compressed Memory and Transient Thought Steps](https://arxiv.org/abs/2606.03768)
   * Paper: [MemTrain: Self-Supervised Context Memory Training](https://arxiv.org/abs/2606.03197)
@@ -449,4 +449,4 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

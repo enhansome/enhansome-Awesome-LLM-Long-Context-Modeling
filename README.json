@@ -24,7 +24,7 @@
                 "last_commit": "2026-08-15T19:32:06Z",
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 394
+                "stars": 398
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 878
+                "stars": 820
               }
             }
           ]
@@ -191,7 +191,7 @@
                 "last_commit": "2026-07-31T06:50:09Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 878
+                "stars": 820
               }
             }
           ]
@@ -359,7 +359,7 @@
                 "last_commit": "2026-07-20T11:52:07Z",
                 "owner": "QwenLM",
                 "repo": "Qwen-AgentWorld",
-                "stars": 949
+                "stars": 952
               }
             },
             {
@@ -384,7 +384,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T01:20:29Z",
+                "last_commit": "2026-08-16T18:30:05Z",
                 "owner": "kreasof-ai",
                 "repo": "atma",
                 "stars": 2
@@ -485,7 +485,7 @@
                 "last_commit": "2026-07-30T06:11:11Z",
                 "owner": "MiniMax-AI",
                 "repo": "MSA",
-                "stars": 409
+                "stars": 410
               }
             }
           ]
@@ -527,7 +527,7 @@
                 "last_commit": "2026-07-18T02:17:45Z",
                 "owner": "libertywing",
                 "repo": "FlashMemory-Deepseek-V4",
-                "stars": 102
+                "stars": 104
               }
             }
           ]
@@ -569,7 +569,7 @@
                 "last_commit": "2026-06-04T04:35:55Z",
                 "owner": "NVlabs",
                 "repo": "SparDA",
-                "stars": 66
+                "stars": 67
               }
             }
           ]
@@ -590,7 +590,7 @@
                 "last_commit": "2026-06-22T09:18:28Z",
                 "owner": "huawei-csl",
                 "repo": "KVarN",
-                "stars": 453
+                "stars": 458
               }
             },
             {
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:06:07.599Z",
+    "last_updated": "2026-08-17T04:09:45.313Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_sha": "b2fc3364cedd3e02b29478da08ab2ecf6a004aed",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
