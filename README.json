@@ -21,10 +21,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T07:13:35Z",
+                "last_commit": "2026-08-19T03:16:19Z",
                 "owner": "Yaxin9Luo",
                 "repo": "AutoDesign",
-                "stars": 93
+                "stars": 106
               }
             },
             {
@@ -35,10 +35,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T03:08:07Z",
+                "last_commit": "2026-08-18T07:55:00Z",
                 "owner": "kxding",
                 "repo": "PlayWorld",
-                "stars": 54
+                "stars": 76
               }
             },
             {
@@ -71,9 +71,9 @@
                 "archived": false,
                 "language": "Python",
                 "last_commit": "2026-08-13T02:35:27Z",
-                "owner": "StartluxLabs",
+                "owner": "StartLuxLabs",
                 "repo": "Massive-Activations-HLA",
-                "stars": 9
+                "stars": 10
               }
             },
             {
@@ -108,7 +108,7 @@
                 "last_commit": "2026-08-12T12:05:39Z",
                 "owner": "m-Just",
                 "repo": "InSight-doc",
-                "stars": 6
+                "stars": 7
               }
             }
           ]
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-11T09:52:10Z",
                 "owner": "pathwaycom",
                 "repo": "arc-task-gen",
-                "stars": 3321
+                "stars": 3486
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-04T16:52:17Z",
                 "owner": "Diuven",
                 "repo": "LLaDA-Hybrid",
-                "stars": 0
+                "stars": 1
               }
             },
             {
@@ -325,7 +325,7 @@
                 "last_commit": "2026-08-05T04:07:18Z",
                 "owner": "jaykim9870",
                 "repo": "Not_All_Redundant_Tokens_Are_Alike",
-                "stars": 0
+                "stars": 1
               }
             }
           ]
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-15T15:27:02Z",
                 "owner": "zjunlp",
                 "repo": "OneDayAgent",
-                "stars": 23
+                "stars": 24
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-08-13T02:47:12Z",
                 "owner": "6somehow",
                 "repo": "DAC-SPADE",
-                "stars": 2
+                "stars": 3
               }
             },
             {
@@ -401,7 +401,7 @@
                 "last_commit": "2026-08-17T13:48:50Z",
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 813
+                "stars": 833
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2026-08-07T02:35:12Z",
                 "owner": "MemTensor",
                 "repo": "Metis",
-                "stars": 126
+                "stars": 135
               }
             },
             {
@@ -520,7 +520,7 @@
                 "last_commit": "2026-08-07T13:41:49Z",
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1531
+                "stars": 1533
               }
             }
           ]
@@ -541,7 +541,7 @@
                 "last_commit": "2026-08-06T10:17:28Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8494
+                "stars": 8511
               }
             }
           ]
@@ -583,7 +583,7 @@
                 "last_commit": "2026-08-15T19:32:06Z",
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 401
+                "stars": 403
               }
             },
             {
@@ -629,10 +629,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T04:29:34Z",
+                "last_commit": "2026-08-18T10:56:28Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 821
+                "stars": 827
               }
             }
           ]
@@ -720,7 +720,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-28T02:19:29Z",
+                "last_commit": "2026-08-18T12:09:18Z",
                 "owner": "zjunlp",
                 "repo": "LightMem-Ego",
                 "stars": 65
@@ -783,10 +783,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-17T04:29:34Z",
+                "last_commit": "2026-08-18T10:56:28Z",
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 821
+                "stars": 827
               }
             }
           ]
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:04:51.570Z",
+    "last_updated": "2026-08-19T04:05:23.258Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_sha": "79b01b26d13e90db6b17b77205fe9224f598f887",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
