@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-19T07:37:22Z",
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 121
+                    "stars": 133
                   }
                 },
                 {
@@ -37,7 +37,7 @@
                     "last_commit": "2026-08-18T07:55:00Z",
                     "owner": "kxding",
                     "repo": "PlayWorld",
-                    "stars": 80
+                    "stars": 81
                   }
                 },
                 {
@@ -133,7 +133,7 @@
                     "last_commit": "2026-08-11T09:52:10Z",
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 3702
+                    "stars": 3795
                   }
                 },
                 {
@@ -419,10 +419,10 @@
                     "archived": false,
                     "id": 1322509558,
                     "language": "Python",
-                    "last_commit": "2026-08-20T03:11:28Z",
+                    "last_commit": "2026-08-20T12:36:03Z",
                     "owner": "AMAP-ML",
                     "repo": "LongHorizon-Harness",
-                    "stars": 849
+                    "stars": 858
                   }
                 },
                 {
@@ -511,7 +511,7 @@
                     "last_commit": "2026-08-07T02:35:12Z",
                     "owner": "MemTensor",
                     "repo": "Metis",
-                    "stars": 138
+                    "stars": 140
                   }
                 },
                 {
@@ -570,7 +570,7 @@
                     "last_commit": "2026-08-06T10:17:28Z",
                     "owner": "MoonshotAI",
                     "repo": "Kimi-K3",
-                    "stars": 8536
+                    "stars": 8553
                   }
                 }
               ]
@@ -611,10 +611,10 @@
                     "archived": false,
                     "id": 1175482080,
                     "language": "Python",
-                    "last_commit": "2026-08-19T20:53:15Z",
+                    "last_commit": "2026-08-20T05:13:21Z",
                     "owner": "alexisfox7",
                     "repo": "PRO-LONG",
-                    "stars": 404
+                    "stars": 408
                   }
                 },
                 {
@@ -663,10 +663,10 @@
                     "archived": false,
                     "id": 1292611271,
                     "language": "Python",
-                    "last_commit": "2026-08-18T10:56:28Z",
+                    "last_commit": "2026-08-20T06:30:14Z",
                     "owner": "AlayaLab",
                     "repo": "AlayaWorld",
-                    "stars": 827
+                    "stars": 832
                   }
                 }
               ]
@@ -759,7 +759,7 @@
                     "archived": false,
                     "id": 1244621946,
                     "language": "Python",
-                    "last_commit": "2026-08-18T12:09:18Z",
+                    "last_commit": "2026-08-20T15:47:34Z",
                     "owner": "zjunlp",
                     "repo": "LightMem-Ego",
                     "stars": 66
@@ -825,10 +825,10 @@
                     "archived": false,
                     "id": 1292611271,
                     "language": "Python",
-                    "last_commit": "2026-08-18T10:56:28Z",
+                    "last_commit": "2026-08-20T06:30:14Z",
                     "owner": "AlayaLab",
                     "repo": "AlayaWorld",
-                    "stars": 827
+                    "stars": 832
                   }
                 }
               ]
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:05:35.959Z",
+    "last_updated": "2026-08-21T04:07:36.941Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_id": 692615119,
     "original_repository_sha": "79b01b26d13e90db6b17b77205fe9224f598f887",
