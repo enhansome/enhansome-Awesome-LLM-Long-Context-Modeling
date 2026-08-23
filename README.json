@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-19T07:37:22Z",
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 146
+                    "stars": 153
                   }
                 },
                 {
@@ -34,10 +34,10 @@
                     "archived": false,
                     "id": 1323748093,
                     "language": "Python",
-                    "last_commit": "2026-08-18T07:55:00Z",
+                    "last_commit": "2026-08-23T02:14:17Z",
                     "owner": "kxding",
                     "repo": "PlayWorld",
-                    "stars": 84
+                    "stars": 85
                   }
                 },
                 {
@@ -133,7 +133,7 @@
                     "last_commit": "2026-08-11T09:52:10Z",
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 4151
+                    "stars": 4567
                   }
                 },
                 {
@@ -422,7 +422,7 @@
                     "last_commit": "2026-08-20T12:36:03Z",
                     "owner": "AMAP-ML",
                     "repo": "LongHorizon-Harness",
-                    "stars": 865
+                    "stars": 896
                   }
                 },
                 {
@@ -437,7 +437,7 @@
                     "last_commit": "2026-08-12T06:15:49Z",
                     "owner": "SitongGong",
                     "repo": "GROVE",
-                    "stars": 1
+                    "stars": 2
                   }
                 },
                 {
@@ -548,7 +548,7 @@
                     "last_commit": "2026-08-07T13:41:49Z",
                     "owner": "Tencent",
                     "repo": "AngelSlim",
-                    "stars": 1538
+                    "stars": 1540
                   }
                 }
               ]
@@ -570,7 +570,7 @@
                     "last_commit": "2026-08-06T10:17:28Z",
                     "owner": "MoonshotAI",
                     "repo": "Kimi-K3",
-                    "stars": 8570
+                    "stars": 8581
                   }
                 }
               ]
@@ -740,7 +740,7 @@
                     "last_commit": "2026-07-24T17:48:55Z",
                     "owner": "MindLab-Research",
                     "repo": "longstraw",
-                    "stars": 44
+                    "stars": 45
                   }
                 }
               ]
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:03:01.326Z",
+    "last_updated": "2026-08-23T04:07:34.857Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_id": 692615119,
     "original_repository_sha": "79b01b26d13e90db6b17b77205fe9224f598f887",
