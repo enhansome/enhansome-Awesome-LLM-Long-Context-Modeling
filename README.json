@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-19T07:37:22Z",
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 153
+                    "stars": 159
                   }
                 },
                 {
@@ -133,7 +133,7 @@
                     "last_commit": "2026-08-11T09:52:10Z",
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 4567
+                    "stars": 5012
                   }
                 },
                 {
@@ -167,10 +167,10 @@
                     "archived": false,
                     "id": 1327406396,
                     "language": "Python",
-                    "last_commit": "2026-08-15T15:22:16Z",
+                    "last_commit": "2026-08-23T08:50:21Z",
                     "owner": "TailinZhou",
                     "repo": "hsi",
-                    "stars": 8
+                    "stars": 9
                   }
                 },
                 {
@@ -363,7 +363,7 @@
                     "last_commit": "2026-08-15T15:27:02Z",
                     "owner": "zjunlp",
                     "repo": "OneDayAgent",
-                    "stars": 26
+                    "stars": 27
                   }
                 },
                 {
@@ -422,7 +422,7 @@
                     "last_commit": "2026-08-20T12:36:03Z",
                     "owner": "AMAP-ML",
                     "repo": "LongHorizon-Harness",
-                    "stars": 896
+                    "stars": 1133
                   }
                 },
                 {
@@ -511,7 +511,7 @@
                     "last_commit": "2026-08-07T02:35:12Z",
                     "owner": "MemTensor",
                     "repo": "Metis",
-                    "stars": 140
+                    "stars": 142
                   }
                 },
                 {
@@ -548,7 +548,7 @@
                     "last_commit": "2026-08-07T13:41:49Z",
                     "owner": "Tencent",
                     "repo": "AngelSlim",
-                    "stars": 1540
+                    "stars": 1542
                   }
                 }
               ]
@@ -570,7 +570,7 @@
                     "last_commit": "2026-08-06T10:17:28Z",
                     "owner": "MoonshotAI",
                     "repo": "Kimi-K3",
-                    "stars": 8581
+                    "stars": 8593
                   }
                 }
               ]
@@ -592,7 +592,7 @@
                     "last_commit": "2026-08-03T05:16:49Z",
                     "owner": "lixiaochuan2020",
                     "repo": "agentic-context-management",
-                    "stars": 28
+                    "stars": 29
                   }
                 }
               ]
@@ -614,7 +614,7 @@
                     "last_commit": "2026-08-21T23:48:30Z",
                     "owner": "alexisfox7",
                     "repo": "PRO-LONG",
-                    "stars": 408
+                    "stars": 410
                   }
                 },
                 {
@@ -666,7 +666,7 @@
                     "last_commit": "2026-08-20T06:30:14Z",
                     "owner": "AlayaLab",
                     "repo": "AlayaWorld",
-                    "stars": 833
+                    "stars": 836
                   }
                 }
               ]
@@ -828,7 +828,7 @@
                     "last_commit": "2026-08-20T06:30:14Z",
                     "owner": "AlayaLab",
                     "repo": "AlayaWorld",
-                    "stars": 833
+                    "stars": 836
                   }
                 }
               ]
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:07:34.857Z",
+    "last_updated": "2026-08-24T04:12:12.835Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_id": 692615119,
     "original_repository_sha": "79b01b26d13e90db6b17b77205fe9224f598f887",
