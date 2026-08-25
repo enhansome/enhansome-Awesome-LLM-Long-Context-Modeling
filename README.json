@@ -74,7 +74,7 @@
                     "last_commit": "2026-08-13T02:35:27Z",
                     "owner": "StartLuxLabs",
                     "repo": "Massive-Activations-HLA",
-                    "stars": 10
+                    "stars": 11
                   }
                 },
                 {
@@ -133,7 +133,7 @@
                     "last_commit": "2026-08-11T09:52:10Z",
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 5530
+                    "stars": 5562
                   }
                 },
                 {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-08-20T12:36:03Z",
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1252
+                "stars": 1257
               }
             },
             {
@@ -574,7 +574,7 @@
                 "last_commit": "2026-08-06T10:17:28Z",
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8609
+                "stars": 8610
               }
             }
           ]
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:06:43.735Z",
+    "last_updated": "2026-08-25T06:03:23.806Z",
     "original_repository": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
     "original_repository_id": 692615119,
     "original_repository_sha": "79b01b26d13e90db6b17b77205fe9224f598f887",
