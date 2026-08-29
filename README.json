@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 8556,
+                    "stars": 8637,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 37,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1359,
+                "stars": 1361,
                 "topics": [
                   "agent",
                   "claude",
@@ -786,7 +786,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1557,
+                "stars": 1560,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 28,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8655,
+                "stars": 8656,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -856,7 +856,7 @@
                 "open_issues": 0,
                 "owner": "lixiaochuan2020",
                 "repo": "agentic-context-management",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:13.766Z",
+    "last_updated": "2026-08-29T10:17:02.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
