@@ -17,12 +17,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The open-source design agent and harness, better than Claude Design on academic communication artifacts production. This DesignHarness can also be used with any coding harness you like ( Codex/Claude Code/Kimi Code/Pi/OpenCode etc..) and any agentic model you want.",
+                    "homepage": "https://autodesign.designanything.ai/",
                     "id": 1333720250,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T08:53:11Z",
+                    "open_issues": 1,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": [
+                      "agentic",
+                      "agentic-design",
+                      "long-horizon-agents",
+                      "meta-harness",
+                      "rsi",
+                      "self-evolving"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -33,12 +45,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1323748093,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-23T02:14:17Z",
+                    "open_issues": 1,
                     "owner": "hku-sail",
                     "repo": "PlayWorld",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -49,12 +66,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1282010136,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-06-27T07:44:43Z",
+                    "open_issues": 1,
                     "owner": "Brucess",
                     "repo": "CoverPrune",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -72,12 +94,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "⚡ Official code for “Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus”.",
+                    "homepage": "http://arxiv.org/abs/2608.12149",
                     "id": 1331864976,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T02:35:27Z",
+                    "open_issues": 1,
                     "owner": "StartLuxLabs",
                     "repo": "Massive-Activations-HLA",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -88,12 +115,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Salience-weighted conversational memory compression, baselines, and LoCoMo evaluation. Companion code for The Sleeping Agent paper.",
+                    "homepage": null,
                     "id": 1201355072,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-11T12:58:31Z",
+                    "open_issues": 0,
                     "owner": "kyrkewood",
                     "repo": "sleeping-agent",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -111,12 +143,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2026] Agentic Visual Perception for Long-Document Understanding",
+                    "homepage": null,
                     "id": 1323874734,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-12T12:05:39Z",
+                    "open_issues": 1,
                     "owner": "m-Just",
                     "repo": "InSight-doc",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "active-perception",
+                      "agentic-ai",
+                      "agentic-visual-perception",
+                      "coarse-to-fine",
+                      "efficient-inference",
+                      "long-document",
+                      "think-with-image",
+                      "visual-search"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -134,12 +180,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+                    "homepage": null,
                     "id": 1322954467,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T09:52:10Z",
+                    "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 8281
+                    "stars": 8556,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -150,12 +201,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1287139256,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-20T23:37:29Z",
+                    "open_issues": 1,
                     "owner": "ChosenQC",
                     "repo": "KVDiagnosis",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -173,12 +229,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses",
+                    "homepage": null,
                     "id": 1327406396,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-23T08:50:21Z",
+                    "open_issues": 1,
                     "owner": "TailinZhou",
                     "repo": "hsi",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -189,12 +250,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACM MM 2026] VoxZip: Semantic-Anchored Temporal KV Cache Compression for Long-Context Audio Inference",
+                    "homepage": null,
                     "id": 1323746181,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-07T09:49:14Z",
+                    "open_issues": 0,
                     "owner": "MM-Speech",
                     "repo": "VoxZip",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -205,12 +271,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1281521777,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-15T11:01:34Z",
+                    "open_issues": 0,
                     "owner": "ShareLab-SII",
                     "repo": "VLZip",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -228,12 +299,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper: Agentic Memory Distillation",
+                    "homepage": null,
                     "id": 1272927507,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-10T06:56:34Z",
+                    "open_issues": 0,
                     "owner": "taeilkim2465",
                     "repo": "agentic_memory_distillation",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -244,12 +320,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1326228686,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-13T05:19:15Z",
+                    "open_issues": 0,
                     "owner": "Harrygof",
                     "repo": "DocMemo",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -260,12 +341,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of the paper \"MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents\" (MemOPD).",
+                    "homepage": null,
                     "id": 1330916268,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T14:19:00Z",
+                    "open_issues": 0,
                     "owner": "TPssp",
                     "repo": "MemOPD",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -276,12 +362,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Benchmark and annotation framework for agent trajectory attribution.",
+                    "homepage": null,
                     "id": 1319787836,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-02T03:40:16Z",
+                    "open_issues": 1,
                     "owner": "chenjing-2024",
                     "repo": "agent-trajectory-attribution",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -299,12 +390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1323178910,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T05:07:29Z",
+                    "open_issues": 0,
                     "owner": "Diuven",
                     "repo": "LLaDA-Hybrid",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -315,12 +411,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WitProbe: runtime observability contracts for heterogeneous attention memory — paper artifact (Lean 4 formalized, one-command reproduction)",
+                    "homepage": null,
                     "id": 1324938976,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-19T11:09:19Z",
+                    "open_issues": 0,
                     "owner": "metask-ai",
                     "repo": "witprobe-attention-memory",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "formal-verification",
+                      "kv-cache",
+                      "lean4",
+                      "llm-serving",
+                      "observability",
+                      "reproducible-research"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -338,12 +446,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1245517472,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-21T10:25:43Z",
+                    "open_issues": 0,
                     "owner": "yudaohai666",
                     "repo": "BPC",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -354,12 +467,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1323566750,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-05T04:07:18Z",
+                    "open_issues": 0,
                     "owner": "jaykim9870",
                     "repo": "Not_All_Redundant_Tokens_Are_Alike",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -377,12 +495,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
+                    "homepage": null,
                     "id": 1231912110,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T15:27:02Z",
+                    "open_issues": 0,
                     "owner": "zjunlp",
                     "repo": "OneDayAgent",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "agent",
+                      "artificial-intelligence",
+                      "harness",
+                      "harness-engineering",
+                      "long-horizon",
+                      "natural-language-processing",
+                      "onedayagent"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -393,12 +524,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1208636885,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-13T02:47:12Z",
+                    "open_issues": 1,
                     "owner": "6somehow",
                     "repo": "DAC-SPADE",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 },
@@ -409,12 +545,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1323156465,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-05T02:46:06Z",
+                    "open_issues": 1,
                     "owner": "AK-DREAM",
                     "repo": "EcoFrame",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
                 }
@@ -443,12 +584,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+                "homepage": "https://lh-harness.pages.dev",
                 "id": 1322509558,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T12:36:03Z",
+                "open_issues": 37,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1354
+                "stars": 1359,
+                "topics": [
+                  "agent",
+                  "claude",
+                  "claude-code",
+                  "claude-plugin",
+                  "cli",
+                  "codex",
+                  "codex-desktop",
+                  "codex-plugin",
+                  "cua",
+                  "deepseek-harness",
+                  "gui",
+                  "harness",
+                  "long-horizon",
+                  "long-horizon-agents",
+                  "longhorizon-harness",
+                  "loop",
+                  "loop-engineering"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -459,12 +623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1319940154,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-12T06:15:49Z",
+                "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "GROVE",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -475,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1321077694,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-03T01:50:16Z",
+                "open_issues": 0,
                 "owner": "famous-blue-raincoat",
                 "repo": "Safe_KV_Compress",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -498,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Key-Value Cache Management by Counter-Causal Surprise",
+                "homepage": null,
                 "id": 1316756304,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-31T16:09:59Z",
+                "open_issues": 0,
                 "owner": "metacognitionai",
                 "repo": "counter_causal",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -514,12 +693,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"SemPIC: Learning Semantic Position-Independent KV Caches.\"",
+                "homepage": "https://arxiv.org/abs/2607.28069",
                 "id": 1317220208,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T21:12:03Z",
+                "open_issues": 0,
                 "owner": "jn12-29",
                 "repo": "SemPIC",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "kvcache",
+                  "llm",
+                  "llm-inference",
+                  "lora",
+                  "position-independent-caching",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -537,12 +728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metis is the memory foundation model series developed by Metis Group, MemTensor.",
+                "homepage": null,
                 "id": 1302668874,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-07T02:35:12Z",
+                "open_issues": 1,
                 "owner": "MemTensor",
                 "repo": "Metis",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -553,12 +749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mergeable fixed-budget aggregation states for long-context language models.",
+                "homepage": null,
                 "id": 1315642423,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-10T15:24:45Z",
+                "open_issues": 0,
                 "owner": "songdc98",
                 "repo": "sketchops",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -576,12 +777,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.",
+                "homepage": "https://angelslim.readthedocs.io",
                 "id": 1013493454,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-07T13:41:49Z",
+                "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1556
+                "stars": 1557,
+                "topics": [
+                  "audio",
+                  "deepseek",
+                  "dflash",
+                  "diffusion",
+                  "eagle",
+                  "fp4",
+                  "hunyuan",
+                  "llm",
+                  "llm-compression",
+                  "quantization",
+                  "qwen",
+                  "speculative-decoding",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -599,12 +819,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Frontier Intelligence",
+                "homepage": null,
                 "id": 1313576395,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T10:17:28Z",
+                "open_issues": 28,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8653
+                "stars": 8655,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -622,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repository for the paper \"ACM: Agentic Context Management for Long-Horizon Tasks\" [https://arxiv.org/abs/2607.23809]",
+                "homepage": null,
                 "id": 1312990898,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T05:16:49Z",
+                "open_issues": 0,
                 "owner": "lixiaochuan2020",
                 "repo": "agentic-context-management",
-                "stars": 32
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -645,12 +875,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Programmatic memory for long-horizon LLM agents: the harness appends everything to one log, and the agent searches it with code. 97.4% on ARC-AGI-3 (arXiv:2607.20064)",
+                "homepage": null,
                 "id": 1175482080,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:48:30Z",
+                "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 416
+                "stars": 416,
+                "topics": [
+                  "agent-memory",
+                  "arc-agi",
+                  "llm-agents",
+                  "long-horizon"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -661,12 +901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ArbiGraph implementation",
+                "homepage": null,
                 "id": 1309282135,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T00:59:59Z",
+                "open_issues": 0,
                 "owner": "pavelgolikov",
                 "repo": "ArbiGraph",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -677,12 +922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PCA: A training-free, plug-and-play framework that accelerates Video LLMs through persistence-aware frame compression and temporal aggregation, achieving 1.8–2.5× speedup with strong accuracy.",
+                "homepage": null,
                 "id": 1307821382,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-03T11:34:17Z",
+                "open_issues": 0,
                 "owner": "Heisenberg10110",
                 "repo": "PCA",
-                "stars": 0
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -700,12 +950,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack open-source interactive long-horizon world model.",
+                "homepage": null,
                 "id": 1292611271,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T06:30:14Z",
+                "open_issues": 3,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 848
+                "stars": 848,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -723,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation",
+                "homepage": null,
                 "id": 1301886040,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T07:41:29Z",
+                "open_issues": 0,
                 "owner": "YilaiLiu-HKU",
                 "repo": "SlotMem",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -739,12 +999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1246486056,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T01:01:05Z",
+                "open_issues": 0,
                 "owner": "CeeZh",
                 "repo": "VTS",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -755,12 +1020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LazyMem: From Write-Time Compression to Query-Time Memory Construction",
+                "homepage": null,
                 "id": 1246623577,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-28T05:30:14Z",
+                "open_issues": 1,
                 "owner": "allacnobug",
                 "repo": "LazyMem",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -778,12 +1048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MinT-2M: Long-context training system for resident-prefix GRPO",
+                "homepage": "https://huggingface.co/papers/2607.14952",
                 "id": 1303648567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-24T17:48:55Z",
+                "open_issues": 2,
                 "owner": "MindLab-Research",
                 "repo": "longstraw",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -801,12 +1076,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LightMem-Ego: Your AI Memory for Everyday Life",
+                "homepage": null,
                 "id": 1244621946,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T15:47:34Z",
+                "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "LightMem-Ego",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "agent-memory",
+                  "artificial-intelligence",
+                  "lightmem",
+                  "lightmem-ego",
+                  "multimodal-ai"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -824,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proactive memory agent (ProMem) vs behavioral state decay: Build-with-Paper repro+dissection of arXiv 2607.08716 on Crafter, zero-GPU",
+                "homepage": null,
                 "id": 1299806411,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-14T03:14:56Z",
+                "open_issues": 0,
                 "owner": "loversky02",
                 "repo": "promem-vn",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -847,12 +1138,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing (Technical Report)",
+                "homepage": "https://arxiv.org/abs/2607.07953",
                 "id": 1216361620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T09:49:27Z",
+                "open_issues": 0,
                 "owner": "tommasocerruti",
                 "repo": "linear-attention-architectures",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "associative-memory",
+                  "attention-mechanisms",
+                  "delta-net",
+                  "efficient-attention",
+                  "gated-deltanet",
+                  "kimi-linear",
+                  "linear-attention"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -870,12 +1174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack open-source interactive long-horizon world model.",
+                "homepage": null,
                 "id": 1292611271,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T06:30:14Z",
+                "open_issues": 3,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 848
+                "stars": 848,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -893,12 +1202,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+                "homepage": "https://arxiv.org/pdf/2607.01071",
                 "id": 1285635617,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T11:46:16Z",
+                "open_issues": 0,
                 "owner": "XMUDeepLIT",
                 "repo": "MemSyco-Bench",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "agent",
+                  "agent-memory",
+                  "agent-memory-benchmark",
+                  "agent-sycophancy",
+                  "llm-sycophancy",
+                  "memory-sycophancy",
+                  "sycophancy",
+                  "sycophancy-benchmark"
+                ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             },
@@ -909,12 +1232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding accepted by ECCV 2026",
+                "homepage": "https://arxiv.org/abs/2607.00983",
                 "id": 1127766106,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-13T02:52:12Z",
+                "open_issues": 1,
                 "owner": "hktk07",
                 "repo": "QCA",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
             }
@@ -925,15 +1253,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:32:20.050Z",
+    "last_updated": "2026-08-29T04:24:13.766Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
+      "homepage": "https://arxiv.org/abs/2503.17407",
       "id": 692615119,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-17T08:27:48Z",
+      "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2165
+      "stars": 2165,
+      "topics": [
+        "agent",
+        "awsome-list",
+        "benchmark",
+        "blogs",
+        "compress",
+        "evaluation",
+        "large-language-models",
+        "length-extrapolation",
+        "llm",
+        "long-context-modeling",
+        "long-term-memory",
+        "longcot",
+        "papers",
+        "rag",
+        "ssm",
+        "survey",
+        "transformer"
+      ]
     },
     "original_repository_sha": "79b01b26d13e90db6b17b77205fe9224f598f887",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
