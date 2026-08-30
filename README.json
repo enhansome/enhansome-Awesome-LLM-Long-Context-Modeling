@@ -22,8 +22,8 @@
                     "id": 1333720250,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-25T08:53:11Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-08-30T04:56:08Z",
+                    "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
                     "stars": 181,
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 8637,
+                    "stars": 8890,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 37,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1361,
+                "stars": 1395,
                 "topics": [
                   "agent",
                   "claude",
@@ -786,7 +786,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1560,
+                "stars": 1579,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 28,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8656,
+                "stars": 8661,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 416,
+                "stars": 418,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -956,10 +956,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-20T06:30:14Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 848,
+                "stars": 850,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1180,10 +1180,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-20T06:30:14Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 848,
+                "stars": 850,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:17:02.871Z",
+    "last_updated": "2026-08-30T09:22:18.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
