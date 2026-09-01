@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -103,7 +103,7 @@
                     "open_issues": 1,
                     "owner": "StartLuxLabs",
                     "repo": "Massive-Activations-HLA",
-                    "stars": 11,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -148,7 +148,7 @@
                     "id": 1323874734,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-12T12:05:39Z",
+                    "last_commit": "2026-08-31T16:22:15Z",
                     "open_issues": 1,
                     "owner": "m-Just",
                     "repo": "InSight-doc",
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 9093,
+                    "stars": 9686,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -238,7 +238,7 @@
                     "open_issues": 1,
                     "owner": "TailinZhou",
                     "repo": "hsi",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -399,7 +399,7 @@
                     "open_issues": 0,
                     "owner": "Diuven",
                     "repo": "LLaDA-Hybrid",
-                    "stars": 2,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -590,10 +590,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T12:36:03Z",
-                "open_issues": 37,
+                "open_issues": 40,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1415,
+                "stars": 1425,
                 "topics": [
                   "agent",
                   "claude",
@@ -737,7 +737,7 @@
                 "open_issues": 1,
                 "owner": "MemTensor",
                 "repo": "Metis",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -782,11 +782,11 @@
                 "id": 1013493454,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-07T13:41:49Z",
+                "last_commit": "2026-09-01T05:15:53Z",
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1596,
+                "stars": 1605,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 28,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8670,
+                "stars": 8677,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 418,
+                "stars": 420,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -959,7 +959,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1183,7 +1183,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1211,7 +1211,7 @@
                 "open_issues": 0,
                 "owner": "XMUDeepLIT",
                 "repo": "MemSyco-Bench",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "agent",
                   "agent-memory",
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:57:50.214Z",
+    "last_updated": "2026-09-01T08:48:50.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
