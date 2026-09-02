@@ -7,20 +7,20 @@
  <p align="center">
 
 <a href="https://arxiv.org/abs/2503.17407">📝 Survey Paper</a> | <a href="#-papers">📄 Paper List</a> | <a href="https://xnhyacinth.github.io/projects/Awesome-LCLM/">🏠 Homepage</a> | <a href="https://www.notion.so/Huanxuan-Liao-s-Blog-6518cf95f0d54858829b042588ff88bb">📚 Notes</a> |
-[⭐ GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
+[⭐ GitHub](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
 
  </p>
 </div>
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![LICENSE](https://img.shields.io/github/license/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/blob/main/LICENSE) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
-[![Last Commit](https://img.shields.io/github/last-commit/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?color=blue)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/commits/main) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
-[![Stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=social)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
-[![Forks](https://badgen.net/github/forks/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/forks) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
-[![Contributors](https://badgen.net/github/contributors/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/graphs/contributors) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
-[![Repo Size](https://img.shields.io/github/repo-size/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pulls) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
+[![LICENSE](https://img.shields.io/github/license/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/blob/main/LICENSE) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
+[![Last Commit](https://img.shields.io/github/last-commit/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?color=blue)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/commits/main) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
+[![Stars](https://img.shields.io/github/stars/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?style=social)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
+[![Forks](https://badgen.net/github/forks/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/forks) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
+[![Contributors](https://badgen.net/github/contributors/Xnhyacinth/Awesome-LLM-Long-Context-Modeling?icon=github)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/graphs/contributors) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
+[![Repo Size](https://img.shields.io/github/repo-size/Xnhyacinth/Awesome-LLM-Long-Context-Modeling)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/pulls) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
 [![arXiv](https://img.shields.io/badge/arXiv-2503.17407-b31b1b.svg)](https://arxiv.org/abs/2503.17407)
 
 </div>
@@ -118,7 +118,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Handover of In-Context Learning State Across Session Boundaries](https://arxiv.org/abs/2608.14528)
 
 * **\[2026.08.13]**
-  * Paper: [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560) [![GitHub Repo stars](https://img.shields.io/github/stars/Yaxin9Luo/AutoDesign)](https://github.com/Yaxin9Luo/AutoDesign) ⭐ 185 | 🐛 0 | 🌐 Python | 📅 2026-08-30 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://autodesign.designanything.ai/)
+  * Paper: [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560) [![GitHub Repo stars](https://img.shields.io/github/stars/Yaxin9Luo/AutoDesign)](https://github.com/Yaxin9Luo/AutoDesign) ⭐ 187 | 🐛 0 | 🌐 Python | 📅 2026-08-30 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://autodesign.designanything.ai/)
   * Paper: [PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552) [![GitHub Repo stars](https://img.shields.io/github/stars/kxding/PlayWorld)](https://github.com/kxding/PlayWorld) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2026-08-23 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://kxding.github.io/project/PlayWorld/)
   * Paper: [CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](https://arxiv.org/abs/2608.13226) [![GitHub Repo stars](https://img.shields.io/github/stars/Brucess/CoverPrune)](https://github.com/Brucess/CoverPrune) ⭐ 1 | 🐛 1 | 📅 2026-06-27
   * Paper: [The Query Knows What to Forget: A Second Erase Direction for Linear Attention](https://arxiv.org/abs/2608.13668)
@@ -133,7 +133,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory](https://arxiv.org/abs/2608.13113)
 
 * **\[2026.08.12]**
-  * Paper: [Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus](https://arxiv.org/abs/2608.12149) [![GitHub Repo stars](https://img.shields.io/github/stars/StartluxLabs/Massive-Activations-HLA)](https://github.com/StartluxLabs/Massive-Activations-HLA) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-13
+  * Paper: [Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus](https://arxiv.org/abs/2608.12149) [![GitHub Repo stars](https://img.shields.io/github/stars/StartluxLabs/Massive-Activations-HLA)](https://github.com/StartluxLabs/Massive-Activations-HLA) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-13
   * Paper: [The Sleeping Agent: What Gist-Based Context Compression Loses and Why](https://arxiv.org/abs/2608.11775) [![GitHub Repo stars](https://img.shields.io/github/stars/kyrkewood/sleeping-agent)](https://github.com/kyrkewood/sleeping-agent) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-11
   * Paper: [EgoCITE: Context-Augmented Indexing and Time-Aware Retrieval for Long-Horizon Egocentric Memory](https://arxiv.org/abs/2608.12627)
   * Paper: [Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge](https://arxiv.org/abs/2608.12218)
@@ -149,7 +149,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Towards Understanding On-Policy Distillation through the Lens of Test-Time Scaling](https://arxiv.org/abs/2608.11829)
 
 * **\[2026.08.11]**
-  * Paper: [InSight-doc: Agentic Visual Perception for Long-Document Understanding](https://arxiv.org/abs/2608.10628) [![GitHub Repo stars](https://img.shields.io/github/stars/m-Just/InSight-doc)](https://github.com/m-Just/InSight-doc) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-08-31
+  * Paper: [InSight-doc: Agentic Visual Perception for Long-Document Understanding](https://arxiv.org/abs/2608.10628) [![GitHub Repo stars](https://img.shields.io/github/stars/m-Just/InSight-doc)](https://github.com/m-Just/InSight-doc) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-09-01
   * Paper: [Efficient Reinforcement Learning for Long-Horizon Tool-Use Agentic Tasks](https://arxiv.org/abs/2608.10357)
   * Paper: [Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models](https://arxiv.org/abs/2608.10824)
   * Paper: [ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover](https://arxiv.org/abs/2608.10545)
@@ -161,7 +161,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling](https://arxiv.org/abs/2608.10928)
 
 * **\[2026.08.10]**
-  * Paper: [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://arxiv.org/abs/2608.09888) [![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/arc-task-gen)](https://github.com/pathwaycom/arc-task-gen) ⭐ 9,686 | 🐛 1 | 🌐 Python | 📅 2026-08-11 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+  * Paper: [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://arxiv.org/abs/2608.09888) [![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/arc-task-gen)](https://github.com/pathwaycom/arc-task-gen) ⭐ 9,989 | 🐛 1 | 🌐 Python | 📅 2026-08-11 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
   * Paper: [KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models](https://arxiv.org/abs/2608.09412) [![GitHub Repo stars](https://img.shields.io/github/stars/ChosenQC/KVDiagnosis)](https://github.com/ChosenQC/KVDiagnosis) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-07-20
   * Paper: [Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension](https://arxiv.org/abs/2608.10296)
   * Paper: [MixFormer: Linear Transformer with Mixture of Memory Experts](https://arxiv.org/abs/2608.09468)
@@ -186,7 +186,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [SuperLocalMemory 4.0: The Governed Memory Operating System for AI Agents](https://arxiv.org/abs/2608.08253)
 
 * **\[2026.08.07]**
-  * Paper: [Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory](https://arxiv.org/abs/2608.07169) [![GitHub Repo stars](https://img.shields.io/github/stars/taeilkim2465/agentic_memory_distillation)](https://github.com/taeilkim2465/agentic_memory_distillation) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-10 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://agent-memory-distillation.github.io)
+  * Paper: [Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory](https://arxiv.org/abs/2608.07169) [![GitHub Repo stars](https://img.shields.io/github/stars/taeilkim2465/agentic_memory_distillation)](https://github.com/taeilkim2465/agentic_memory_distillation) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-10 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://agent-memory-distillation.github.io)
   * Paper: [DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding](https://arxiv.org/abs/2608.07067) [![GitHub Repo stars](https://img.shields.io/github/stars/Harrygof/DocMemo)](https://github.com/Harrygof/DocMemo) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-13
   * Paper: [MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents](https://arxiv.org/abs/2608.07068) [![GitHub Repo stars](https://img.shields.io/github/stars/TPssp/MemOPD)](https://github.com/TPssp/MemOPD) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-11
   * Paper: [Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework](https://arxiv.org/abs/2608.06909) [![GitHub Repo stars](https://img.shields.io/github/stars/chenjing-2024/agent-trajectory-attribution)](https://github.com/chenjing-2024/agent-trajectory-attribution) ⭐ 0 | 🐛 1 | 📅 2026-08-02
@@ -231,7 +231,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Chained Recursive Language Models for Multi-Iteration Reasoning](https://arxiv.org/abs/2608.05124)
 
 * **\[2026.08.04]**
-  * Paper: [OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents](https://arxiv.org/abs/2608.05013) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/OneDayAgent)](https://github.com/zjunlp/OneDayAgent) ⭐ 28 | 🐛 0 | 🌐 HTML | 📅 2026-08-15
+  * Paper: [OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents](https://arxiv.org/abs/2608.05013) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/OneDayAgent)](https://github.com/zjunlp/OneDayAgent) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2026-08-15
   * Paper: [SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://arxiv.org/abs/2608.03335) [![GitHub Repo stars](https://img.shields.io/github/stars/6somehow/DAC-SPADE)](https://github.com/6somehow/DAC-SPADE) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-13
   * Paper: [When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding](https://arxiv.org/abs/2608.03918) [![GitHub Repo stars](https://img.shields.io/github/stars/AK-DREAM/EcoFrame)](https://github.com/AK-DREAM/EcoFrame) ⭐ 1 | 🐛 1 | 📅 2026-08-05
   * Paper: [Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms](https://arxiv.org/abs/2608.04074)
@@ -258,7 +258,7 @@ If you find our repository and survey useful for your research, please consider 
 <details><summary>Month Papers</summary>
 
 * **\[2026.08.03]**
-  * Paper: [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://arxiv.org/abs/2608.01964) [![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness)](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,425 | 🐛 40 | 🌐 Python | 📅 2026-08-20 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://lh-harness.pages.dev)
+  * Paper: [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://arxiv.org/abs/2608.01964) [![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness)](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,433 | 🐛 41 | 🌐 Python | 📅 2026-08-20 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://lh-harness.pages.dev)
   * Paper: [GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience](https://arxiv.org/abs/2608.02392) [![GitHub Repo stars](https://img.shields.io/github/stars/SitongGong/GROVE)](https://github.com/SitongGong/GROVE) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-12
   * Paper: [Does Accuracy Equal Evidence? Reasoning Faithfulness under KV Cache Compression](https://arxiv.org/abs/2608.01631) [![GitHub Repo stars](https://img.shields.io/github/stars/famous-blue-raincoat/Safe_KV_Compress)](https://github.com/famous-blue-raincoat/Safe_KV_Compress) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-03
   * Paper: [ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947)
@@ -322,13 +322,13 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring](https://arxiv.org/abs/2607.27110)
 
 * **\[2026.07.28]**
-  * Paper: [CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AngelSlim)](https://github.com/Tencent/AngelSlim) ⭐ 1,605 | 🐛 66 | 🌐 Python | 📅 2026-09-01
+  * Paper: [CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AngelSlim)](https://github.com/Tencent/AngelSlim) ⭐ 1,614 | 🐛 67 | 🌐 Python | 📅 2026-09-01
   * Paper: [CHILL-Harness: Counterfactual Harness Learning for Efficient Reasoning in Long-Horizon Agents](https://arxiv.org/abs/2607.25825)
   * Paper: [Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors](https://arxiv.org/abs/2607.25335)
   * Paper: [Seen, Said, or Forgotten? A Causal Audit of Visual KV Memory Across Dialog Turns](https://arxiv.org/abs/2607.25467)
 
 * **\[2026.07.27]**
-  * Paper: [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3)](https://github.com/MoonshotAI/Kimi-K3) ⭐ 8,677 | 🐛 28 | 📅 2026-08-06 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.kimi.com/blog/kimi-k3)
+  * Paper: [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3)](https://github.com/MoonshotAI/Kimi-K3) ⭐ 8,686 | 🐛 28 | 📅 2026-08-06 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.kimi.com/blog/kimi-k3)
   * Paper: [PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention](https://arxiv.org/abs/2607.24593)
   * Paper: [Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory](https://arxiv.org/abs/2607.24368)
   * Paper: [MemTX: Transactional Belief Commit for Stateful Agent Memory](https://arxiv.org/abs/2607.23929)
@@ -339,7 +339,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](https://arxiv.org/abs/2607.24554)
 
 * **\[2026.07.26]**
-  * Paper: [ACM: Agentic Context Management for Long Horizon Tasks](https://arxiv.org/abs/2607.23809) [![GitHub Repo stars](https://img.shields.io/github/stars/lixiaochuan2020/agentic-context-management)](https://github.com/lixiaochuan2020/agentic-context-management) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-08-03
+  * Paper: [ACM: Agentic Context Management for Long Horizon Tasks](https://arxiv.org/abs/2607.23809) [![GitHub Repo stars](https://img.shields.io/github/stars/lixiaochuan2020/agentic-context-management)](https://github.com/lixiaochuan2020/agentic-context-management) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-08-03
   * Paper: [Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models](https://arxiv.org/abs/2607.23445)
   * Paper: [Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV](https://arxiv.org/abs/2607.23693)
 
@@ -446,7 +446,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents](https://arxiv.org/abs/2607.12267)
 
 * **\[2026.07.13]**
-  * Paper: [LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightMem-Ego)](https://github.com/zjunlp/LightMem-Ego) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-08-20
+  * Paper: [LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightMem-Ego)](https://github.com/zjunlp/LightMem-Ego) ⭐ 68 | 🐛 2 | 🌐 Python | 📅 2026-08-20
   * Paper: [Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos](https://arxiv.org/abs/2607.11523)
   * Paper: [ToFu: A White-Box, Token-Efficient Agent Harness for Researchers](https://arxiv.org/abs/2607.11423)
   * Paper: [StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure](https://arxiv.org/abs/2607.11388)
@@ -580,8 +580,8 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ### Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling\&type=Timeline)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,165 | 🐛 0 | 📅 2026-08-17
+[![Star History Chart](https://star-history.dera.page/svg?repos=Xnhyacinth/Awesome-LLM-Long-Context-Modeling\&type=Timeline)](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling/stargazers) ⭐ 2,163 | 🐛 0 | 📅 2026-08-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
