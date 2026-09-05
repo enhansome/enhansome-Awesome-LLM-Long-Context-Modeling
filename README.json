@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 193,
+                    "stars": 194,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 10465,
+                    "stars": 10606,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -238,7 +238,7 @@
                     "open_issues": 1,
                     "owner": "TailinZhou",
                     "repo": "hsi",
-                    "stars": 12,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 41,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1458,
+                "stars": 1461,
                 "topics": [
                   "agent",
                   "claude",
@@ -782,11 +782,11 @@
                 "id": 1013493454,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T05:15:53Z",
-                "open_issues": 67,
+                "last_commit": "2026-09-04T15:17:59Z",
+                "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1625,
+                "stars": 1626,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 28,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8705,
+                "stars": 8709,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 430,
+                "stars": 435,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:06:33.515Z",
+    "last_updated": "2026-09-05T07:46:37.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1265,7 +1265,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2164,
+      "stars": 2163,
       "topics": [
         "agent",
         "awsome-list",
