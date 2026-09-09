@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11250,
+                    "stars": 11245,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -329,7 +329,7 @@
                     "open_issues": 0,
                     "owner": "Harrygof",
                     "repo": "DocMemo",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -371,7 +371,7 @@
                     "open_issues": 1,
                     "owner": "chenjing-2024",
                     "repo": "agent-trajectory-attribution",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -554,7 +554,7 @@
                     "open_issues": 1,
                     "owner": "AK-DREAM",
                     "repo": "EcoFrame",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 42,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1478,
+                "stars": 1480,
                 "topics": [
                   "agent",
                   "claude",
@@ -737,7 +737,7 @@
                 "open_issues": 1,
                 "owner": "MemTensor",
                 "repo": "Metis",
-                "stars": 153,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -786,7 +786,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1631,
+                "stars": 1637,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 28,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8728,
+                "stars": 8735,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -856,7 +856,7 @@
                 "open_issues": 0,
                 "owner": "lixiaochuan2020",
                 "repo": "agentic-context-management",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 443,
+                "stars": 446,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -959,7 +959,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1183,7 +1183,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 869,
+                "stars": 870,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:14:01.725Z",
+    "last_updated": "2026-09-09T08:17:21.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1265,7 +1265,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2165,
+      "stars": 2167,
       "topics": [
         "agent",
         "awsome-list",
