@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 197,
+                    "stars": 201,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -103,7 +103,7 @@
                     "open_issues": 1,
                     "owner": "StartLuxLabs",
                     "repo": "Massive-Activations-HLA",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11245,
+                    "stars": 11239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -590,10 +590,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T12:36:03Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1480,
+                "stars": 1487,
                 "topics": [
                   "agent",
                   "claude",
@@ -698,7 +698,7 @@
                 "id": 1317220208,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T21:12:03Z",
+                "last_commit": "2026-09-09T12:43:32Z",
                 "open_issues": 0,
                 "owner": "jn12-29",
                 "repo": "SemPIC",
@@ -786,7 +786,7 @@
                 "open_issues": 66,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1637,
+                "stars": 1638,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -825,10 +825,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T10:17:28Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8735,
+                "stars": 8747,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 446,
+                "stars": 448,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -959,7 +959,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 870,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1085,7 +1085,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "LightMem-Ego",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "agent-memory",
                   "artificial-intelligence",
@@ -1183,7 +1183,7 @@
                 "open_issues": 4,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 870,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1253,7 +1253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:17:21.368Z",
+    "last_updated": "2026-09-10T08:17:04.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1265,7 +1265,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2167,
+      "stars": 2168,
       "topics": [
         "agent",
         "awsome-list",
