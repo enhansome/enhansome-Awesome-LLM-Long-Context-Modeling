@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 219,
+                    "stars": 220,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -54,7 +54,7 @@
                     "open_issues": 1,
                     "owner": "hku-sail",
                     "repo": "PlayWorld",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11213,
+                    "stars": 11201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 45,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1515,
+                "stars": 1540,
                 "topics": [
                   "agent",
                   "claude",
@@ -632,7 +632,7 @@
                 "open_issues": 1,
                 "owner": "SitongGong",
                 "repo": "GROVE",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -786,7 +786,7 @@
                 "open_issues": 67,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1648,
+                "stars": 1650,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 30,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8789,
+                "stars": 8794,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -956,7 +956,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-20T06:30:14Z",
-                "open_issues": 6,
+                "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
                 "stars": 879,
@@ -1057,7 +1057,7 @@
                 "open_issues": 2,
                 "owner": "MindLab-Research",
                 "repo": "longstraw",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1077,21 +1077,29 @@
               "repo_info": {
                 "archived": false,
                 "description": "LightMem-Ego: Your AI Memory for Everyday Life",
-                "homepage": null,
+                "homepage": "https://lightmem-ego.zjukg.cn/",
                 "id": 1244621946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T00:10:32Z",
+                "last_commit": "2026-09-15T16:29:41Z",
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "LightMem-Ego",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "agent-memory",
                   "artificial-intelligence",
+                  "ego-centric",
+                  "lifelogging",
                   "lightmem",
                   "lightmem-ego",
-                  "multimodal-ai"
+                  "long-video-qa",
+                  "multimodal-agent",
+                  "multimodal-ai",
+                  "multimodal-memory",
+                  "rokid",
+                  "smart-glasses",
+                  "wearable"
                 ]
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1180,7 +1188,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-20T06:30:14Z",
-                "open_issues": 6,
+                "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
                 "stars": 879,
@@ -1253,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:50:26.762Z",
+    "last_updated": "2026-09-16T08:44:16.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1265,7 +1273,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2170,
+      "stars": 2171,
       "topics": [
         "agent",
         "awsome-list",
