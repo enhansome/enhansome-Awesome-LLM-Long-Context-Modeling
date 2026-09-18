@@ -152,7 +152,7 @@
                     "open_issues": 1,
                     "owner": "m-Just",
                     "repo": "InSight-doc",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": [
                       "active-perception",
                       "agentic-ai",
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11196,
+                    "stars": 11188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 39,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1576,
+                "stars": 1589,
                 "topics": [
                   "agent",
                   "claude",
@@ -786,7 +786,7 @@
                 "open_issues": 67,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1652,
+                "stars": 1655,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 30,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8802,
+                "stars": 8812,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -856,7 +856,7 @@
                 "open_issues": 0,
                 "owner": "lixiaochuan2020",
                 "repo": "agentic-context-management",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:48:06.140Z",
+    "last_updated": "2026-09-18T08:23:48.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
