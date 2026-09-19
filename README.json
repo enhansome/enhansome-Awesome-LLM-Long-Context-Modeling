@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11188,
+                    "stars": 11185,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 39,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1589,
+                "stars": 1596,
                 "topics": [
                   "agent",
                   "claude",
@@ -786,7 +786,7 @@
                 "open_issues": 67,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1655,
+                "stars": 1656,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -825,10 +825,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T10:17:28Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8812,
+                "stars": 8819,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -881,10 +881,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-21T23:48:30Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -959,7 +959,7 @@
                 "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 881,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1191,7 +1191,7 @@
                 "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 881,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T08:23:48.106Z",
+    "last_updated": "2026-09-19T08:11:25.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1273,7 +1273,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2172,
+      "stars": 2171,
       "topics": [
         "agent",
         "awsome-list",
