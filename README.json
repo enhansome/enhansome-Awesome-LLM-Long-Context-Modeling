@@ -54,7 +54,7 @@
                     "open_issues": 1,
                     "owner": "hku-sail",
                     "repo": "PlayWorld",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -189,7 +189,7 @@
                     "open_issues": 1,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11171,
+                    "stars": 11167,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 40,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1609,
+                "stars": 1614,
                 "topics": [
                   "agent",
                   "claude",
@@ -698,7 +698,7 @@
                 "id": 1317220208,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T13:59:42Z",
+                "last_commit": "2026-09-21T15:30:36Z",
                 "open_issues": 0,
                 "owner": "jn12-29",
                 "repo": "SemPIC",
@@ -737,7 +737,7 @@
                 "open_issues": 1,
                 "owner": "MemTensor",
                 "repo": "Metis",
-                "stars": 162,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -782,11 +782,11 @@
                 "id": 1013493454,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T15:17:59Z",
+                "last_commit": "2026-09-21T10:39:09Z",
                 "open_issues": 70,
                 "owner": "Tencent",
                 "repo": "AngelSlim",
-                "stars": 1660,
+                "stars": 1663,
                 "topics": [
                   "audio",
                   "deepseek",
@@ -828,7 +828,7 @@
                 "open_issues": 29,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8832,
+                "stars": 8838,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -884,7 +884,7 @@
                 "open_issues": 2,
                 "owner": "alexisfox7",
                 "repo": "PRO-LONG",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "agent-memory",
                   "arc-agi",
@@ -959,7 +959,7 @@
                 "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 884,
+                "stars": 886,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1155,7 +1155,7 @@
                 "open_issues": 0,
                 "owner": "tommasocerruti",
                 "repo": "linear-attention-architectures",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "associative-memory",
                   "attention-mechanisms",
@@ -1191,7 +1191,7 @@
                 "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 884,
+                "stars": 886,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:10:50.718Z",
+    "last_updated": "2026-09-22T08:41:48.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
