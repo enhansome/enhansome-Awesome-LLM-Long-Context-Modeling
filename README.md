@@ -161,7 +161,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling](https://arxiv.org/abs/2608.10928)
 
 * **\[2026.08.10]**
-  * Paper: [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://arxiv.org/abs/2608.09888) [![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/arc-task-gen)](https://github.com/pathwaycom/arc-task-gen) ⭐ 11,145 | 🐛 2 | 🌐 Python | 📅 2026-08-11 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+  * Paper: [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://arxiv.org/abs/2608.09888) [![GitHub Repo stars](https://img.shields.io/github/stars/pathwaycom/arc-task-gen)](https://github.com/pathwaycom/arc-task-gen) ⭐ 11,140 | 🐛 2 | 🌐 Python | 📅 2026-08-11 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
   * Paper: [KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models](https://arxiv.org/abs/2608.09412) [![GitHub Repo stars](https://img.shields.io/github/stars/ChosenQC/KVDiagnosis)](https://github.com/ChosenQC/KVDiagnosis) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-07-20
   * Paper: [Cracks in the Foundation: Seemingly Minor Architectural Choices Impact Long Context Extension](https://arxiv.org/abs/2608.10296)
   * Paper: [MixFormer: Linear Transformer with Mixture of Memory Experts](https://arxiv.org/abs/2608.09468)
@@ -171,7 +171,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Motif 3: Technical Report](https://arxiv.org/abs/2608.09119)
 
 * **\[2026.08.09]**
-  * Paper: [Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses](https://arxiv.org/abs/2608.08466) [![GitHub Repo stars](https://img.shields.io/github/stars/TailinZhou/hsi)](https://github.com/TailinZhou/hsi) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-08-23
+  * Paper: [Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses](https://arxiv.org/abs/2608.08466) [![GitHub Repo stars](https://img.shields.io/github/stars/TailinZhou/hsi)](https://github.com/TailinZhou/hsi) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-23
   * Paper: [VoxZip: Semantic-Anchored Temporal KV Cache Compression for Long-Context Audio Inference](https://arxiv.org/abs/2608.08569) [![GitHub Repo stars](https://img.shields.io/github/stars/MM-Speech/VoxZip)](https://github.com/MM-Speech/VoxZip) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-31
   * Paper: [VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling](https://arxiv.org/abs/2608.08630) [![GitHub Repo stars](https://img.shields.io/github/stars/ShareLab-SII/VLZip)](https://github.com/ShareLab-SII/VLZip) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-15
   * Paper: [DistillCache: KL-Guided Adaptive KV-Cache Eviction for Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.08878)
@@ -258,7 +258,7 @@ If you find our repository and survey useful for your research, please consider 
 <details><summary>Month Papers</summary>
 
 * **\[2026.08.03]**
-  * Paper: [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://arxiv.org/abs/2608.01964) [![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness)](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,624 | 🐛 40 | 🌐 Python | 📅 2026-08-20 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://lh-harness.pages.dev)
+  * Paper: [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://arxiv.org/abs/2608.01964) [![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness)](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,627 | 🐛 37 | 🌐 Python | 📅 2026-08-20 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://lh-harness.pages.dev)
   * Paper: [GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience](https://arxiv.org/abs/2608.02392) [![GitHub Repo stars](https://img.shields.io/github/stars/SitongGong/GROVE)](https://github.com/SitongGong/GROVE) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-08-12
   * Paper: [Does Accuracy Equal Evidence? Reasoning Faithfulness under KV Cache Compression](https://arxiv.org/abs/2608.01631) [![GitHub Repo stars](https://img.shields.io/github/stars/famous-blue-raincoat/Safe_KV_Compress)](https://github.com/famous-blue-raincoat/Safe_KV_Compress) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-08-03
   * Paper: [ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference](https://arxiv.org/abs/2608.02947)
@@ -322,13 +322,13 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring](https://arxiv.org/abs/2607.27110)
 
 * **\[2026.07.28]**
-  * Paper: [CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AngelSlim)](https://github.com/Tencent/AngelSlim) ⭐ 1,667 | 🐛 70 | 🌐 Python | 📅 2026-09-21
+  * Paper: [CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AngelSlim)](https://github.com/Tencent/AngelSlim) ⭐ 1,666 | 🐛 67 | 🌐 Python | 📅 2026-09-25
   * Paper: [CHILL-Harness: Counterfactual Harness Learning for Efficient Reasoning in Long-Horizon Agents](https://arxiv.org/abs/2607.25825)
   * Paper: [Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors](https://arxiv.org/abs/2607.25335)
   * Paper: [Seen, Said, or Forgotten? A Causal Audit of Visual KV Memory Across Dialog Turns](https://arxiv.org/abs/2607.25467)
 
 * **\[2026.07.27]**
-  * Paper: [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3)](https://github.com/MoonshotAI/Kimi-K3) ⭐ 8,850 | 🐛 30 | 📅 2026-08-06 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.kimi.com/blog/kimi-k3)
+  * Paper: [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) [![GitHub Repo stars](https://img.shields.io/github/stars/MoonshotAI/Kimi-K3)](https://github.com/MoonshotAI/Kimi-K3) ⭐ 8,855 | 🐛 31 | 📅 2026-08-06 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://www.kimi.com/blog/kimi-k3)
   * Paper: [PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention](https://arxiv.org/abs/2607.24593)
   * Paper: [Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory](https://arxiv.org/abs/2607.24368)
   * Paper: [MemTX: Transactional Belief Commit for Stateful Agent Memory](https://arxiv.org/abs/2607.23929)
@@ -446,7 +446,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents](https://arxiv.org/abs/2607.12267)
 
 * **\[2026.07.13]**
-  * Paper: [LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightMem-Ego)](https://github.com/zjunlp/LightMem-Ego) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-09-22
+  * Paper: [LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487) [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightMem-Ego)](https://github.com/zjunlp/LightMem-Ego) ⭐ 102 | 🐛 0 | 🌐 Python | 📅 2026-09-22
   * Paper: [Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos](https://arxiv.org/abs/2607.11523)
   * Paper: [ToFu: A White-Box, Token-Efficient Agent Harness for Researchers](https://arxiv.org/abs/2607.11423)
   * Paper: [StructAgent: Harness Long-horizon Digital Agents with Unified Causal Structure](https://arxiv.org/abs/2607.11388)
@@ -584,4 +584,4 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
