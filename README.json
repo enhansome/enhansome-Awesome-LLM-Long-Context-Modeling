@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11140,
+                    "stars": 11129,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -238,7 +238,7 @@
                     "open_issues": 1,
                     "owner": "TailinZhou",
                     "repo": "hsi",
-                    "stars": 13,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 37,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1627,
+                "stars": 1630,
                 "topics": [
                   "agent",
                   "claude",
@@ -852,7 +852,7 @@
                 "id": 1312990898,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-03T05:16:49Z",
+                "last_commit": "2026-09-26T01:48:51Z",
                 "open_issues": 0,
                 "owner": "lixiaochuan2020",
                 "repo": "agentic-context-management",
@@ -959,7 +959,7 @@
                 "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 888,
+                "stars": 889,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1191,7 +1191,7 @@
                 "open_issues": 2,
                 "owner": "AlayaLab",
                 "repo": "AlayaWorld",
-                "stars": 888,
+                "stars": 889,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:58:32.143Z",
+    "last_updated": "2026-09-26T08:44:30.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
