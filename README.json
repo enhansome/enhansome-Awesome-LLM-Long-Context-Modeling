@@ -54,7 +54,7 @@
                     "open_issues": 1,
                     "owner": "hku-sail",
                     "repo": "PlayWorld",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11120,
+                    "stars": 11112,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -593,7 +593,7 @@
                 "open_issues": 43,
                 "owner": "AMAP-ML",
                 "repo": "LongHorizon-Harness",
-                "stars": 1636,
+                "stars": 1643,
                 "topics": [
                   "agent",
                   "claude",
@@ -825,10 +825,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-06T10:17:28Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "MoonshotAI",
                 "repo": "Kimi-K3",
-                "stars": 8871,
+                "stars": 8879,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1085,7 +1085,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "LightMem-Ego",
-                "stars": 104,
+                "stars": 107,
                 "topics": [
                   "agent-memory",
                   "artificial-intelligence",
@@ -1261,7 +1261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:01:36.415Z",
+    "last_updated": "2026-09-29T10:00:45.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1273,7 +1273,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2172,
+      "stars": 2173,
       "topics": [
         "agent",
         "awsome-list",
