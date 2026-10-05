@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11088,
+                    "stars": 11083,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -591,7 +591,7 @@
                         "open_issues": 43,
                         "owner": "AMAP-ML",
                         "repo": "LongHorizon-Harness",
-                        "stars": 1653,
+                        "stars": 1658,
                         "topics": [
                           "agent",
                           "claude",
@@ -735,7 +735,7 @@
                         "open_issues": 1,
                         "owner": "MemTensor",
                         "repo": "Metis",
-                        "stars": 169,
+                        "stars": 170,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -826,7 +826,7 @@
                         "open_issues": 34,
                         "owner": "MoonshotAI",
                         "repo": "Kimi-K3",
-                        "stars": 8892,
+                        "stars": 8896,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -854,7 +854,7 @@
                         "open_issues": 0,
                         "owner": "lixiaochuan2020",
                         "repo": "agentic-context-management",
-                        "stars": 41,
+                        "stars": 42,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1083,7 +1083,7 @@
                         "open_issues": 0,
                         "owner": "zjunlp",
                         "repo": "LightMem-Ego",
-                        "stars": 108,
+                        "stars": 109,
                         "topics": [
                           "agent-memory",
                           "artificial-intelligence",
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T09:58:36.717Z",
+    "last_updated": "2026-10-05T10:42:37.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
