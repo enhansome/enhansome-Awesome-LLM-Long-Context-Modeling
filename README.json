@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 231,
+                    "stars": 232,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11083,
+                    "stars": 11076,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -591,7 +591,7 @@
                         "open_issues": 43,
                         "owner": "AMAP-ML",
                         "repo": "LongHorizon-Harness",
-                        "stars": 1658,
+                        "stars": 1661,
                         "topics": [
                           "agent",
                           "claude",
@@ -826,7 +826,7 @@
                         "open_issues": 34,
                         "owner": "MoonshotAI",
                         "repo": "Kimi-K3",
-                        "stars": 8896,
+                        "stars": 8898,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1074,16 +1074,16 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
-                        "description": "LightMem-Ego: Your AI Memory for Everyday Life",
+                        "description": "[EMNLP 2026] LightMem-Ego: Your AI Memory for Everyday Life",
                         "homepage": "https://lightmem-ego.zjukg.cn/",
                         "id": 1244621946,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-22T13:37:45Z",
+                        "last_commit": "2026-10-05T16:24:58Z",
                         "open_issues": 0,
                         "owner": "zjunlp",
                         "repo": "LightMem-Ego",
-                        "stars": 109,
+                        "stars": 110,
                         "topics": [
                           "agent-memory",
                           "artificial-intelligence",
@@ -1213,7 +1213,7 @@
                         "id": 1285635617,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-11T05:19:23Z",
+                        "last_commit": "2026-10-06T08:29:01Z",
                         "open_issues": 1,
                         "owner": "XMUDeepLIT",
                         "repo": "MemSyco-Bench",
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:42:37.456Z",
+    "last_updated": "2026-10-06T10:34:09.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1281,7 +1281,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2175,
+      "stars": 2176,
       "topics": [
         "agent",
         "awsome-list",
