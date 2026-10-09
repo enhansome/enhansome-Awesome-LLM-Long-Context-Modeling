@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11062,
+                    "stars": 11053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -504,7 +504,7 @@
                     "open_issues": 0,
                     "owner": "zjunlp",
                     "repo": "OneDayAgent",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -591,7 +591,7 @@
                         "open_issues": 43,
                         "owner": "AMAP-ML",
                         "repo": "LongHorizon-Harness",
-                        "stars": 1687,
+                        "stars": 1705,
                         "topics": [
                           "agent",
                           "claude",
@@ -735,7 +735,7 @@
                         "open_issues": 1,
                         "owner": "MemTensor",
                         "repo": "Metis",
-                        "stars": 171,
+                        "stars": 173,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -784,7 +784,7 @@
                         "open_issues": 68,
                         "owner": "Tencent",
                         "repo": "AngelSlim",
-                        "stars": 1750,
+                        "stars": 1755,
                         "topics": [
                           "audio",
                           "deepseek",
@@ -826,7 +826,7 @@
                         "open_issues": 34,
                         "owner": "MoonshotAI",
                         "repo": "Kimi-K3",
-                        "stars": 8904,
+                        "stars": 8903,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -957,7 +957,7 @@
                         "open_issues": 1,
                         "owner": "AlayaLab",
                         "repo": "AlayaWorld",
-                        "stars": 790,
+                        "stars": 793,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1189,7 +1189,7 @@
                         "open_issues": 1,
                         "owner": "AlayaLab",
                         "repo": "AlayaWorld",
-                        "stars": 790,
+                        "stars": 793,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1247,7 +1247,7 @@
                         "open_issues": 1,
                         "owner": "hktk07",
                         "repo": "QCA",
-                        "stars": 3,
+                        "stars": 4,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:48:09.714Z",
+    "last_updated": "2026-10-09T10:46:41.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
