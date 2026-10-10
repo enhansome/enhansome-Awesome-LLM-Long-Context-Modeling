@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 236,
+                    "stars": 238,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11053,
+                    "stars": 11049,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -294,27 +294,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Paper: Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
-                  "description": "taeilkim2465/agentic_memory_distillation",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for the paper: Agentic Memory Distillation",
-                    "homepage": null,
-                    "id": 1272927507,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-08-10T06:56:34Z",
-                    "open_issues": 0,
-                    "owner": "taeilkim2465",
-                    "repo": "agentic_memory_distillation",
-                    "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T15:32:20.050Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Paper: DocMemo: Dynamic Evidence Discovery via Probabilistic Memory-Guided Retrieval for Multi-Modal Document Understanding",
                   "description": "Harrygof/DocMemo",
                   "children": [],
@@ -329,6 +308,27 @@
                     "open_issues": 0,
                     "owner": "Harrygof",
                     "repo": "DocMemo",
+                    "stars": 9,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T15:32:20.050Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+                  "description": "taeilkim2465/agentic_memory_distillation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for the paper: Agentic Memory Distillation",
+                    "homepage": null,
+                    "id": 1272927507,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-10T06:56:34Z",
+                    "open_issues": 0,
+                    "owner": "taeilkim2465",
+                    "repo": "agentic_memory_distillation",
                     "stars": 8,
                     "topics": []
                   },
@@ -591,7 +591,7 @@
                         "open_issues": 43,
                         "owner": "AMAP-ML",
                         "repo": "LongHorizon-Harness",
-                        "stars": 1705,
+                        "stars": 1715,
                         "topics": [
                           "agent",
                           "claude",
@@ -784,7 +784,7 @@
                         "open_issues": 68,
                         "owner": "Tencent",
                         "repo": "AngelSlim",
-                        "stars": 1755,
+                        "stars": 1757,
                         "topics": [
                           "audio",
                           "deepseek",
@@ -826,7 +826,7 @@
                         "open_issues": 34,
                         "owner": "MoonshotAI",
                         "repo": "Kimi-K3",
-                        "stars": 8903,
+                        "stars": 8907,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1027,7 +1027,7 @@
                         "open_issues": 1,
                         "owner": "allacnobug",
                         "repo": "LazyMem",
-                        "stars": 3,
+                        "stars": 4,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:46:41.761Z",
+    "last_updated": "2026-10-10T10:01:48.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1281,7 +1281,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2177,
+      "stars": 2179,
       "topics": [
         "agent",
         "awsome-list",
