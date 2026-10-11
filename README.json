@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11049,
+                    "stars": 11045,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -591,7 +591,7 @@
                         "open_issues": 43,
                         "owner": "AMAP-ML",
                         "repo": "LongHorizon-Harness",
-                        "stars": 1715,
+                        "stars": 1717,
                         "topics": [
                           "agent",
                           "claude",
@@ -735,7 +735,7 @@
                         "open_issues": 1,
                         "owner": "MemTensor",
                         "repo": "Metis",
-                        "stars": 173,
+                        "stars": 174,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -784,7 +784,7 @@
                         "open_issues": 68,
                         "owner": "Tencent",
                         "repo": "AngelSlim",
-                        "stars": 1757,
+                        "stars": 1758,
                         "topics": [
                           "audio",
                           "deepseek",
@@ -826,7 +826,7 @@
                         "open_issues": 34,
                         "owner": "MoonshotAI",
                         "repo": "Kimi-K3",
-                        "stars": 8907,
+                        "stars": 8913,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -854,7 +854,7 @@
                         "open_issues": 0,
                         "owner": "lixiaochuan2020",
                         "repo": "agentic-context-management",
-                        "stars": 42,
+                        "stars": 43,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:01:48.617Z",
+    "last_updated": "2026-10-11T10:11:44.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
