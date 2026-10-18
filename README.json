@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "Yaxin9Luo",
                     "repo": "AutoDesign",
-                    "stars": 245,
+                    "stars": 246,
                     "topics": [
                       "agentic",
                       "agentic-design",
@@ -189,7 +189,7 @@
                     "open_issues": 2,
                     "owner": "pathwaycom",
                     "repo": "arc-task-gen",
-                    "stars": 11012,
+                    "stars": 11007,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:32:20.050Z"
@@ -591,7 +591,7 @@
                         "open_issues": 43,
                         "owner": "AMAP-ML",
                         "repo": "LongHorizon-Harness",
-                        "stars": 1749,
+                        "stars": 1752,
                         "topics": [
                           "agent",
                           "claude",
@@ -784,7 +784,7 @@
                         "open_issues": 68,
                         "owner": "Tencent",
                         "repo": "AngelSlim",
-                        "stars": 1761,
+                        "stars": 1762,
                         "topics": [
                           "audio",
                           "deepseek",
@@ -826,7 +826,7 @@
                         "open_issues": 33,
                         "owner": "MoonshotAI",
                         "repo": "Kimi-K3",
-                        "stars": 8937,
+                        "stars": 8942,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T15:32:20.050Z"
@@ -904,7 +904,7 @@
                         "id": 1309282135,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-07T05:52:17Z",
+                        "last_commit": "2026-10-17T20:10:13Z",
                         "open_issues": 0,
                         "owner": "pavelgolikov",
                         "repo": "ArbiGraph",
@@ -1153,7 +1153,7 @@
                         "open_issues": 0,
                         "owner": "tommasocerruti",
                         "repo": "linear-attention-architectures",
-                        "stars": 38,
+                        "stars": 39,
                         "topics": [
                           "associative-memory",
                           "attention-mechanisms",
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:56:43.963Z",
+    "last_updated": "2026-10-18T08:12:35.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
