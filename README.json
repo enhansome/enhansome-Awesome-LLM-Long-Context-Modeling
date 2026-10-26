@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "zhennan1",
                     "repo": "LongZero",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -72,10 +72,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-21T06:04:52Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 58,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -103,7 +103,7 @@
                     "open_issues": 0,
                     "owner": "NX-AI",
                     "repo": "KronLSTM",
-                    "stars": 56,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -124,7 +124,7 @@
                     "open_issues": 0,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 22,
+                    "stars": 45,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -180,7 +180,7 @@
                     "open_issues": 0,
                     "owner": "ifm-ai",
                     "repo": "xllm-loop",
-                    "stars": 53,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -236,7 +236,7 @@
                     "open_issues": 0,
                     "owner": "ant-intl",
                     "repo": "BizAgentBench",
-                    "stars": 54,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -306,7 +306,7 @@
                     "open_issues": 2,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 246,
+                    "stars": 252,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -383,201 +383,6 @@
                   "first_seen": "2026-10-23T08:43:17.185Z"
                 }
               ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.12]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding",
-                  "description": "ZelD0n/framepack-U",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for paper \"Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding\", Gao et al., NeurIPS'26",
-                    "homepage": "https://zeld0n.github.io/framepack-U/",
-                    "id": 1415031176,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T07:41:42Z",
-                    "open_issues": 0,
-                    "owner": "ZelD0n",
-                    "repo": "framepack-U",
-                    "stars": 12,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Paper: FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation",
-                  "description": "zekun-shi/freesolo",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Subquadratic sparse attention that zero-shot length extrapolation to 256k+ tokens, with fast CUDA kernels. arXiv:2610.17191",
-                    "homepage": null,
-                    "id": 1390023494,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-23T12:29:58Z",
-                    "open_issues": 1,
-                    "owner": "zekun-shi",
-                    "repo": "freesolo",
-                    "stars": 2,
-                    "topics": [
-                      "attention-mechanism",
-                      "cuda",
-                      "language-model",
-                      "length-extrapolation",
-                      "llm",
-                      "long-context",
-                      "needle-in-a-haystack",
-                      "pytorch",
-                      "retrieval",
-                      "rope-free",
-                      "ruler-benchmark",
-                      "sparse-attention",
-                      "transformer",
-                      "triton"
-                    ]
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.10]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: SAFE-KV: Causal Suffix Repair for Behavior-Preserving Non-Prefix KV Cache Reuse in RAG",
-                  "description": "XingjianZhang-dev/safe-kv",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "SAFE-KV (Findings of AACL-IJCNLP 2026): causal suffix repair makes non-prefix KV-cache reuse in RAG reproduce full-prefill answers. One-file implementation, plus the code, data, and per-example outputs behind every number in the paper.",
-                    "homepage": "https://xingjianzhang-dev.github.io/#safe-kv",
-                    "id": 1377800358,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-24T21:30:12Z",
-                    "open_issues": 0,
-                    "owner": "XingjianZhang-dev",
-                    "repo": "safe-kv",
-                    "stars": 0,
-                    "topics": [
-                      "2wikimultihopqa",
-                      "aacl-ijcnlp",
-                      "efficient-inference",
-                      "efficient-nlp",
-                      "hotpotqa",
-                      "kv-cache",
-                      "kv-cache-reuse",
-                      "large-language-models",
-                      "llm",
-                      "llm-inference",
-                      "multi-hop-qa",
-                      "nlp",
-                      "prefill",
-                      "prompt-caching",
-                      "pytorch",
-                      "rag",
-                      "reproducibility",
-                      "reproducible-research",
-                      "retrieval-augmented-generation",
-                      "transformer"
-                    ]
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.09]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: REMORY: Learning Residual Memory for Context Compaction",
-                  "description": "fudan-generative-vision/Remory",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Remory: Learning Residual Memory for Context Compaction",
-                    "homepage": null,
-                    "id": 1408334244,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-22T14:05:25Z",
-                    "open_issues": 1,
-                    "owner": "fudan-generative-vision",
-                    "repo": "Remory",
-                    "stars": 469,
-                    "topics": [
-                      "context-compaction",
-                      "inference",
-                      "llm-agents",
-                      "residual-memory"
-                    ]
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.08]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: Thinking Inertia: LLMs Keep Thinking When Told Not To",
-                  "description": "thinking-inertia/code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
-                    "homepage": null,
-                    "id": 1401450160,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-09T05:27:59Z",
-                    "open_issues": 0,
-                    "owner": "thinking-inertia",
-                    "repo": "code",
-                    "stars": 9,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Paper: From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue",
-                  "description": "Silent-Rain02/CogMem",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Repo for CogMem",
-                    "homepage": null,
-                    "id": 1101376568,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-08-23T15:52:01Z",
-                    "open_issues": 1,
-                    "owner": "Silent-Rain02",
-                    "repo": "CogMem",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
             }
           ],
           "description": null,
@@ -588,6 +393,201 @@
           "children": [
             {
               "children": [
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.12]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding",
+                      "description": "ZelD0n/framepack-U",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for paper \"Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding\", Gao et al., NeurIPS'26",
+                        "homepage": "https://zeld0n.github.io/framepack-U/",
+                        "id": 1415031176,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-14T07:41:42Z",
+                        "open_issues": 0,
+                        "owner": "ZelD0n",
+                        "repo": "framepack-U",
+                        "stars": 12,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation",
+                      "description": "zekun-shi/freesolo",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Subquadratic sparse attention that zero-shot length extrapolation to 256k+ tokens, with fast CUDA kernels. arXiv:2610.17191",
+                        "homepage": null,
+                        "id": 1390023494,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-23T12:29:58Z",
+                        "open_issues": 1,
+                        "owner": "zekun-shi",
+                        "repo": "freesolo",
+                        "stars": 2,
+                        "topics": [
+                          "attention-mechanism",
+                          "cuda",
+                          "language-model",
+                          "length-extrapolation",
+                          "llm",
+                          "long-context",
+                          "needle-in-a-haystack",
+                          "pytorch",
+                          "retrieval",
+                          "rope-free",
+                          "ruler-benchmark",
+                          "sparse-attention",
+                          "transformer",
+                          "triton"
+                        ]
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.10]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: SAFE-KV: Causal Suffix Repair for Behavior-Preserving Non-Prefix KV Cache Reuse in RAG",
+                      "description": "XingjianZhang-dev/safe-kv",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "SAFE-KV (Findings of AACL-IJCNLP 2026): causal suffix repair makes non-prefix KV-cache reuse in RAG reproduce full-prefill answers. One-file implementation, plus the code, data, and per-example outputs behind every number in the paper.",
+                        "homepage": "https://xingjianzhang-dev.github.io/#safe-kv",
+                        "id": 1377800358,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-09-24T21:30:12Z",
+                        "open_issues": 0,
+                        "owner": "XingjianZhang-dev",
+                        "repo": "safe-kv",
+                        "stars": 0,
+                        "topics": [
+                          "2wikimultihopqa",
+                          "aacl-ijcnlp",
+                          "efficient-inference",
+                          "efficient-nlp",
+                          "hotpotqa",
+                          "kv-cache",
+                          "kv-cache-reuse",
+                          "large-language-models",
+                          "llm",
+                          "llm-inference",
+                          "multi-hop-qa",
+                          "nlp",
+                          "prefill",
+                          "prompt-caching",
+                          "pytorch",
+                          "rag",
+                          "reproducibility",
+                          "reproducible-research",
+                          "retrieval-augmented-generation",
+                          "transformer"
+                        ]
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.09]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: REMORY: Learning Residual Memory for Context Compaction",
+                      "description": "fudan-generative-vision/Remory",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Remory: Learning Residual Memory for Context Compaction",
+                        "homepage": null,
+                        "id": 1408334244,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-22T14:05:25Z",
+                        "open_issues": 1,
+                        "owner": "fudan-generative-vision",
+                        "repo": "Remory",
+                        "stars": 504,
+                        "topics": [
+                          "context-compaction",
+                          "inference",
+                          "llm-agents",
+                          "residual-memory"
+                        ]
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.08]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Thinking Inertia: LLMs Keep Thinking When Told Not To",
+                      "description": "thinking-inertia/code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+                        "homepage": null,
+                        "id": 1401450160,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-09T05:27:59Z",
+                        "open_issues": 0,
+                        "owner": "thinking-inertia",
+                        "repo": "code",
+                        "stars": 9,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: From Retrieval to Reconstruction: Constructing Evolvable Cognitive Memory for Long-Term Dialogue",
+                      "description": "Silent-Rain02/CogMem",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Repo for CogMem",
+                        "homepage": null,
+                        "id": 1101376568,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-08-23T15:52:01Z",
+                        "open_issues": 1,
+                        "owner": "Silent-Rain02",
+                        "repo": "CogMem",
+                        "stars": 2,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
                 {
                   "node_type": "group",
                   "title": "[2026.10.03]",
@@ -637,7 +637,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 229,
+                        "stars": 231,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -665,7 +665,7 @@
                         "open_issues": 2,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
-                        "stars": 103,
+                        "stars": 105,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -759,7 +759,7 @@
                         "open_issues": 1,
                         "owner": "OliverSieberling",
                         "repo": "TriadicLinearAttention",
-                        "stars": 14,
+                        "stars": 15,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -808,7 +808,28 @@
                         "open_issues": 0,
                         "owner": "thu-nics",
                         "repo": "TaH",
-                        "stars": 103,
+                        "stars": 104,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Scaling Long-Form Story Generation via Narrative State Tracking",
+                      "description": "zhennan1/NstAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official Implementation of \"Scaling Long-Form Story Generation via Narrative State Tracking\"",
+                        "homepage": "https://zhennan1.github.io/NstAgent/",
+                        "id": 1392001201,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-20T07:26:58Z",
+                        "open_issues": 0,
+                        "owner": "zhennan1",
+                        "repo": "NstAgent",
+                        "stars": 8,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -840,27 +861,6 @@
                           "vision-language-model",
                           "visual-token-compression"
                         ]
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Paper: Scaling Long-Form Story Generation via Narrative State Tracking",
-                      "description": "zhennan1/NstAgent",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Official Implementation of \"Scaling Long-Form Story Generation via Narrative State Tracking\"",
-                        "homepage": "https://zhennan1.github.io/NstAgent/",
-                        "id": 1392001201,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-10-20T07:26:58Z",
-                        "open_issues": 0,
-                        "owner": "zhennan1",
-                        "repo": "NstAgent",
-                        "stars": 7,
-                        "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
                     },
@@ -1071,11 +1071,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-25T07:14:21Z",
+                        "last_commit": "2026-10-26T09:03:15Z",
                         "open_issues": 1344,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2080,
+                        "stars": 2084,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1096,7 +1096,7 @@
                         "open_issues": 0,
                         "owner": "yuvalko1",
                         "repo": "mamba-recall-scaling-laws",
-                        "stars": 7,
+                        "stars": 8,
                         "topics": [
                           "associative-recall",
                           "mamba",
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:36:11.137Z",
+    "last_updated": "2026-10-26T09:12:39.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1295,11 +1295,11 @@
       "id": 692615119,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-22T10:10:14Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-26T07:23:05Z",
+      "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2186,
+      "stars": 2187,
       "topics": [
         "agent",
         "awsome-list",
@@ -1320,7 +1320,7 @@
         "transformer"
       ]
     },
-    "original_repository_sha": "d5b86de524f201a86a7bddea816c0069f8187bcd",
+    "original_repository_sha": "3d95d174d5a93e88963362baf67d712771187a40",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
     "enhanced_repository_description": null,
     "title": "Awesome Large Language Model Based Long Context Modeling Papers and Blogs with stars"
