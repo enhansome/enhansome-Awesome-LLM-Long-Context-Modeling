@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 90,
+                    "stars": 141,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -87,27 +87,6 @@
               "title": "[2026.10.19]",
               "description": null,
               "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: Kronecker Delta Rule for Long Context Linear Attention",
-                  "description": "NX-AI/KronLSTM",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Flash-linear-attention compatible KronLSTM model and kernels by NXAI.",
-                    "homepage": null,
-                    "id": 1425757357,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-20T05:17:34Z",
-                    "open_issues": 0,
-                    "owner": "NX-AI",
-                    "repo": "KronLSTM",
-                    "stars": 58,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                },
                 {
                   "node_type": "item",
                   "title": "Paper: TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
@@ -124,7 +103,28 @@
                     "open_issues": 0,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 45,
+                    "stars": 90,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-23T08:43:17.185Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: Kronecker Delta Rule for Long Context Linear Attention",
+                  "description": "NX-AI/KronLSTM",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Flash-linear-attention compatible KronLSTM model and kernels by NXAI.",
+                    "homepage": null,
+                    "id": 1425757357,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-20T05:17:34Z",
+                    "open_issues": 0,
+                    "owner": "NX-AI",
+                    "repo": "KronLSTM",
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -236,7 +236,7 @@
                     "open_issues": 0,
                     "owner": "ant-intl",
                     "repo": "BizAgentBench",
-                    "stars": 58,
+                    "stars": 67,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -306,7 +306,7 @@
                     "open_issues": 2,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 252,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -348,7 +348,7 @@
                     "open_issues": 0,
                     "owner": "leoluolol",
                     "repo": "DoubtLess",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": [
                       "chain-of-thought",
                       "contrastive-decoding",
@@ -431,7 +431,7 @@
                         "id": 1390023494,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-23T12:29:58Z",
+                        "last_commit": "2026-10-26T13:42:45Z",
                         "open_issues": 1,
                         "owner": "zekun-shi",
                         "repo": "freesolo",
@@ -527,7 +527,7 @@
                         "open_issues": 1,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 504,
+                        "stars": 529,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -637,7 +637,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 231,
+                        "stars": 233,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -665,7 +665,7 @@
                         "open_issues": 2,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
-                        "stars": 105,
+                        "stars": 106,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -808,7 +808,7 @@
                         "open_issues": 0,
                         "owner": "thu-nics",
                         "repo": "TaH",
-                        "stars": 104,
+                        "stars": 105,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1071,11 +1071,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-26T09:03:15Z",
-                        "open_issues": 1344,
+                        "last_commit": "2026-10-27T09:00:36Z",
+                        "open_issues": 1352,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2084,
+                        "stars": 2085,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T09:12:39.365Z",
+    "last_updated": "2026-10-27T09:12:59.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
