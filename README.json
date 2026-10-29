@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 151,
+                    "stars": 155,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -103,7 +103,7 @@
                     "open_issues": 0,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 96,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -124,7 +124,7 @@
                     "open_issues": 0,
                     "owner": "NX-AI",
                     "repo": "KronLSTM",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -180,7 +180,7 @@
                     "open_issues": 0,
                     "owner": "ifm-ai",
                     "repo": "xllm-loop",
-                    "stars": 54,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -236,7 +236,7 @@
                     "open_issues": 0,
                     "owner": "ant-intl",
                     "repo": "BizAgentBench",
-                    "stars": 79,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -306,7 +306,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 265,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -377,7 +377,7 @@
                     "open_issues": 0,
                     "owner": "Hubert-1102",
                     "repo": "FrameScout",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -527,7 +527,7 @@
                         "open_issues": 1,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 547,
+                        "stars": 566,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -577,11 +577,11 @@
                         "id": 1101376568,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-08-23T15:52:01Z",
+                        "last_commit": "2026-10-29T03:28:32Z",
                         "open_issues": 1,
                         "owner": "Silent-Rain02",
                         "repo": "CogMem",
-                        "stars": 2,
+                        "stars": 3,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -637,7 +637,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 235,
+                        "stars": 239,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1071,11 +1071,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-28T09:50:36Z",
-                        "open_issues": 1350,
+                        "last_commit": "2026-10-29T10:05:26Z",
+                        "open_issues": 1351,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2090,
+                        "stars": 2094,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1160,7 +1160,7 @@
                         "open_issues": 1,
                         "owner": "SalesforceAIResearch",
                         "repo": "Random-Attention",
-                        "stars": 73,
+                        "stars": 74,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:53:50.698Z",
+    "last_updated": "2026-10-29T10:16:00.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
