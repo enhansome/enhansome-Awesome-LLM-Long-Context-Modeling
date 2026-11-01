@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 165,
+                    "stars": 168,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -94,16 +94,16 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "https://arxiv.org/abs/2610.26754 Process all your context faster with LLMs that can skim and read what matters",
+                    "description": "https://arxiv.org/abs/2610.26754 Process all your context faster with LLMs that can skim and selectively read what matters",
                     "homepage": null,
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T17:39:26Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-01T04:50:56Z",
+                    "open_issues": 2,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 107,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -180,7 +180,7 @@
                     "open_issues": 0,
                     "owner": "ifm-ai",
                     "repo": "xllm-loop",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -236,7 +236,7 @@
                     "open_issues": 0,
                     "owner": "ant-intl",
                     "repo": "BizAgentBench",
-                    "stars": 105,
+                    "stars": 117,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -306,7 +306,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -523,11 +523,11 @@
                         "id": 1408334244,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-22T14:05:25Z",
+                        "last_commit": "2026-10-31T16:40:08Z",
                         "open_issues": 1,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 610,
+                        "stars": 633,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -808,7 +808,7 @@
                         "open_issues": 0,
                         "owner": "thu-nics",
                         "repo": "TaH",
-                        "stars": 105,
+                        "stars": 106,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1047,7 +1047,7 @@
                         "open_issues": 2,
                         "owner": "Tencent-Hunyuan",
                         "repo": "Simple-Attention-Sparsification",
-                        "stars": 67,
+                        "stars": 68,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1071,11 +1071,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-31T09:49:22Z",
-                        "open_issues": 1353,
+                        "last_commit": "2026-11-01T10:01:17Z",
+                        "open_issues": 1354,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2095,
+                        "stars": 2096,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:51:15.616Z",
+    "last_updated": "2026-11-01T10:41:28.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
