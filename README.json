@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 171,
+                    "stars": 173,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -99,7 +99,7 @@
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T01:37:14Z",
+                    "last_commit": "2026-11-04T23:47:00Z",
                     "open_issues": 2,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 289,
+                    "stars": 292,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -356,7 +356,7 @@
                     "open_issues": 0,
                     "owner": "leoluolol",
                     "repo": "DoubtLess",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": [
                       "chain-of-thought",
                       "contrastive-decoding",
@@ -422,7 +422,7 @@
                         "open_issues": 0,
                         "owner": "ZelD0n",
                         "repo": "framepack-U",
-                        "stars": 12,
+                        "stars": 14,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -673,7 +673,7 @@
                         "open_issues": 1,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
-                        "stars": 106,
+                        "stars": 107,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -743,7 +743,7 @@
                         "open_issues": 2,
                         "owner": "rhfeiyang",
                         "repo": "GEB",
-                        "stars": 61,
+                        "stars": 62,
                         "topics": [
                           "video-understanding",
                           "visual-memory"
@@ -823,6 +823,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Paper: Scaling Long-Form Story Generation via Narrative State Tracking",
+                      "description": "zhennan1/NstAgent",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official Implementation of \"Scaling Long-Form Story Generation via Narrative State Tracking\"",
+                        "homepage": "https://zhennan1.github.io/NstAgent/",
+                        "id": 1392001201,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-20T07:26:58Z",
+                        "open_issues": 0,
+                        "owner": "zhennan1",
+                        "repo": "NstAgent",
+                        "stars": 9,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "Paper: Beyond Selection: Token Parameterization for Extreme Visual Token Compression",
                       "description": "zrrraa/Braco",
                       "children": [],
@@ -848,27 +869,6 @@
                           "vision-language-model",
                           "visual-token-compression"
                         ]
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Paper: Scaling Long-Form Story Generation via Narrative State Tracking",
-                      "description": "zhennan1/NstAgent",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Official Implementation of \"Scaling Long-Form Story Generation via Narrative State Tracking\"",
-                        "homepage": "https://zhennan1.github.io/NstAgent/",
-                        "id": 1392001201,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-10-20T07:26:58Z",
-                        "open_issues": 0,
-                        "owner": "zhennan1",
-                        "repo": "NstAgent",
-                        "stars": 8,
-                        "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
                     },
@@ -1079,11 +1079,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-04T11:00:11Z",
-                        "open_issues": 1379,
+                        "last_commit": "2026-11-05T10:46:19Z",
+                        "open_issues": 1382,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2109,
+                        "stars": 2114,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1273,7 +1273,7 @@
                         "open_issues": 1,
                         "owner": "Tencent",
                         "repo": "ContextPilot",
-                        "stars": 146,
+                        "stars": 145,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:19:16.109Z",
+    "last_updated": "2026-11-05T11:17:25.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1307,7 +1307,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2189,
+      "stars": 2190,
       "topics": [
         "agent",
         "awsome-list",

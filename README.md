@@ -128,7 +128,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [MemoryTax: The Bitter Lesson of Agent Memory](https://arxiv.org/abs/2610.29823)
 
 * **\[2026.10.20]**
-  * Paper: [Cache Engineering for Agents](https://arxiv.org/abs/2610.28577) [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/AKV)](https://github.com/thu-nics/AKV) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2026-10-21
+  * Paper: [Cache Engineering for Agents](https://arxiv.org/abs/2610.28577) [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/AKV)](https://github.com/thu-nics/AKV) ⭐ 173 | 🐛 1 | 🌐 Python | 📅 2026-10-21
   * Paper: [Scan or Index? Large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG](https://arxiv.org/abs/2610.28957)
 
 * **\[2026.10.19]**
@@ -162,9 +162,9 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Cortex: Consolidating Context into Parametric Memory](https://arxiv.org/abs/2610.20399)
 
 * **\[2026.10.13]**
-  * Paper: [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/VideoJev)](https://github.com/MCG-NJU/VideoJev) ⭐ 289 | 🐛 0 | 🌐 Python | 📅 2026-10-18 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
+  * Paper: [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/VideoJev)](https://github.com/MCG-NJU/VideoJev) ⭐ 292 | 🐛 0 | 🌐 Python | 📅 2026-10-18 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/VideoJev/)
   * Paper: [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://arxiv.org/abs/2610.18784) [![GitHub Repo stars](https://img.shields.io/github/stars/Ethannju/carryon)](https://github.com/Ethannju/carryon) ⭐ 5 | 🐛 1 | 📅 2026-10-19 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://ethannju.github.io/carryon)
-  * Paper: [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862) [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-15
+  * Paper: [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862) [![GitHub Repo stars](https://img.shields.io/github/stars/leoluolol/DoubtLess)](https://github.com/leoluolol/DoubtLess) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-15
   * Paper: [FrameScout: Scouting Query-Relevant Frames for Long Video Understanding](https://arxiv.org/abs/2610.23975) [![GitHub Repo stars](https://img.shields.io/github/stars/Hubert-1102/FrameScout)](https://github.com/Hubert-1102/FrameScout) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-09
   * Paper: [Joint Subspace Sparse Attention for Efficient Long-Context Decoding](https://arxiv.org/abs/2610.19026)
 
@@ -173,7 +173,7 @@ If you find our repository and survey useful for your research, please consider 
 <details><summary>Month Papers</summary>
 
 * **\[2026.10.12]**
-  * Paper: [Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding](https://arxiv.org/abs/2610.16118) [![GitHub Repo stars](https://img.shields.io/github/stars/ZelD0n/framepack-U)](https://github.com/ZelD0n/framepack-U) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-14 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://zeld0n.github.io/framepack-U/)
+  * Paper: [Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding](https://arxiv.org/abs/2610.16118) [![GitHub Repo stars](https://img.shields.io/github/stars/ZelD0n/framepack-U)](https://github.com/ZelD0n/framepack-U) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-14 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://zeld0n.github.io/framepack-U/)
   * Paper: [FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation](https://arxiv.org/abs/2610.17191) [![GitHub Repo stars](https://img.shields.io/github/stars/zekun-shi/freesolo)](https://github.com/zekun-shi/freesolo) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-10-26
 
 * **\[2026.10.11]**
@@ -218,14 +218,14 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [How Much Can Language Models Gain from Test-Time Computation?](https://arxiv.org/abs/2610.01110)
 
 * **\[2026.09.30]**
-  * Paper: [SparseEngine: Sparse-First Inference Engine](https://arxiv.org/abs/2609.39068) [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2026-11-02
+  * Paper: [SparseEngine: Sparse-First Inference Engine](https://arxiv.org/abs/2609.39068) [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine) ⭐ 107 | 🐛 1 | 🌐 Python | 📅 2026-11-02
   * Paper: [Switching Linear Attention](https://arxiv.org/abs/2609.39034) [![GitHub Repo stars](https://img.shields.io/github/stars/lindermanlab/switching-linear-attention)](https://github.com/lindermanlab/switching-linear-attention) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-05
   * Paper: [ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality](https://arxiv.org/abs/2610.00710) [![GitHub Repo stars](https://img.shields.io/github/stars/SaharaLabsAI/ReLiveGym)](https://github.com/SaharaLabsAI/ReLiveGym) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-30
   * Paper: [RoPE at the End of Its Rope? Theory, Diagnosis, and Mitigation of Long-Context Failures](https://arxiv.org/abs/2609.39929)
   * Paper: [Persistent Context Graphs for Efficient Memory Compaction in LLM Agents](https://arxiv.org/abs/2609.40118)
 
 * **\[2026.09.29]**
-  * Paper: [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://arxiv.org/abs/2609.38155) [![GitHub Repo stars](https://img.shields.io/github/stars/rhfeiyang/GEB)](https://github.com/rhfeiyang/GEB) ⭐ 61 | 🐛 2 | 📅 2026-09-30
+  * Paper: [Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies](https://arxiv.org/abs/2609.38155) [![GitHub Repo stars](https://img.shields.io/github/stars/rhfeiyang/GEB)](https://github.com/rhfeiyang/GEB) ⭐ 62 | 🐛 2 | 📅 2026-09-30
   * Paper: [Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling](https://arxiv.org/abs/2609.36529) [![GitHub Repo stars](https://img.shields.io/github/stars/OliverSieberling/TriadicLinearAttention)](https://github.com/OliverSieberling/TriadicLinearAttention) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-09-30
   * Paper: [APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants](https://arxiv.org/abs/2609.37559) [![GitHub Repo stars](https://img.shields.io/github/stars/Jianguo-Huang11/APM-Bench)](https://github.com/Jianguo-Huang11/APM-Bench) ⭐ 8 | 🐛 0 | 📅 2026-09-30
   * Paper: [LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning](https://arxiv.org/abs/2609.38137)
@@ -235,8 +235,8 @@ If you find our repository and survey useful for your research, please consider 
 
 * **\[2026.09.28]**
   * Paper: [Improving Test-Time Scaling with Adaptive Looped Transformers](https://arxiv.org/abs/2609.35748) [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/TaH)](https://github.com/thu-nics/TaH) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-10-09 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://fuvty.github.io/thinking_yard_project_page/projects/tah2/)
+  * Paper: [Scaling Long-Form Story Generation via Narrative State Tracking](https://arxiv.org/abs/2609.35759) [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-10-20
   * Paper: [Beyond Selection: Token Parameterization for Extreme Visual Token Compression](https://arxiv.org/abs/2609.35232) [![GitHub Repo stars](https://img.shields.io/github/stars/zrrraa/Braco)](https://github.com/zrrraa/Braco) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-10-13
-  * Paper: [Scaling Long-Form Story Generation via Narrative State Tracking](https://arxiv.org/abs/2609.35759) [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-20
   * Paper: [Fractional State Space Transition for Long Sequence Modeling](https://arxiv.org/abs/2609.36314) [![GitHub Repo stars](https://img.shields.io/github/stars/anasiri/frac-ssm)](https://github.com/anasiri/frac-ssm) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-30
   * Paper: [RoPE is Dead, Long Live RoPE: Towards Scalable Data-aware Positional Encodings](https://arxiv.org/abs/2609.34556)
   * Paper: [Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://arxiv.org/abs/2609.36322)
@@ -291,7 +291,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [FlexComp: One Model for Every Ratio in Context Compression](https://arxiv.org/abs/2609.11192)
 
 * **\[2026.09.07]**
-  * Paper: [Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training](https://arxiv.org/abs/2609.07108) [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL)](https://github.com/NVIDIA-NeMo/RL) ⭐ 2,109 | 🐛 1,379 | 🌐 Python | 📅 2026-11-04
+  * Paper: [Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training](https://arxiv.org/abs/2609.07108) [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA-NeMo/RL)](https://github.com/NVIDIA-NeMo/RL) ⭐ 2,114 | 🐛 1,382 | 🌐 Python | 📅 2026-11-05
   * Paper: [On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing](https://arxiv.org/abs/2609.07681) [![GitHub Repo stars](https://img.shields.io/github/stars/yuvalko1/mamba-recall-scaling-laws)](https://github.com/yuvalko1/mamba-recall-scaling-laws) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-18
   * Paper: [ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding](https://arxiv.org/abs/2609.07941)
 
@@ -315,7 +315,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Instella-MoE Technical Report](https://arxiv.org/abs/2609.00791)
 
 * **\[2026.08.28]**
-  * Paper: [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://arxiv.org/abs/2608.28476) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/ContextPilot)](https://github.com/Tencent/ContextPilot) ⭐ 146 | 🐛 1 | 🌐 Python | 📅 2026-08-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tencent.github.io/ContextPilot/)
+  * Paper: [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://arxiv.org/abs/2608.28476) [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/ContextPilot)](https://github.com/Tencent/ContextPilot) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2026-08-31 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://tencent.github.io/ContextPilot/)
   * Paper: [Sliding-window beats linear attention](https://arxiv.org/abs/2608.28444)
 
 </details>
@@ -386,4 +386,4 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
