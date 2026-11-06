@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -99,11 +99,11 @@
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T23:47:00Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-06T04:00:31Z",
+                    "open_issues": 5,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 292,
+                    "stars": 294,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -531,8 +531,8 @@
                         "id": 1408334244,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-02T02:38:00Z",
-                        "open_issues": 2,
+                        "last_commit": "2026-11-06T10:40:31Z",
+                        "open_issues": 3,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
                         "stars": 659,
@@ -568,7 +568,7 @@
                         "open_issues": 0,
                         "owner": "thinking-inertia",
                         "repo": "code",
-                        "stars": 9,
+                        "stars": 10,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1027,7 +1027,7 @@
                         "open_issues": 1,
                         "owner": "RUCAIBox",
                         "repo": "GDN-SpectralShift",
-                        "stars": 2,
+                        "stars": 6,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1079,11 +1079,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-05T10:46:19Z",
-                        "open_issues": 1382,
+                        "last_commit": "2026-11-06T11:08:32Z",
+                        "open_issues": 1377,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2114,
+                        "stars": 2116,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1273,7 +1273,7 @@
                         "open_issues": 1,
                         "owner": "Tencent",
                         "repo": "ContextPilot",
-                        "stars": 145,
+                        "stars": 146,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:17:25.942Z",
+    "last_updated": "2026-11-06T11:15:07.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1307,7 +1307,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2190,
+      "stars": 2191,
       "topics": [
         "agent",
         "awsome-list",
