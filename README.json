@@ -103,7 +103,7 @@
                     "open_issues": 4,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -188,7 +188,7 @@
                     "open_issues": 0,
                     "owner": "ifm-ai",
                     "repo": "xllm-loop",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 295,
+                    "stars": 297,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -439,7 +439,7 @@
                         "id": 1390023494,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-07T09:33:30Z",
+                        "last_commit": "2026-11-08T05:14:31Z",
                         "open_issues": 1,
                         "owner": "zekun-shi",
                         "repo": "freesolo",
@@ -568,7 +568,7 @@
                         "open_issues": 0,
                         "owner": "thinking-inertia",
                         "repo": "code",
-                        "stars": 10,
+                        "stars": 11,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1079,8 +1079,8 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-07T09:18:06Z",
-                        "open_issues": 1387,
+                        "last_commit": "2026-11-08T08:34:51Z",
+                        "open_issues": 1388,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
                         "stars": 2117,
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:30:41.634Z",
+    "last_updated": "2026-11-08T10:38:16.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
