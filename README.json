@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -99,11 +99,11 @@
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T03:43:12Z",
+                    "last_commit": "2026-11-09T04:19:27Z",
                     "open_issues": 4,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
-                    "stars": 114,
+                    "stars": 115,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 297,
+                    "stars": 300,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -645,7 +645,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 243,
+                        "stars": 244,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -816,7 +816,7 @@
                         "open_issues": 0,
                         "owner": "thu-nics",
                         "repo": "TaH",
-                        "stars": 109,
+                        "stars": 110,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1079,11 +1079,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-08T08:34:51Z",
-                        "open_issues": 1388,
+                        "last_commit": "2026-11-09T11:34:57Z",
+                        "open_issues": 1393,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2117,
+                        "stars": 2119,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1104,7 +1104,7 @@
                         "open_issues": 0,
                         "owner": "yuvalko1",
                         "repo": "mamba-recall-scaling-laws",
-                        "stars": 8,
+                        "stars": 9,
                         "topics": [
                           "associative-recall",
                           "mamba",
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:38:16.193Z",
+    "last_updated": "2026-11-09T11:54:56.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
