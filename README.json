@@ -99,7 +99,7 @@
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T04:19:27Z",
+                    "last_commit": "2026-11-09T19:00:17Z",
                     "open_issues": 4,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 300,
+                    "stars": 305,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -482,7 +482,7 @@
                         "id": 1377800358,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-24T21:30:12Z",
+                        "last_commit": "2026-11-09T15:32:58Z",
                         "open_issues": 0,
                         "owner": "XingjianZhang-dev",
                         "repo": "safe-kv",
@@ -531,7 +531,7 @@
                         "id": 1408334244,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-06T11:26:16Z",
+                        "last_commit": "2026-11-09T19:15:08Z",
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
@@ -589,7 +589,7 @@
                         "open_issues": 1,
                         "owner": "Silent-Rain02",
                         "repo": "CogMem",
-                        "stars": 3,
+                        "stars": 4,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1055,7 +1055,7 @@
                         "open_issues": 2,
                         "owner": "Tencent-Hunyuan",
                         "repo": "Simple-Attention-Sparsification",
-                        "stars": 68,
+                        "stars": 69,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1079,11 +1079,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-09T11:34:57Z",
-                        "open_issues": 1393,
+                        "last_commit": "2026-11-10T11:21:12Z",
+                        "open_issues": 1403,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2119,
+                        "stars": 2121,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1168,7 +1168,7 @@
                         "open_issues": 1,
                         "owner": "SalesforceAIResearch",
                         "repo": "Random-Attention",
-                        "stars": 74,
+                        "stars": 75,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T11:54:56.054Z",
+    "last_updated": "2026-11-10T11:28:19.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
