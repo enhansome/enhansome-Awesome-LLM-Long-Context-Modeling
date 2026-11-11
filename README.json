@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -99,8 +99,8 @@
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T19:00:17Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-11T01:57:26Z",
+                    "open_issues": 5,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
                     "stars": 115,
@@ -188,7 +188,7 @@
                     "open_issues": 0,
                     "owner": "ifm-ai",
                     "repo": "xllm-loop",
-                    "stars": 62,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 305,
+                    "stars": 307,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -535,7 +535,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 659,
+                        "stars": 664,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -669,11 +669,11 @@
                         "id": 1145032762,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-02T12:58:23Z",
-                        "open_issues": 1,
+                        "last_commit": "2026-11-11T10:46:29Z",
+                        "open_issues": 2,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
-                        "stars": 107,
+                        "stars": 108,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -813,10 +813,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-09T05:37:29Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "thu-nics",
                         "repo": "TaH",
-                        "stars": 110,
+                        "stars": 113,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1079,11 +1079,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-10T11:21:12Z",
-                        "open_issues": 1403,
+                        "last_commit": "2026-11-11T10:47:43Z",
+                        "open_issues": 1404,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2121,
+                        "stars": 2122,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:28:19.597Z",
+    "last_updated": "2026-11-11T11:17:26.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
