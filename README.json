@@ -75,7 +75,7 @@
                     "open_issues": 1,
                     "owner": "thu-nics",
                     "repo": "AKV",
-                    "stars": 177,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -99,8 +99,8 @@
                     "id": 1425925617,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T01:57:26Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-12T03:46:52Z",
+                    "open_issues": 7,
                     "owner": "token-gate-llms",
                     "repo": "TokenGate",
                     "stars": 115,
@@ -124,7 +124,7 @@
                     "open_issues": 0,
                     "owner": "NX-AI",
                     "repo": "KronLSTM",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": [
                       "deep-learning",
                       "delta-rule",
@@ -188,7 +188,7 @@
                     "open_issues": 0,
                     "owner": "ifm-ai",
                     "repo": "xllm-loop",
-                    "stars": 65,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -244,7 +244,7 @@
                     "open_issues": 0,
                     "owner": "ant-intl",
                     "repo": "BizAgentBench",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -314,7 +314,7 @@
                     "open_issues": 0,
                     "owner": "MCG-NJU",
                     "repo": "VideoJev",
-                    "stars": 307,
+                    "stars": 308,
                     "topics": []
                   },
                   "first_seen": "2026-10-23T08:43:17.185Z"
@@ -422,7 +422,7 @@
                         "open_issues": 0,
                         "owner": "ZelD0n",
                         "repo": "framepack-U",
-                        "stars": 14,
+                        "stars": 15,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -535,7 +535,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 664,
+                        "stars": 686,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -645,7 +645,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 244,
+                        "stars": 246,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1079,11 +1079,11 @@
                         "id": 949546994,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-11T10:47:43Z",
-                        "open_issues": 1404,
+                        "last_commit": "2026-11-12T09:41:04Z",
+                        "open_issues": 1408,
                         "owner": "NVIDIA-NeMo",
                         "repo": "RL",
-                        "stars": 2122,
+                        "stars": 2124,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1295,7 +1295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:17:26.419Z",
+    "last_updated": "2026-11-12T11:35:34.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1307,7 +1307,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2191,
+      "stars": 2192,
       "topics": [
         "agent",
         "awsome-list",
