@@ -7,388 +7,531 @@
           "children": [
             {
               "node_type": "group",
-              "title": "[2026.10.21]",
+              "title": "[2026.11.11]",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Paper: LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-                  "description": "zhennan1/LongZero",
+                  "title": "Paper: MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models",
+                  "description": "zOUMINGXI/MIGRO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Official Implementation of \"LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data\"",
+                    "description": "MIGRO — Portable long-term memory for language models. Preserve experience, transfer state, and keep writing across model upgrades.",
+                    "homepage": "https://zoumingxi.github.io/MIGRO/",
+                    "id": 1441823499,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-13T08:13:56Z",
+                    "open_issues": 0,
+                    "owner": "zOUMINGXI",
+                    "repo": "MIGRO",
+                    "stars": 4,
+                    "topics": [
+                      "agent-memory",
+                      "ai-agents",
+                      "cross-model-transfer",
+                      "llm",
+                      "long-term-memory",
+                      "persistent-memory",
+                      "python"
+                    ]
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
+                  "description": "jlab-nlp/parallel-prompting",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
                     "homepage": null,
-                    "id": 1427373020,
+                    "id": 1452471128,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-11T22:54:19Z",
+                    "open_issues": 0,
+                    "owner": "jlab-nlp",
+                    "repo": "parallel-prompting",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.10]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation",
+                  "description": "brighterr/OpticalRAG",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation",
+                    "homepage": null,
+                    "id": 1428146746,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-10T06:53:20Z",
+                    "open_issues": 1,
+                    "owner": "brighterr",
+                    "repo": "OpticalRAG",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.08]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference",
+                  "description": "epsilon-prime/verifiedKV",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1422962682,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-10T05:29:01Z",
+                    "open_issues": 0,
+                    "owner": "epsilon-prime",
+                    "repo": "verifiedKV",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: THEATRON: A Benchmark for Evaluating Persona Persistence in Long-Horizon LLM Decision-Making",
+                  "description": "yuyan12138/theatron",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1409418909,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-12T19:29:55Z",
+                    "open_issues": 0,
+                    "owner": "yuyan12138",
+                    "repo": "theatron",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.06]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+                  "description": "OpenBitSys/BitDecoding-FP4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Accurate, fast FP4 KV-cache decoding through algorithm-system co-design.",
+                    "homepage": null,
+                    "id": 1444497869,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T07:59:48Z",
-                    "open_issues": 1,
-                    "owner": "zhennan1",
-                    "repo": "LongZero",
+                    "last_commit": "2026-11-09T08:57:54Z",
+                    "open_issues": 0,
+                    "owner": "OpenBitSys",
+                    "repo": "BitDecoding-FP4",
+                    "stars": 38,
+                    "topics": [
+                      "cuda",
+                      "kv-cache-quantization",
+                      "llm-inference",
+                      "low-bit-quantization",
+                      "vllm"
+                    ]
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding",
+                  "description": "FutureMLS-Lab/FOSCAR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Quantized-KV paged decode kernels for Hopper and Blackwell, written in CuTe DSL",
+                    "homepage": null,
+                    "id": 1437325149,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-11T19:25:32Z",
+                    "open_issues": 0,
+                    "owner": "FutureMLS-Lab",
+                    "repo": "FOSCAR",
                     "stars": 3,
                     "topics": []
                   },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
+                  "first_seen": "2026-11-13T11:20:00.465Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "Paper: Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
-                  "description": "thunlp/dont-stop-lccp",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Repository for Paper: Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
-                    "homepage": null,
-                    "id": 1427891050,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-22T07:44:09Z",
-                    "open_issues": 0,
-                    "owner": "thunlp",
-                    "repo": "dont-stop-lccp",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.20]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: Cache Engineering for Agents",
-                  "description": "thu-nics/AKV",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official implementation of paper \"Cache Engineering for Agents\"",
-                    "homepage": null,
-                    "id": 1393070475,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T06:04:52Z",
-                    "open_issues": 1,
-                    "owner": "thu-nics",
-                    "repo": "AKV",
-                    "stars": 179,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.19]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
-                  "description": "token-gate-llms/TokenGate",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Process all your context faster with LLMs that can skim and selectively read what matters",
-                    "homepage": "https://arxiv.org/abs/2610.26754 ",
-                    "id": 1425925617,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T03:46:52Z",
-                    "open_issues": 7,
-                    "owner": "token-gate-llms",
-                    "repo": "TokenGate",
-                    "stars": 115,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Paper: Kronecker Delta Rule for Long Context Linear Attention",
-                  "description": "NX-AI/KronLSTM",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Flash-linear-attention compatible KronLSTM model and kernels by NXAI.",
-                    "homepage": null,
-                    "id": 1425757357,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-20T05:17:34Z",
-                    "open_issues": 0,
-                    "owner": "NX-AI",
-                    "repo": "KronLSTM",
-                    "stars": 63,
-                    "topics": [
-                      "deep-learning",
-                      "delta-rule",
-                      "flash-linear-attention",
-                      "linear-attention",
-                      "long-context",
-                      "pytorch",
-                      "triton-kernels"
-                    ]
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.18]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering",
-                  "description": "debobanerjee/LC-EBG",
+                  "title": "Paper: DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation",
+                  "description": "Lenovo-ICI/DARIC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "description": null,
                     "homepage": null,
-                    "id": 1252343519,
+                    "id": 1413001032,
                     "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-08-22T15:20:32Z",
+                    "license": null,
+                    "last_commit": "2026-11-09T07:45:57Z",
                     "open_issues": 1,
-                    "owner": "debobanerjee",
-                    "repo": "LC-EBG",
+                    "owner": "Lenovo-ICI",
+                    "repo": "DARIC",
                     "stars": 0,
                     "topics": []
                   },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.16]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design",
-                  "description": "ifm-ai/xllm-loop",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official code for Towards Looped Models Done Right based on xLLM",
-                    "homepage": null,
-                    "id": 1392830255,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-21T19:34:08Z",
-                    "open_issues": 0,
-                    "owner": "ifm-ai",
-                    "repo": "xllm-loop",
-                    "stars": 64,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.15]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction",
-                  "description": "AozhongZhang/DropKV",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1386199962,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T15:27:32Z",
-                    "open_issues": 1,
-                    "owner": "AozhongZhang",
-                    "repo": "DropKV",
-                    "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "[2026.10.14]",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Paper: BizAgentBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
-                  "description": "ant-intl/BizAgentBench",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 1418477513,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-20T09:50:54Z",
-                    "open_issues": 0,
-                    "owner": "ant-intl",
-                    "repo": "BizAgentBench",
-                    "stars": 125,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
+                  "first_seen": "2026-11-13T11:20:00.465Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "Paper: Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents",
-                  "description": "GuanghuiMin/sjc",
+                  "title": "Paper: Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
+                  "description": "iZHpy/QGPM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Code for paper \"Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents\"",
+                    "description": "QGPM: Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs",
                     "homepage": null,
-                    "id": 1414725755,
+                    "id": 1448241431,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-11T20:30:02Z",
+                    "last_commit": "2026-11-06T12:46:22Z",
                     "open_issues": 0,
-                    "owner": "GuanghuiMin",
-                    "repo": "sjc",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Paper: Beyond State Capacity: Why Retrieval Breaks in Mamba",
-                  "description": "schwartz-lab-NLP/beyond_state_capacity",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code for the paper \"Beyond State Capacity: Why Retrieval Breaks in Mamba\"",
-                    "homepage": null,
-                    "id": 1414119636,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-11T08:59:12Z",
-                    "open_issues": 0,
-                    "owner": "schwartz-lab-NLP",
-                    "repo": "beyond_state_capacity",
+                    "owner": "iZHpy",
+                    "repo": "QGPM",
                     "stars": 0,
                     "topics": []
                   },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
+                  "first_seen": "2026-11-13T11:20:00.465Z"
                 }
               ]
             },
             {
               "node_type": "group",
-              "title": "[2026.10.13]",
+              "title": "[2026.11.05]",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Paper: VideoJev: System One Model for Video Understanding and Interaction",
-                  "description": "MCG-NJU/VideoJev",
+                  "title": "Paper: ZYFA: Speed and Accuracy of FP8 FlashAttention on AMD CDNA4",
+                  "description": "Zyphra/zyfa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                    "description": null,
                     "homepage": null,
-                    "id": 1409542866,
+                    "id": 1436532113,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T08:17:17Z",
-                    "open_issues": 0,
-                    "owner": "MCG-NJU",
-                    "repo": "VideoJev",
-                    "stars": 308,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Paper: Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
-                  "description": "Ethannju/carryon",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Pack Light, CarryOn: object-oriented context for long-horizon agents",
-                    "homepage": null,
-                    "id": 1416432670,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2026-10-19T22:57:04Z",
+                    "last_commit": "2026-11-10T00:24:47Z",
                     "open_issues": 1,
-                    "owner": "Ethannju",
-                    "repo": "carryon",
+                    "owner": "Zyphra",
+                    "repo": "zyfa",
                     "stars": 5,
                     "topics": []
                   },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
+                  "first_seen": "2026-11-13T11:20:00.465Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "Paper: DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-                  "description": "leoluolol/DoubtLess",
+                  "title": "Paper: ConvPE: Convolutional Position Embedding Improves Transformers",
+                  "description": "wzhagi/convpe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Training-free contrastive decoding for efficient LLM reasoning: shorter chain-of-thought (CoT), less overthinking, and fewer reasoning tokens.",
-                    "homepage": "https://arxiv.org/abs/2610.18862",
-                    "id": 1409880012,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T08:32:26Z",
+                    "description": "ConvPE improves Transformer performance and efficiency in language modeling, long-context extension, and vision.",
+                    "homepage": null,
+                    "id": 1420426068,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2026-11-10T15:54:47Z",
                     "open_issues": 0,
-                    "owner": "leoluolol",
-                    "repo": "DoubtLess",
-                    "stars": 3,
-                    "topics": [
-                      "chain-of-thought",
-                      "contrastive-decoding",
-                      "cot-compression",
-                      "efficient-reasoning",
-                      "overthinking",
-                      "reasoning-models",
-                      "training-free"
-                    ]
+                    "owner": "wzhagi",
+                    "repo": "convpe",
+                    "stars": 1,
+                    "topics": []
                   },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
+                  "first_seen": "2026-11-13T11:20:00.465Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "Paper: FrameScout: Scouting Query-Relevant Frames for Long Video Understanding",
-                  "description": "Hubert-1102/FrameScout",
+                  "title": "Paper: AttnSR: Attention Step Reward for Long-Horizon Agentic RL",
+                  "description": "fairyshine/AttnSR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": "https://fairyshine.github.io/AttnSR/",
+                    "id": 1445262359,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-06T03:07:47Z",
+                    "open_issues": 0,
+                    "owner": "fairyshine",
+                    "repo": "AttnSR",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.04]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: Tools Need Not Speak in Text: Latent Context Compression for Agents",
+                  "description": "THU-Agent/Coca-cola",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "description": null,
                     "homepage": null,
-                    "id": 1411201009,
+                    "id": 1445409662,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-04T09:21:14Z",
+                    "open_issues": 2,
+                    "owner": "THU-Agent",
+                    "repo": "Coca-cola",
+                    "stars": 13,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization",
+                  "description": "HanzhiZhang-Ulrica/TileQuant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1231136252,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-12T03:42:51Z",
+                    "open_issues": 0,
+                    "owner": "HanzhiZhang-Ulrica",
+                    "repo": "TileQuant",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.03]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: Think Less, Locally: Local Preference Learning for Reasoning Compression",
+                  "description": "MuyaoYuan/LoCo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1444229553,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T04:36:36Z",
+                    "last_commit": "2026-11-04T07:35:58Z",
+                    "open_issues": 1,
+                    "owner": "MuyaoYuan",
+                    "repo": "LoCo",
+                    "stars": 12,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.02]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: EvoMemState: Evolving Memory State for Personal Agents",
+                  "description": "XMUDeepLIT/EvoMemState",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for \"EvoMemState: Evolving Memory State for Personal Agents\"",
+                    "homepage": "https://arxiv.org/pdf/2611.03743",
+                    "id": 1423324579,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-06T07:57:22Z",
+                    "open_issues": 1,
+                    "owner": "XMUDeepLIT",
+                    "repo": "EvoMemState",
+                    "stars": 32,
+                    "topics": [
+                      "agent-memory",
+                      "memory-state",
+                      "personal-agent",
+                      "personal-memory"
+                    ]
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+                  "description": "yingtaoren/TRIO",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[EMNLP2026] TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+                    "homepage": "https://aclanthology.org/2026.findings-emnlp.937/",
+                    "id": 1351204152,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-02T09:28:54Z",
                     "open_issues": 0,
-                    "owner": "Hubert-1102",
-                    "repo": "FrameScout",
+                    "owner": "yingtaoren",
+                    "repo": "TRIO",
                     "stars": 2,
                     "topics": []
                   },
-                  "first_seen": "2026-10-23T08:43:17.185Z"
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention",
+                  "description": "ArjunKrishnak/dsa-multi-layer-indexer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Multi-layer Indexer (MLI): hide the DeepSeek Sparse Attention indexer behind attention in DeepSeek-V3.2 and GLM-5. No retraining, runs as an SGLang overlay. LCFM @ NeurIPS 2026.",
+                    "homepage": null,
+                    "id": 1442014280,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-04T13:47:31Z",
+                    "open_issues": 0,
+                    "owner": "ArjunKrishnak",
+                    "repo": "dsa-multi-layer-indexer",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.11.01]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: EarlySelectKV: Anticipatory KV Selection via Cross-Layer Query Proxies",
+                  "description": "sea-with-sakura/EarlySelectKV",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official implementation of EarlySelectKV, a training-free framework for anticipatory KV selection via cross-layer query proxies. Accepted to EMNLP 2026 Main Conference.",
+                    "homepage": null,
+                    "id": 1348342844,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-30T12:45:46Z",
+                    "open_issues": 0,
+                    "owner": "sea-with-sakura",
+                    "repo": "EarlySelectKV",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paper: Who Asks, Who Answers: Linear Attention Builds the Query in Hybrid Language Models",
+                  "description": "yuang-chen/LinearQuery",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1379475014,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-09T12:20:05Z",
+                    "open_issues": 0,
+                    "owner": "yuang-chen",
+                    "repo": "LinearQuery",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "[2026.10.31]",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper: DramaVQA: Probing Detailed Understanding of Ultra-Long TV Dramas",
+                  "description": "xinyuehuo/DramaVQA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1435541772,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-06T10:01:30Z",
+                    "open_issues": 0,
+                    "owner": "xinyuehuo",
+                    "repo": "DramaVQA",
+                    "stars": 17,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-13T11:20:00.465Z"
                 }
               ]
             }
@@ -401,6 +544,562 @@
           "children": [
             {
               "children": [
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.30]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+                      "description": "RISE-X-Lab/Agentic-Soft-Token",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Agentic Soft-Token Compression (ASTC): training-free in-model context compression for long-horizon LLM agents.",
+                        "homepage": null,
+                        "id": 1418588474,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-11-02T04:23:04Z",
+                        "open_issues": 0,
+                        "owner": "RISE-X-Lab",
+                        "repo": "Agentic-Soft-Token",
+                        "stars": 7,
+                        "topics": [
+                          "agentic-ai",
+                          "appworld",
+                          "context-compression",
+                          "llm-agents",
+                          "pytorch",
+                          "qwen",
+                          "soft-tokens"
+                        ]
+                      },
+                      "first_seen": "2026-11-13T11:20:00.465Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.28]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Dual DeltaNet: Value-Side Memory Reorganization for Linear Attention",
+                      "description": "ReichtumQian/DualDeltaNet",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1422892493,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-28T09:28:42Z",
+                        "open_issues": 0,
+                        "owner": "ReichtumQian",
+                        "repo": "DualDeltaNet",
+                        "stars": 1,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-13T11:20:00.465Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.27]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
+                      "description": "Dingyi-Kang/DeFT-RAG",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1434155749,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-11-02T21:16:32Z",
+                        "open_issues": 0,
+                        "owner": "Dingyi-Kang",
+                        "repo": "DeFT-RAG",
+                        "stars": 9,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-13T11:20:00.465Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.22]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering",
+                      "description": "beingamanforever/Mixing-Matters",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "[NeurIPS'2026] Position Bias in Mamba and Hybrid Language Models | Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering ",
+                        "homepage": "https://beingamanforever.github.io/Mixing-Matters/",
+                        "id": 1321701194,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-30T11:44:05Z",
+                        "open_issues": 0,
+                        "owner": "beingamanforever",
+                        "repo": "Mixing-Matters",
+                        "stars": 3,
+                        "topics": [
+                          "encodings",
+                          "llms",
+                          "mamba-3",
+                          "mamba-state-space-models",
+                          "position-bias",
+                          "transformers"
+                        ]
+                      },
+                      "first_seen": "2026-11-13T11:20:00.465Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Compact-Bench: Measuring What Context Compaction Costs Long-Horizon Coding Agents",
+                      "description": "cai-jianfeng/compact-bench",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1427037785,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-20T14:12:38Z",
+                        "open_issues": 0,
+                        "owner": "cai-jianfeng",
+                        "repo": "compact-bench",
+                        "stars": 1,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-13T11:20:00.465Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.21]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+                      "description": "zhennan1/LongZero",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official Implementation of \"LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data\"",
+                        "homepage": null,
+                        "id": 1427373020,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-22T07:59:48Z",
+                        "open_issues": 1,
+                        "owner": "zhennan1",
+                        "repo": "LongZero",
+                        "stars": 3,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
+                      "description": "thunlp/dont-stop-lccp",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Repository for Paper: Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
+                        "homepage": null,
+                        "id": 1427891050,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-22T07:44:09Z",
+                        "open_issues": 0,
+                        "owner": "thunlp",
+                        "repo": "dont-stop-lccp",
+                        "stars": 2,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.20]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Cache Engineering for Agents",
+                      "description": "thu-nics/AKV",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official implementation of paper \"Cache Engineering for Agents\"",
+                        "homepage": null,
+                        "id": 1393070475,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-21T06:04:52Z",
+                        "open_issues": 1,
+                        "owner": "thu-nics",
+                        "repo": "AKV",
+                        "stars": 180,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity",
+                      "description": "skylight-org/SSA-Paper-Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1430313657,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-22T21:58:10Z",
+                        "open_issues": 1,
+                        "owner": "skylight-org",
+                        "repo": "SSA-Paper-Code",
+                        "stars": 1,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-13T11:20:00.465Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.19]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+                      "description": "token-gate-llms/TokenGate",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Process all your context faster with LLMs that can skim and selectively read what matters",
+                        "homepage": "https://arxiv.org/abs/2610.26754 ",
+                        "id": 1425925617,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-11-13T04:33:34Z",
+                        "open_issues": 5,
+                        "owner": "token-gate-llms",
+                        "repo": "TokenGate",
+                        "stars": 115,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Kronecker Delta Rule for Long Context Linear Attention",
+                      "description": "NX-AI/KronLSTM",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Flash-linear-attention compatible KronLSTM model and kernels by NXAI.",
+                        "homepage": null,
+                        "id": 1425757357,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-20T05:17:34Z",
+                        "open_issues": 0,
+                        "owner": "NX-AI",
+                        "repo": "KronLSTM",
+                        "stars": 64,
+                        "topics": [
+                          "deep-learning",
+                          "delta-rule",
+                          "flash-linear-attention",
+                          "linear-attention",
+                          "long-context",
+                          "pytorch",
+                          "triton-kernels"
+                        ]
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.18]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering",
+                      "description": "debobanerjee/LC-EBG",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1252343519,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-08-22T15:20:32Z",
+                        "open_issues": 1,
+                        "owner": "debobanerjee",
+                        "repo": "LC-EBG",
+                        "stars": 0,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.16]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design",
+                      "description": "ifm-ai/xllm-loop",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official code for Towards Looped Models Done Right based on xLLM",
+                        "homepage": null,
+                        "id": 1392830255,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-21T19:34:08Z",
+                        "open_issues": 0,
+                        "owner": "ifm-ai",
+                        "repo": "xllm-loop",
+                        "stars": 66,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.15]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction",
+                      "description": "AozhongZhang/DropKV",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1386199962,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-22T15:27:32Z",
+                        "open_issues": 1,
+                        "owner": "AozhongZhang",
+                        "repo": "DropKV",
+                        "stars": 2,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.14]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: BizAgentBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
+                      "description": "ant-intl/BizAgentBench",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1418477513,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-20T09:50:54Z",
+                        "open_issues": 0,
+                        "owner": "ant-intl",
+                        "repo": "BizAgentBench",
+                        "stars": 125,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents",
+                      "description": "GuanghuiMin/sjc",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for paper \"Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents\"",
+                        "homepage": null,
+                        "id": 1414725755,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-10-11T20:30:02Z",
+                        "open_issues": 0,
+                        "owner": "GuanghuiMin",
+                        "repo": "sjc",
+                        "stars": 1,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Beyond State Capacity: Why Retrieval Breaks in Mamba",
+                      "description": "schwartz-lab-NLP/beyond_state_capacity",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Code for the paper \"Beyond State Capacity: Why Retrieval Breaks in Mamba\"",
+                        "homepage": null,
+                        "id": 1414119636,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-11T08:59:12Z",
+                        "open_issues": 0,
+                        "owner": "schwartz-lab-NLP",
+                        "repo": "beyond_state_capacity",
+                        "stars": 0,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "[2026.10.13]",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Paper: VideoJev: System One Model for Video Understanding and Interaction",
+                      "description": "MCG-NJU/VideoJev",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                        "homepage": null,
+                        "id": 1409542866,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-18T08:17:17Z",
+                        "open_issues": 0,
+                        "owner": "MCG-NJU",
+                        "repo": "VideoJev",
+                        "stars": 309,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+                      "description": "Ethannju/carryon",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Pack Light, CarryOn: object-oriented context for long-horizon agents",
+                        "homepage": null,
+                        "id": 1416432670,
+                        "language": null,
+                        "license": null,
+                        "last_commit": "2026-10-19T22:57:04Z",
+                        "open_issues": 1,
+                        "owner": "Ethannju",
+                        "repo": "carryon",
+                        "stars": 5,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+                      "description": "leoluolol/DoubtLess",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Training-free contrastive decoding for efficient LLM reasoning: shorter chain-of-thought (CoT), less overthinking, and fewer reasoning tokens.",
+                        "homepage": "https://arxiv.org/abs/2610.18862",
+                        "id": 1409880012,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-15T08:32:26Z",
+                        "open_issues": 0,
+                        "owner": "leoluolol",
+                        "repo": "DoubtLess",
+                        "stars": 3,
+                        "topics": [
+                          "chain-of-thought",
+                          "contrastive-decoding",
+                          "cot-compression",
+                          "efficient-reasoning",
+                          "overthinking",
+                          "reasoning-models",
+                          "training-free"
+                        ]
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Paper: FrameScout: Scouting Query-Relevant Frames for Long Video Understanding",
+                      "description": "Hubert-1102/FrameScout",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 1411201009,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-09T04:36:36Z",
+                        "open_issues": 0,
+                        "owner": "Hubert-1102",
+                        "repo": "FrameScout",
+                        "stars": 2,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-23T08:43:17.185Z"
+                    }
+                  ]
+                },
                 {
                   "node_type": "group",
                   "title": "[2026.10.12]",
@@ -422,7 +1121,7 @@
                         "open_issues": 0,
                         "owner": "ZelD0n",
                         "repo": "framepack-U",
-                        "stars": 15,
+                        "stars": 16,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -535,7 +1234,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 686,
+                        "stars": 722,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -673,7 +1372,7 @@
                         "open_issues": 2,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
-                        "stars": 108,
+                        "stars": 109,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -785,7 +1484,7 @@
                         "language": null,
                         "license": null,
                         "last_commit": "2026-09-30T10:32:02Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "Jianguo-Huang11",
                         "repo": "APM-Bench",
                         "stars": 8,
@@ -816,7 +1515,7 @@
                         "open_issues": 1,
                         "owner": "thu-nics",
                         "repo": "TaH",
-                        "stars": 113,
+                        "stars": 114,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1005,280 +1704,6 @@
                       "first_seen": "2026-10-23T08:43:17.185Z"
                     }
                   ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.13]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
-                      "description": "RUCAIBox/GDN-SpectralShift",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Megatron-LM patch for SpectralShift: extending Gated DeltaNet's effective context window via spectral reparameterization and learning-rate scaling.",
-                        "homepage": null,
-                        "id": 1362369865,
-                        "language": null,
-                        "license": "NOASSERTION",
-                        "last_commit": "2026-09-09T08:51:19Z",
-                        "open_issues": 1,
-                        "owner": "RUCAIBox",
-                        "repo": "GDN-SpectralShift",
-                        "stars": 6,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.11]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
-                      "description": "Tencent-Hunyuan/Simple-Attention-Sparsification",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[NeurIPS 2026] Code for our resarch paper \"SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking\"",
-                        "homepage": null,
-                        "id": 1364579837,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-09-14T08:44:26Z",
-                        "open_issues": 2,
-                        "owner": "Tencent-Hunyuan",
-                        "repo": "Simple-Attention-Sparsification",
-                        "stars": 69,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.07]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training",
-                      "description": "NVIDIA-NeMo/RL",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Scalable toolkit for efficient model reinforcement",
-                        "homepage": "https://docs.nvidia.com/nemo/rl/latest/index.html",
-                        "id": 949546994,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-11-12T09:41:04Z",
-                        "open_issues": 1408,
-                        "owner": "NVIDIA-NeMo",
-                        "repo": "RL",
-                        "stars": 2124,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Paper: On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing",
-                      "description": "yuvalko1/mamba-recall-scaling-laws",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing (NeurIPS 2026)",
-                        "homepage": "https://arxiv.org/abs/2609.07681",
-                        "id": 1358617717,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-10-18T01:52:05Z",
-                        "open_issues": 0,
-                        "owner": "yuvalko1",
-                        "repo": "mamba-recall-scaling-laws",
-                        "stars": 9,
-                        "topics": [
-                          "associative-recall",
-                          "mamba",
-                          "mechanistic-interpretability",
-                          "neurips-2026",
-                          "scaling-laws",
-                          "ssm",
-                          "state-space-models"
-                        ]
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.04]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
-                      "description": "aiha-lab/BeaconKV",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[ICML 2026] BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
-                        "homepage": null,
-                        "id": 1289756212,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-09-08T07:31:59Z",
-                        "open_issues": 1,
-                        "owner": "aiha-lab",
-                        "repo": "BeaconKV",
-                        "stars": 8,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.03]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
-                      "description": "SalesforceAIResearch/Random-Attention",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Code for the paper \"Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning\" https://arxiv.org/abs/2609.03430",
-                        "homepage": "https://arthur-heng.github.io/Random-Attention-page/",
-                        "id": 1347856439,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-09-04T01:34:07Z",
-                        "open_issues": 1,
-                        "owner": "SalesforceAIResearch",
-                        "repo": "Random-Attention",
-                        "stars": 75,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.02]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: Language Models Can Control Their Own Attention",
-                      "description": "itsnamgyu/declarative-attention",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Language Models Can Control Their Own Attention",
-                        "homepage": "https://arxiv.org/abs/2609.02737",
-                        "id": 1388971401,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2026-09-26T09:53:24Z",
-                        "open_issues": 0,
-                        "owner": "itsnamgyu",
-                        "repo": "declarative-attention",
-                        "stars": 14,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.09.01]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: LatentPress: Context Compression Beyond Text and Vision",
-                      "description": "HJSang/LatentPress",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "LatentPress: Context Compression Beyond Text and Vision (arXiv:2609.01507)",
-                        "homepage": null,
-                        "id": 1355399764,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2026-09-03T01:47:34Z",
-                        "open_issues": 0,
-                        "owner": "HJSang",
-                        "repo": "LatentPress",
-                        "stars": 6,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Paper: Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning",
-                      "description": "TonyQJH/cca-emnlp2026",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning — EMNLP 2026 Findings",
-                        "homepage": "https://openreview.net/forum?id=fkHzqnhdIY",
-                        "id": 1353115338,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-09-03T14:58:17Z",
-                        "open_issues": 1,
-                        "owner": "TonyQJH",
-                        "repo": "cca-emnlp2026",
-                        "stars": 0,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "[2026.08.28]",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Paper: ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
-                      "description": "Tencent/ContextPilot",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[EMNLP26] contextpilot: teaching agents for proactive context management via fine-grained rl",
-                        "homepage": "https://tencent.github.io/ContextPilot/",
-                        "id": 1347104725,
-                        "language": "Python",
-                        "license": "NOASSERTION",
-                        "last_commit": "2026-08-31T01:34:00Z",
-                        "open_issues": 1,
-                        "owner": "Tencent",
-                        "repo": "ContextPilot",
-                        "stars": 146,
-                        "topics": []
-                      },
-                      "first_seen": "2026-10-23T08:43:17.185Z"
-                    }
-                  ]
                 }
               ],
               "description": null,
@@ -1295,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T11:35:34.868Z",
+    "last_updated": "2026-11-13T11:20:00.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1303,7 +1728,7 @@
       "id": 692615119,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-26T07:23:05Z",
+      "last_commit": "2026-11-13T04:28:15Z",
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
@@ -1328,7 +1753,7 @@
         "transformer"
       ]
     },
-    "original_repository_sha": "3d95d174d5a93e88963362baf67d712771187a40",
+    "original_repository_sha": "c3b9ed7059db9d279966818dbca8484a8da02f8f",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Long-Context-Modeling",
     "enhanced_repository_description": null,
     "title": "Awesome Large Language Model Based Long Context Modeling Papers and Blogs with stars"
