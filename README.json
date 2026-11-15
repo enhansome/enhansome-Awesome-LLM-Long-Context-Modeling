@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "zOUMINGXI",
                     "repo": "MIGRO",
-                    "stars": 6,
+                    "stars": 13,
                     "topics": [
                       "agent-memory",
                       "ai-agents",
@@ -51,11 +51,11 @@
                     "id": 1452471128,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T22:54:19Z",
+                    "last_commit": "2026-11-14T20:51:04Z",
                     "open_issues": 0,
                     "owner": "jlab-nlp",
                     "repo": "parallel-prompting",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -160,7 +160,7 @@
                     "open_issues": 0,
                     "owner": "OpenBitSys",
                     "repo": "BitDecoding-FP4",
-                    "stars": 41,
+                    "stars": 44,
                     "topics": [
                       "cuda",
                       "kv-cache-quantization",
@@ -183,7 +183,7 @@
                     "id": 1437325149,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-11T19:25:32Z",
+                    "last_commit": "2026-11-14T16:35:40Z",
                     "open_issues": 0,
                     "owner": "FutureMLS-Lab",
                     "repo": "FOSCAR",
@@ -327,7 +327,7 @@
                     "open_issues": 2,
                     "owner": "THU-Agent",
                     "repo": "Coca-cola",
-                    "stars": 14,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -404,7 +404,7 @@
                     "open_issues": 1,
                     "owner": "XMUDeepLIT",
                     "repo": "EvoMemState",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "agent-memory",
                       "memory-state",
@@ -561,7 +561,7 @@
                         "id": 1418588474,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-02T04:23:04Z",
+                        "last_commit": "2026-11-15T09:23:19Z",
                         "open_issues": 0,
                         "owner": "RISE-X-Lab",
                         "repo": "Agentic-Soft-Token",
@@ -762,7 +762,7 @@
                         "open_issues": 1,
                         "owner": "thu-nics",
                         "repo": "AKV",
-                        "stars": 179,
+                        "stars": 180,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1234,7 +1234,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 745,
+                        "stars": 765,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -1372,7 +1372,7 @@
                         "open_issues": 2,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
-                        "stars": 109,
+                        "stars": 110,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:44:11.396Z",
+    "last_updated": "2026-11-15T11:18:55.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
