@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "zOUMINGXI",
                     "repo": "MIGRO",
-                    "stars": 13,
+                    "stars": 40,
                     "topics": [
                       "agent-memory",
                       "ai-agents",
@@ -55,7 +55,7 @@
                     "open_issues": 0,
                     "owner": "jlab-nlp",
                     "repo": "parallel-prompting",
-                    "stars": 1,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -160,7 +160,7 @@
                     "open_issues": 0,
                     "owner": "OpenBitSys",
                     "repo": "BitDecoding-FP4",
-                    "stars": 44,
+                    "stars": 47,
                     "topics": [
                       "cuda",
                       "kv-cache-quantization",
@@ -327,7 +327,7 @@
                     "open_issues": 2,
                     "owner": "THU-Agent",
                     "repo": "Coca-cola",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -404,7 +404,7 @@
                     "open_issues": 1,
                     "owner": "XMUDeepLIT",
                     "repo": "EvoMemState",
-                    "stars": 33,
+                    "stars": 35,
                     "topics": [
                       "agent-memory",
                       "memory-state",
@@ -448,7 +448,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-04T13:47:31Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "ArjunKrishnak",
                     "repo": "dsa-multi-layer-indexer",
                     "stars": 1,
@@ -525,7 +525,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-06T10:01:30Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "xinyuehuo",
                     "repo": "DramaVQA",
                     "stars": 17,
@@ -762,7 +762,7 @@
                         "open_issues": 1,
                         "owner": "thu-nics",
                         "repo": "AKV",
-                        "stars": 180,
+                        "stars": 181,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -807,8 +807,8 @@
                         "id": 1425925617,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-14T09:43:38Z",
-                        "open_issues": 2,
+                        "last_commit": "2026-11-16T10:58:42Z",
+                        "open_issues": 1,
                         "owner": "token-gate-llms",
                         "repo": "TokenGate",
                         "stars": 117,
@@ -1022,7 +1022,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 310,
+                        "stars": 311,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1234,7 +1234,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 765,
+                        "stars": 795,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -1284,7 +1284,7 @@
                         "id": 1101376568,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-13T15:06:43Z",
+                        "last_commit": "2026-11-16T06:48:42Z",
                         "open_issues": 1,
                         "owner": "Silent-Rain02",
                         "repo": "CogMem",
@@ -1344,7 +1344,7 @@
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 247,
+                        "stars": 248,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1668,7 +1668,7 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-09-11T22:10:59Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "UNCSciML",
                         "repo": "opd-eos",
                         "stars": 8,
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:18:55.834Z",
+    "last_updated": "2026-11-16T11:50:47.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
