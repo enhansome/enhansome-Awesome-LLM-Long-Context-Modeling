@@ -26,7 +26,7 @@
                     "open_issues": 1,
                     "owner": "zOUMINGXI",
                     "repo": "MIGRO",
-                    "stars": 57,
+                    "stars": 109,
                     "topics": [
                       "agent-memory",
                       "ai-agents",
@@ -111,7 +111,7 @@
                     "open_issues": 0,
                     "owner": "epsilon-prime",
                     "repo": "verifiedKV",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -160,7 +160,7 @@
                     "open_issues": 0,
                     "owner": "OpenBitSys",
                     "repo": "BitDecoding-FP4",
-                    "stars": 52,
+                    "stars": 54,
                     "topics": [
                       "cuda",
                       "kv-cache-quantization",
@@ -327,7 +327,7 @@
                     "open_issues": 2,
                     "owner": "THU-Agent",
                     "repo": "Coca-cola",
-                    "stars": 17,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -896,7 +896,7 @@
                         "open_issues": 0,
                         "owner": "ifm-ai",
                         "repo": "xllm-loop",
-                        "stars": 66,
+                        "stars": 67,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1022,7 +1022,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 314,
+                        "stars": 315,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1234,7 +1234,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 832,
+                        "stars": 850,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -1583,7 +1583,7 @@
                         "id": 1393761069,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-30T14:12:09Z",
+                        "last_commit": "2026-11-18T14:54:45Z",
                         "open_issues": 1,
                         "owner": "anasiri",
                         "repo": "frac-ssm",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T11:59:55.749Z",
+    "last_updated": "2026-11-19T11:57:05.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
