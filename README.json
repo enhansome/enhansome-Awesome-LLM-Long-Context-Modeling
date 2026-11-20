@@ -26,7 +26,7 @@
                     "open_issues": 1,
                     "owner": "zOUMINGXI",
                     "repo": "MIGRO",
-                    "stars": 109,
+                    "stars": 110,
                     "topics": [
                       "agent-memory",
                       "ai-agents",
@@ -55,7 +55,7 @@
                     "open_issues": 0,
                     "owner": "jlab-nlp",
                     "repo": "parallel-prompting",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -160,7 +160,7 @@
                     "open_issues": 0,
                     "owner": "OpenBitSys",
                     "repo": "BitDecoding-FP4",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": [
                       "cuda",
                       "kv-cache-quantization",
@@ -269,7 +269,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "ConvPE improves Transformer performance and efficiency in language modeling, long-context extension, and vision.",
+                    "description": "Convolutional Position Embedding improves Transformer performance and efficiency in language modeling, long-context extension, and vision.",
                     "homepage": null,
                     "id": 1420426068,
                     "language": "Jupyter Notebook",
@@ -762,7 +762,7 @@
                         "open_issues": 1,
                         "owner": "thu-nics",
                         "repo": "AKV",
-                        "stars": 184,
+                        "stars": 185,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -952,7 +952,7 @@
                         "open_issues": 0,
                         "owner": "ant-intl",
                         "repo": "BizAgentBench",
-                        "stars": 125,
+                        "stars": 131,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1022,7 +1022,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 315,
+                        "stars": 317,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1043,7 +1043,7 @@
                         "open_issues": 1,
                         "owner": "Ethannju",
                         "repo": "carryon",
-                        "stars": 5,
+                        "stars": 6,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1234,7 +1234,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 850,
+                        "stars": 863,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -1340,11 +1340,11 @@
                         "id": 1397885809,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T16:22:17Z",
+                        "last_commit": "2026-11-19T15:52:07Z",
                         "open_issues": 5,
                         "owner": "MCG-NJU",
                         "repo": "OneStreamer",
-                        "stars": 247,
+                        "stars": 248,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1466,7 +1466,7 @@
                         "open_issues": 1,
                         "owner": "OliverSieberling",
                         "repo": "TriadicLinearAttention",
-                        "stars": 17,
+                        "stars": 18,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1584,10 +1584,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-18T14:54:45Z",
-                        "open_issues": 1,
+                        "open_issues": 2,
                         "owner": "anasiri",
                         "repo": "frac-ssm",
-                        "stars": 5,
+                        "stars": 6,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:57:05.901Z",
+    "last_updated": "2026-11-20T11:58:06.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
@@ -1732,7 +1732,7 @@
       "open_issues": 0,
       "owner": "Xnhyacinth",
       "repo": "Awesome-LLM-Long-Context-Modeling",
-      "stars": 2193,
+      "stars": 2191,
       "topics": [
         "agent",
         "awsome-list",
