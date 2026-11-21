@@ -110,7 +110,7 @@ If you find our repository and survey useful for your research, please consider 
 ### Week Papers
 
 * **\[2026.11.11]**
-  * Paper: [MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models](https://arxiv.org/abs/2611.15315) [![GitHub Repo stars](https://img.shields.io/github/stars/zOUMINGXI/MIGRO)](https://github.com/zOUMINGXI/MIGRO) ⭐ 110 | 🐛 1 | 🌐 Python | 📅 2026-11-17
+  * Paper: [MIGRO: A Decoupled and Portable Long-Term Memory System for Language Models](https://arxiv.org/abs/2611.15315) [![GitHub Repo stars](https://img.shields.io/github/stars/zOUMINGXI/MIGRO)](https://github.com/zOUMINGXI/MIGRO) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2026-11-17
   * Paper: [Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference](https://arxiv.org/abs/2611.15130) [![GitHub Repo stars](https://img.shields.io/github/stars/jlab-nlp/parallel-prompting)](https://github.com/jlab-nlp/parallel-prompting) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-14 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://jlab-nlp.github.io/parallel-prompting/)
   * Paper: [Mask-Pattern Position Augmentation: Training-Free Long-Context Extrapolation for Diffusion LLMs](https://arxiv.org/abs/2611.15029)
   * Paper: [Recompute or Restore? Host-Tier KV for Multi-Model Agent Workflows on a Static-Graph NPU Serving Stack](https://arxiv.org/abs/2611.15126)
@@ -139,7 +139,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [LongCapHarness: Capability-Guided Auto-Harnessing for Long-Context Reasoning](https://arxiv.org/abs/2611.10463)
 
 * **\[2026.11.06]**
-  * Paper: [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://arxiv.org/abs/2611.09825) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenBitSys/BitDecoding-FP4)](https://github.com/OpenBitSys/BitDecoding-FP4) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-11-09
+  * Paper: [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](https://arxiv.org/abs/2611.09825) [![GitHub Repo stars](https://img.shields.io/github/stars/OpenBitSys/BitDecoding-FP4)](https://github.com/OpenBitSys/BitDecoding-FP4) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2026-11-09
   * Paper: [FOSCAR: Accelerating Decode Attention over 2- and 4-Bit KV Caches through Affine Folding](https://arxiv.org/abs/2611.09722) [![GitHub Repo stars](https://img.shields.io/github/stars/FutureMLS-Lab/FOSCAR)](https://github.com/FutureMLS-Lab/FOSCAR) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-14
   * Paper: [DARIC: A Position-Independent KV Cache Reuse System with Distribution-Aware Recomputation](https://arxiv.org/abs/2611.09109) [![GitHub Repo stars](https://img.shields.io/github/stars/Lenovo-ICI/DARIC)](https://github.com/Lenovo-ICI/DARIC) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-11-09
   * Paper: [Query-Guided RoPE Modulation for Lost-in-the-Middle Mitigation in Long-Context LLMs](https://arxiv.org/abs/2611.09554) [![GitHub Repo stars](https://img.shields.io/github/stars/iZHpy/QGPM)](https://github.com/iZHpy/QGPM) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-06
@@ -314,7 +314,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization](https://arxiv.org/abs/2610.14448)
 
 * **\[2026.10.09]**
-  * Paper: [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory) ⭐ 863 | 🐛 2 | 🌐 Python | 📅 2026-11-09
+  * Paper: [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory) ⭐ 795 | 🐛 2 | 🌐 Python | 📅 2026-11-09
   * Paper: [Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models](https://arxiv.org/abs/2610.13570)
 
 * **\[2026.10.08]**
@@ -346,7 +346,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [How Much Can Language Models Gain from Test-Time Computation?](https://arxiv.org/abs/2610.01110)
 
 * **\[2026.09.30]**
-  * Paper: [SparseEngine: Sparse-First Inference Engine](https://arxiv.org/abs/2609.39068) [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine) ⭐ 110 | 🐛 2 | 🌐 Python | 📅 2026-11-11
+  * Paper: [SparseEngine: Sparse-First Inference Engine](https://arxiv.org/abs/2609.39068) [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine) ⭐ 110 | 🐛 3 | 🌐 Python | 📅 2026-11-11
   * Paper: [Switching Linear Attention](https://arxiv.org/abs/2609.39034) [![GitHub Repo stars](https://img.shields.io/github/stars/lindermanlab/switching-linear-attention)](https://github.com/lindermanlab/switching-linear-attention) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-05
   * Paper: [ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality](https://arxiv.org/abs/2610.00710) [![GitHub Repo stars](https://img.shields.io/github/stars/SaharaLabsAI/ReLiveGym)](https://github.com/SaharaLabsAI/ReLiveGym) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-30
   * Paper: [RoPE at the End of Its Rope? Theory, Diagnosis, and Mitigation of Long-Context Failures](https://arxiv.org/abs/2609.39929)
@@ -477,4 +477,4 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

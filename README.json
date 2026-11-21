@@ -26,7 +26,7 @@
                     "open_issues": 1,
                     "owner": "zOUMINGXI",
                     "repo": "MIGRO",
-                    "stars": 110,
+                    "stars": 46,
                     "topics": [
                       "agent-memory",
                       "ai-agents",
@@ -160,7 +160,7 @@
                     "open_issues": 0,
                     "owner": "OpenBitSys",
                     "repo": "BitDecoding-FP4",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": [
                       "cuda",
                       "kv-cache-quantization",
@@ -1234,7 +1234,7 @@
                         "open_issues": 2,
                         "owner": "fudan-generative-vision",
                         "repo": "Remory",
-                        "stars": 863,
+                        "stars": 795,
                         "topics": [
                           "context-compaction",
                           "inference",
@@ -1369,7 +1369,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-11T10:46:29Z",
-                        "open_issues": 2,
+                        "open_issues": 3,
                         "owner": "CURRENTF",
                         "repo": "SparseEngine",
                         "stars": 110,
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:58:06.214Z",
+    "last_updated": "2026-11-21T11:30:33.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
