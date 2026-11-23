@@ -26,7 +26,7 @@
                     "open_issues": 1,
                     "owner": "zOUMINGXI",
                     "repo": "MIGRO",
-                    "stars": 56,
+                    "stars": 117,
                     "topics": [
                       "agent-memory",
                       "ai-agents",
@@ -160,7 +160,7 @@
                     "open_issues": 0,
                     "owner": "OpenBitSys",
                     "repo": "BitDecoding-FP4",
-                    "stars": 58,
+                    "stars": 60,
                     "topics": [
                       "cuda",
                       "kv-cache-quantization",
@@ -327,7 +327,7 @@
                     "open_issues": 2,
                     "owner": "THU-Agent",
                     "repo": "Coca-cola",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-11-13T11:20:00.465Z"
@@ -524,8 +524,8 @@
                     "id": 1435541772,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T01:57:25Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-23T11:52:49Z",
+                    "open_issues": 0,
                     "owner": "xinyuehuo",
                     "repo": "DramaVQA",
                     "stars": 17,
@@ -952,7 +952,7 @@
                         "open_issues": 0,
                         "owner": "ant-intl",
                         "repo": "BizAgentBench",
-                        "stars": 131,
+                        "stars": 137,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1022,7 +1022,7 @@
                         "open_issues": 0,
                         "owner": "MCG-NJU",
                         "repo": "VideoJev",
-                        "stars": 317,
+                        "stars": 318,
                         "topics": []
                       },
                       "first_seen": "2026-10-23T08:43:17.185Z"
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T11:45:04.427Z",
+    "last_updated": "2026-11-23T13:23:21.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥",
