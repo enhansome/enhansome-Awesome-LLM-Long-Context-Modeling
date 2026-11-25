@@ -31,7 +31,7 @@ This repository curates papers and blogs on long-context language modeling, cove
 
 🔥⚡🔥 Thanks for all the great contributors on GitHub!
 
-🚀🤝🚀 I have the privilege of joining \[**LCLM-Horizon**] and collaborating with them on providing a very complete and comprehensive scholarly survey ([A Comprehensive Survey on Long Context Language Modeling](https://arxiv.org/abs/2503.17407)) and repository ([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling) ⭐ 258 | 🐛 0 | 📅 2026-10-24) dedicated to **Long Context Language Modeling**. I look forward to collaborating with them to advance research and deepen understanding in this area!
+🚀🤝🚀 I have the privilege of joining \[**LCLM-Horizon**] and collaborating with them on providing a very complete and comprehensive scholarly survey ([A Comprehensive Survey on Long Context Language Modeling](https://arxiv.org/abs/2503.17407)) and repository ([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling) ⭐ 257 | 🐛 0 | 📅 2026-10-24) dedicated to **Long Context Language Modeling**. I look forward to collaborating with them to advance research and deepen understanding in this area!
 
 <!--Thanks to [**LCLM-Horizon**]\([A-Comprehensive-Survey-For-Long-Context-Language-Modeling](https://github.com/LCLM-Horizon/A-Comprehensive-Survey-For-Long-Context-Language-Modeling)\) for providing a very complete and comprehensive scholarly survey \([A Comprehensive Survey on Long Context Language Modeling]()\) of the field of Long Context Language Modeling. I have joined them and we will collaborate to further research and understanding in this area!-->
 
@@ -154,7 +154,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [AutoCompress: Automated Hardware-Guided Model Compression](https://arxiv.org/abs/2611.08290)
 
 * **\[2026.11.04]**
-  * Paper: [Tools Need Not Speak in Text: Latent Context Compression for Agents](https://arxiv.org/abs/2611.06500) [![GitHub Repo stars](https://img.shields.io/github/stars/THU-Agent/Coca-cola)](https://github.com/THU-Agent/Coca-cola) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-11-04
+  * Paper: [Tools Need Not Speak in Text: Latent Context Compression for Agents](https://arxiv.org/abs/2611.06500) [![GitHub Repo stars](https://img.shields.io/github/stars/THU-Agent/Coca-cola)](https://github.com/THU-Agent/Coca-cola) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2026-11-04
   * Paper: [TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization](https://arxiv.org/abs/2611.07217) [![GitHub Repo stars](https://img.shields.io/github/stars/HanzhiZhang-Ulrica/TileQuant)](https://github.com/HanzhiZhang-Ulrica/TileQuant) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-12
   * Paper: [Recursive Sparse Attention: Million-Token Length Extrapolation at Logarithmic Cost](https://arxiv.org/abs/2611.07232)
   * Paper: [EchoKV: Self-Corrective KV Cache Eviction via Iterative Query Feedback](https://arxiv.org/abs/2611.05903)
@@ -174,7 +174,7 @@ If you find our repository and survey useful for your research, please consider 
 * **\[2026.11.02]**
   * Paper: [EvoMemState: Evolving Memory State for Personal Agents](https://arxiv.org/abs/2611.03743) [![GitHub Repo stars](https://img.shields.io/github/stars/XMUDeepLIT/EvoMemState)](https://github.com/XMUDeepLIT/EvoMemState) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-11-06
   * Paper: [TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2611.02810) [![GitHub Repo stars](https://img.shields.io/github/stars/yingtaoren/TRIO)](https://github.com/yingtaoren/TRIO) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-02
-  * Paper: [Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention](https://arxiv.org/abs/2611.03768) [![GitHub Repo stars](https://img.shields.io/github/stars/ArjunKrishnak/dsa-multi-layer-indexer)](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+  * Paper: [Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention](https://arxiv.org/abs/2611.03768) [![GitHub Repo stars](https://img.shields.io/github/stars/ArjunKrishnak/dsa-multi-layer-indexer)](https://github.com/ArjunKrishnak/dsa-multi-layer-indexer) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-25
   * Paper: [Dory1.0-4B: A Looped Normalized-GPT](https://arxiv.org/abs/2611.03998)
   * Paper: [Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost](https://arxiv.org/abs/2611.03852)
   * Paper: [SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding](https://arxiv.org/abs/2611.02846)
@@ -198,7 +198,7 @@ If you find our repository and survey useful for your research, please consider 
 <details><summary>Month Papers</summary>
 
 * **\[2026.10.30]**
-  * Paper: [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](https://arxiv.org/abs/2610.41291) [![GitHub Repo stars](https://img.shields.io/github/stars/RISE-X-Lab/Agentic-Soft-Token)](https://github.com/RISE-X-Lab/Agentic-Soft-Token) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-11-15
+  * Paper: [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](https://arxiv.org/abs/2610.41291) [![GitHub Repo stars](https://img.shields.io/github/stars/RISE-X-Lab/Agentic-Soft-Token)](https://github.com/RISE-X-Lab/Agentic-Soft-Token) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-11-15
   * Paper: [Subquadratic Attention with a Hierarchical Tree-Structured Indexer](https://arxiv.org/abs/2610.42112)
   * Paper: [Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/abs/2610.42147)
   * Paper: [Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention](https://arxiv.org/abs/2610.41850)
@@ -276,7 +276,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory](https://arxiv.org/abs/2610.24520)
 
 * **\[2026.10.16]**
-  * Paper: [Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design](https://arxiv.org/abs/2610.23036) [![GitHub Repo stars](https://img.shields.io/github/stars/ifm-ai/xllm-loop)](https://github.com/ifm-ai/xllm-loop) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-10-21
+  * Paper: [Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design](https://arxiv.org/abs/2610.23036) [![GitHub Repo stars](https://img.shields.io/github/stars/ifm-ai/xllm-loop)](https://github.com/ifm-ai/xllm-loop) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2026-10-21
   * Paper: [DLite: History-free Speculative Decoding for Agentic AI](https://arxiv.org/abs/2610.23787)
 
 * **\[2026.10.15]**
@@ -287,7 +287,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models](https://arxiv.org/abs/2610.21165)
 
 * **\[2026.10.14]**
-  * Paper: [BizAgentBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business](https://arxiv.org/abs/2610.20424) [![GitHub Repo stars](https://img.shields.io/github/stars/ant-intl/BizAgentBench)](https://github.com/ant-intl/BizAgentBench) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2026-10-20
+  * Paper: [BizAgentBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business](https://arxiv.org/abs/2610.20424) [![GitHub Repo stars](https://img.shields.io/github/stars/ant-intl/BizAgentBench)](https://github.com/ant-intl/BizAgentBench) ⭐ 158 | 🐛 0 | 🌐 Python | 📅 2026-10-20
   * Paper: [Prune the Summary, Not the History: Source-Judged Compaction for Long-Horizon Agents](https://arxiv.org/abs/2610.20927) [![GitHub Repo stars](https://img.shields.io/github/stars/GuanghuiMin/sjc)](https://github.com/GuanghuiMin/sjc) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-11
   * Paper: [Beyond State Capacity: Why Retrieval Breaks in Mamba](https://arxiv.org/abs/2610.19709) [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/beyond_state_capacity)](https://github.com/schwartz-lab-NLP/beyond_state_capacity) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-11
   * Paper: [DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding](https://arxiv.org/abs/2610.19849)
@@ -314,7 +314,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization](https://arxiv.org/abs/2610.14448)
 
 * **\[2026.10.09]**
-  * Paper: [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory) ⭐ 809 | 🐛 2 | 🌐 Python | 📅 2026-11-24
+  * Paper: [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) [![GitHub Repo stars](https://img.shields.io/github/stars/1ring2rta/Remory)](https://github.com/1ring2rta/Remory) ⭐ 810 | 🐛 2 | 🌐 Python | 📅 2026-11-25
   * Paper: [Constructing Pareto Frontiers of Optimal Reasoning Termination Methods for Overthinking in Reasoning Models](https://arxiv.org/abs/2610.13570)
 
 * **\[2026.10.08]**
@@ -335,18 +335,18 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Behavior-Preserving KV Cache Compression](https://arxiv.org/abs/2610.06479)
 
 * **\[2026.10.03]**
-  * Paper: [WavePrune: One period is often enough for RoPE](https://arxiv.org/abs/2610.06963) [![GitHub Repo stars](https://img.shields.io/github/stars/ducatiqwq/WavePrune)](https://github.com/ducatiqwq/WavePrune) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2026-08-13
+  * Paper: [WavePrune: One period is often enough for RoPE](https://arxiv.org/abs/2610.06963) [![GitHub Repo stars](https://img.shields.io/github/stars/ducatiqwq/WavePrune)](https://github.com/ducatiqwq/WavePrune) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-08-13
   * Paper: [Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](https://arxiv.org/abs/2610.04318)
 
 * **\[2026.10.02]**
   * Paper: [LongSocialBench: Do Long-Context LLMs Understand Online Discussion Threads?](https://arxiv.org/abs/2610.04118)
 
 * **\[2026.10.01]**
-  * Paper: [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer)](https://github.com/MCG-NJU/OneStreamer) ⭐ 248 | 🐛 5 | 🌐 Python | 📅 2026-11-19 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
+  * Paper: [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![GitHub Repo stars](https://img.shields.io/github/stars/MCG-NJU/OneStreamer)](https://github.com/MCG-NJU/OneStreamer) ⭐ 249 | 🐛 5 | 🌐 Python | 📅 2026-11-19 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://mcg-nju.github.io/OneStreamer/)
   * Paper: [How Much Can Language Models Gain from Test-Time Computation?](https://arxiv.org/abs/2610.01110)
 
 * **\[2026.09.30]**
-  * Paper: [SparseEngine: Sparse-First Inference Engine](https://arxiv.org/abs/2609.39068) [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine) ⭐ 111 | 🐛 3 | 🌐 Python | 📅 2026-11-11
+  * Paper: [SparseEngine: Sparse-First Inference Engine](https://arxiv.org/abs/2609.39068) [![GitHub Repo stars](https://img.shields.io/github/stars/CURRENTF/SparseEngine)](https://github.com/CURRENTF/SparseEngine) ⭐ 112 | 🐛 3 | 🌐 Python | 📅 2026-11-11
   * Paper: [Switching Linear Attention](https://arxiv.org/abs/2609.39034) [![GitHub Repo stars](https://img.shields.io/github/stars/lindermanlab/switching-linear-attention)](https://github.com/lindermanlab/switching-linear-attention) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-05
   * Paper: [ReLiveGym: Evaluating Long-Lived Agents over Weeks of Replayed Reality](https://arxiv.org/abs/2610.00710) [![GitHub Repo stars](https://img.shields.io/github/stars/SaharaLabsAI/ReLiveGym)](https://github.com/SaharaLabsAI/ReLiveGym) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-30
   * Paper: [RoPE at the End of Its Rope? Theory, Diagnosis, and Mitigation of Long-Context Failures](https://arxiv.org/abs/2609.39929)
@@ -362,7 +362,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [VideoLoop: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents](https://arxiv.org/abs/2609.38119)
 
 * **\[2026.09.28]**
-  * Paper: [Improving Test-Time Scaling with Adaptive Looped Transformers](https://arxiv.org/abs/2609.35748) [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/TaH)](https://github.com/thu-nics/TaH) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2026-10-09 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://fuvty.github.io/thinking_yard_project_page/projects/tah2/)
+  * Paper: [Improving Test-Time Scaling with Adaptive Looped Transformers](https://arxiv.org/abs/2609.35748) [![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/TaH)](https://github.com/thu-nics/TaH) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2026-10-09 [![Static Badge](https://img.shields.io/badge/Homepage-blue)](https://fuvty.github.io/thinking_yard_project_page/projects/tah2/)
   * Paper: [Scaling Long-Form Story Generation via Narrative State Tracking](https://arxiv.org/abs/2609.35759) [![GitHub Repo stars](https://img.shields.io/github/stars/zhennan1/NstAgent)](https://github.com/zhennan1/NstAgent) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-20
   * Paper: [Beyond Selection: Token Parameterization for Extreme Visual Token Compression](https://arxiv.org/abs/2609.35232) [![GitHub Repo stars](https://img.shields.io/github/stars/zrrraa/Braco)](https://github.com/zrrraa/Braco) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-10-13
   * Paper: [Fractional State Space Transition for Long Sequence Modeling](https://arxiv.org/abs/2609.36314) [![GitHub Repo stars](https://img.shields.io/github/stars/anasiri/frac-ssm)](https://github.com/anasiri/frac-ssm) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2026-11-18
@@ -387,7 +387,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling](https://arxiv.org/abs/2609.27294)
 
 * **\[2026.09.22]**
-  * Paper: [Knowledge Pull Requests for Continual Document Authoring](https://arxiv.org/abs/2609.26634) [![GitHub Repo stars](https://img.shields.io/github/stars/alexmartin1722/kpr)](https://github.com/alexmartin1722/kpr) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-23
+  * Paper: [Knowledge Pull Requests for Continual Document Authoring](https://arxiv.org/abs/2609.26634) [![GitHub Repo stars](https://img.shields.io/github/stars/alexmartin1722/kpr)](https://github.com/alexmartin1722/kpr) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-09-23
   * Paper: [Compressing Long Context into Answer-Aligned Memory Embeddings for LLM Inference](https://arxiv.org/abs/2609.25537)
   * Paper: [CompKV: Compensation-Aware KV Selection for Long-Context LLM Inference](https://arxiv.org/abs/2609.26300)
   * Paper: [Qwen3.8-Omni: Towards Native Omni-Modal Agents](https://arxiv.org/abs/2609.25611)
@@ -402,7 +402,7 @@ If you find our repository and survey useful for your research, please consider 
   * Paper: [Global Ranks Survive, Selected Heads Shift: BOS-Sink Topology under 4-bit Weight-Only Quantization](https://arxiv.org/abs/2609.23585)
 
 * **\[2026.09.17]**
-  * Paper: [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://arxiv.org/abs/2609.20511) [![GitHub Repo stars](https://img.shields.io/github/stars/UNCSciML/opd-eos)](https://github.com/UNCSciML/opd-eos) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-09-11
+  * Paper: [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://arxiv.org/abs/2609.20511) [![GitHub Repo stars](https://img.shields.io/github/stars/UNCSciML/opd-eos)](https://github.com/UNCSciML/opd-eos) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-11-25
   * Paper: [When2Think: Learning When and How Much to Reason](https://arxiv.org/abs/2609.19671) [![GitHub Repo stars](https://img.shields.io/github/stars/JJunShim/When2Think)](https://github.com/JJunShim/When2Think) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-07
   * Paper: [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://arxiv.org/abs/2609.19969)
 
@@ -477,4 +477,4 @@ Please contact me if I miss your names in the list, I will add you back ASAP!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
